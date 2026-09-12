@@ -1,0 +1,586 @@
+{
+ "title": "The p(doom) database",
+ "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
+ "license": "CC-BY-4.0",
+ "updated": "2026-09-12",
+ "count": 28,
+ "entries": [
+  {
+   "name": "Roman Yampolskiy",
+   "role": "AI safety researcher, University of Louisville",
+   "org": null,
+   "low": 99.999999,
+   "high": 99.999999,
+   "label": "99.999999%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": "I am at 99.999999%",
+   "source_url": "https://x.com/romanyam/status/1767575356155027503",
+   "source_type": "x",
+   "date": "2024-03-12",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "safety"
+   ],
+   "note": null,
+   "id": 1
+  },
+  {
+   "name": "Eliezer Yudkowsky",
+   "role": "Founder, MIRI",
+   "org": null,
+   "low": 95,
+   "high": 100,
+   "label": ">95%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://www.fastcompany.com/90994526/pdoom-explained-how-to-calculate-your-score-on-ai-apocalypse-metric",
+   "source_type": "article",
+   "date": "2023-12-01",
+   "verified": false,
+   "tags": [
+    "researcher",
+    "safety"
+   ],
+   "note": null,
+   "id": 2
+  },
+  {
+   "name": "Dan Hendrycks",
+   "role": "Director, Center for AI Safety",
+   "org": null,
+   "low": 80,
+   "high": 100,
+   "label": ">80%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://twitter.com/DanHendrycks/status/1642394635657162753",
+   "source_type": "x",
+   "date": "2023-04-02",
+   "verified": false,
+   "tags": [
+    "researcher",
+    "safety"
+   ],
+   "note": null,
+   "id": 3
+  },
+  {
+   "name": "Daniel Kokotajlo",
+   "role": "Forecaster, former OpenAI",
+   "org": null,
+   "low": 70,
+   "high": 70,
+   "label": "70%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://www.lesswrong.com/posts/xDkdR6JcQsCdnFpaQ/adumbrations-on-agi-from-an-outsider?commentId=sHnfPe5pHJhjJuCWW",
+   "source_type": "forum",
+   "date": null,
+   "verified": false,
+   "tags": [
+    "forecaster",
+    "ex-lab"
+   ],
+   "note": null,
+   "id": 4
+  },
+  {
+   "name": "Zvi Mowshowitz",
+   "role": "AI writer, Don't Worry About the Vase",
+   "org": null,
+   "low": 60,
+   "high": 60,
+   "label": "60%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://x.com/liron/status/1729274710670893262",
+   "source_type": "x",
+   "date": "2023-11-27",
+   "verified": false,
+   "tags": [
+    "writer"
+   ],
+   "note": null,
+   "id": 5
+  },
+  {
+   "name": "David Krueger",
+   "role": "Professor, Mila",
+   "org": null,
+   "low": 50,
+   "high": 100,
+   "label": ">50%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": "I think that's more likely than not.",
+   "source_url": "https://www.newsnationnow.com/business/tech/ai/ai-professor-warns-humans-may-lose-control/",
+   "source_type": "article",
+   "date": "2026-09-10",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "academic"
+   ],
+   "note": null,
+   "id": 6
+  },
+  {
+   "name": "Liron Shapira",
+   "role": "Host, Doom Debates",
+   "org": null,
+   "low": 50,
+   "high": 50,
+   "label": "50%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://lironshapira.substack.com/p/debate-with-roman-yampolskiy-50-vs",
+   "source_type": "article",
+   "date": "2024-09-06",
+   "verified": false,
+   "tags": [
+    "podcaster"
+   ],
+   "note": null,
+   "id": 7
+  },
+  {
+   "name": "Emad Mostaque",
+   "role": "Founder, Stability AI",
+   "org": null,
+   "low": 50,
+   "high": 50,
+   "label": "50%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://x.com/EMostaque/status/1864266899170767105",
+   "source_type": "x",
+   "date": "2024-12-04",
+   "verified": false,
+   "tags": [
+    "founder"
+   ],
+   "note": null,
+   "id": 8
+  },
+  {
+   "name": "Paul Christiano",
+   "role": "Former head of safety, US CAISI; founded ARC",
+   "org": null,
+   "low": 46,
+   "high": 46,
+   "label": "46%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://www.lesswrong.com/posts/xWMqsvHapP3nwdSW8/my-views-on-doom",
+   "source_type": "forum",
+   "date": "2023-04-27",
+   "verified": false,
+   "tags": [
+    "researcher",
+    "safety",
+    "ex-lab"
+   ],
+   "note": null,
+   "id": 9
+  },
+  {
+   "name": "Holden Karnofsky",
+   "role": "Co-founder, Open Philanthropy",
+   "org": null,
+   "low": 10,
+   "high": 90,
+   "label": "10–90%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://www.alignmentforum.org/posts/rCJQAkPTEypGjSJ8X/how-might-we-align-transformative-ai-if-it-s-developed-very#So__would_civilization_survive_",
+   "source_type": "forum",
+   "date": null,
+   "verified": false,
+   "tags": [
+    "funder"
+   ],
+   "note": null,
+   "id": 10
+  },
+  {
+   "name": "Jan Leike",
+   "role": "Former alignment lead, OpenAI; Anthropic",
+   "org": null,
+   "low": 10,
+   "high": 90,
+   "label": "10–90%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://www.youtube.com/watch?v=ZP_N4q5U3eE&t=1h16m",
+   "source_type": "podcast",
+   "date": null,
+   "verified": false,
+   "tags": [
+    "researcher",
+    "safety",
+    "lab"
+   ],
+   "note": null,
+   "id": 11
+  },
+  {
+   "name": "Joep Meindertsma",
+   "role": "Founder, PauseAI",
+   "org": null,
+   "low": 40,
+   "high": 40,
+   "label": "40%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://www.nrc.nl/nieuws/2024/02/16/ai-doomers-zijn-doodsbang-voor-de-computer-ai-zal-proberen-de-macht-over-te-nemen-a4190130",
+   "source_type": "article",
+   "date": "2024-02-16",
+   "verified": false,
+   "tags": [
+    "advocate"
+   ],
+   "note": null,
+   "id": 12
+  },
+  {
+   "name": "Eli Lifland",
+   "role": "Forecaster, AI Futures Project",
+   "org": null,
+   "low": 35,
+   "high": 35,
+   "label": "35%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://forum.effectivealtruism.org/posts/QeLE22fefLqKfYTW6/eli-lifland-on-navigating-the-ai-alignment-landscape",
+   "source_type": "forum",
+   "date": null,
+   "verified": false,
+   "tags": [
+    "forecaster"
+   ],
+   "note": null,
+   "id": 13
+  },
+  {
+   "name": "Scott Alexander",
+   "role": "Writer, Astral Codex Ten",
+   "org": null,
+   "low": 33,
+   "high": 33,
+   "label": "33%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://astralcodexten.substack.com/p/why-i-am-not-as-much-of-a-doomer",
+   "source_type": "article",
+   "date": "2023-03-14",
+   "verified": false,
+   "tags": [
+    "writer"
+   ],
+   "note": null,
+   "id": 14
+  },
+  {
+   "name": "AI safety researchers (survey, n=44)",
+   "role": "Mean, 2021 Alignment Forum survey",
+   "org": null,
+   "low": 30,
+   "high": 30,
+   "label": "30% (mean)",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://web.archive.org/web/20221013014859/https://www.alignmentforum.org/posts/QvwSr5LsxyDeaPK5s/existential-risk-from-ai-survey-results",
+   "source_type": "survey",
+   "date": "2021-06-01",
+   "verified": false,
+   "tags": [
+    "survey"
+   ],
+   "note": null,
+   "id": 15
+  },
+  {
+   "name": "Geoffrey Hinton",
+   "role": "Nobel laureate; former Google",
+   "org": null,
+   "low": 10,
+   "high": 20,
+   "label": "10–20%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": "within 30 years",
+   "quote": null,
+   "source_url": "https://www.zmescience.com/science/news-science/ai-risks-hinton-warnings/",
+   "source_type": "article",
+   "date": "2024-12-27",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "academic"
+   ],
+   "note": null,
+   "id": 16
+  },
+  {
+   "name": "Emmett Shear",
+   "role": "Co-founder, Twitch; former interim CEO, OpenAI",
+   "org": null,
+   "low": 5,
+   "high": 50,
+   "label": "5–50%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://www.youtube.com/watch?v=9oUbauum4uI",
+   "source_type": "podcast",
+   "date": null,
+   "verified": false,
+   "tags": [
+    "founder",
+    "ex-lab"
+   ],
+   "note": null,
+   "id": 17
+  },
+  {
+   "name": "Reid Hoffman",
+   "role": "Co-founder, LinkedIn",
+   "org": null,
+   "low": 20,
+   "high": 20,
+   "label": "20%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://www.pbs.org/video/future-of-ai-1724451272/",
+   "source_type": "interview",
+   "date": "2024-08-23",
+   "verified": false,
+   "tags": [
+    "investor"
+   ],
+   "note": null,
+   "id": 18
+  },
+  {
+   "name": "Yoshua Bengio",
+   "role": "Professor, Mila; Turing Award",
+   "org": null,
+   "low": 20,
+   "high": 20,
+   "label": "20%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://www.abc.net.au/news/2023-07-15/whats-your-pdoom-ai-researchers-worry-catastrophe/102591340",
+   "source_type": "article",
+   "date": "2023-07-15",
+   "verified": false,
+   "tags": [
+    "researcher",
+    "academic"
+   ],
+   "note": null,
+   "id": 19
+  },
+  {
+   "name": "Elon Musk",
+   "role": "xAI, Tesla, SpaceX",
+   "org": null,
+   "low": 20,
+   "high": 20,
+   "label": "20%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": "only a 20% chance of annihilation",
+   "source_url": "https://finance.yahoo.com/news/elon-musk-says-theres-only-001804190.html",
+   "source_type": "interview",
+   "date": "2025-03-01",
+   "verified": true,
+   "tags": [
+    "lab",
+    "founder"
+   ],
+   "note": null,
+   "id": 20
+  },
+  {
+   "name": "Dario Amodei",
+   "role": "CEO, Anthropic",
+   "org": null,
+   "low": 10,
+   "high": 25,
+   "label": "10–25%",
+   "scope": "civilizational catastrophe",
+   "horizon": null,
+   "quote": "a 25% chance that things go really, really badly",
+   "source_url": "https://www.axios.com/2025/09/17/anthropic-dario-amodei-p-doom-25-percent",
+   "source_type": "article",
+   "date": "2025-09-17",
+   "verified": true,
+   "tags": [
+    "lab",
+    "ceo"
+   ],
+   "note": null,
+   "id": 21
+  },
+  {
+   "name": "Lina Khan",
+   "role": "Chair, FTC (2021–2025)",
+   "org": null,
+   "low": 15,
+   "high": 15,
+   "label": "15%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://twitter.com/liron/status/1723458202090774949",
+   "source_type": "x",
+   "date": "2023-11-11",
+   "verified": false,
+   "tags": [
+    "policy"
+   ],
+   "note": null,
+   "id": 22
+  },
+  {
+   "name": "Evan Hubinger",
+   "role": "Alignment science lead, Anthropic",
+   "org": null,
+   "low": 10,
+   "high": 100,
+   "label": ">10%",
+   "scope": "AI kills all humans",
+   "horizon": "within the next decade",
+   "quote": "I personally think it is >10% within the next decade",
+   "source_url": "https://www.forbes.com/sites/siladityaray/2026/09/09/anthropic-alignment-lead-warns-ai-could-kill-all-humans-as-researcher-quits/",
+   "source_type": "article",
+   "date": "2026-09-09",
+   "verified": true,
+   "tags": [
+    "lab",
+    "safety"
+   ],
+   "note": "Adds that risk from current models is low.",
+   "id": 23
+  },
+  {
+   "name": "Machine learning researchers (survey, n≈2,778)",
+   "role": "Mean, 2023 AI Impacts expert survey",
+   "org": null,
+   "low": 9,
+   "high": 19.4,
+   "label": "9–19% (mean)",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai",
+   "source_type": "survey",
+   "date": "2024-01-01",
+   "verified": false,
+   "tags": [
+    "survey"
+   ],
+   "note": "Median 5–10% depending on question design.",
+   "id": 24
+  },
+  {
+   "name": "Vitalik Buterin",
+   "role": "Co-founder, Ethereum",
+   "org": null,
+   "low": 10,
+   "high": 10,
+   "label": "10%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://twitter.com/VitalikButerin/status/1729251822391447904",
+   "source_type": "x",
+   "date": "2023-11-27",
+   "verified": false,
+   "tags": [
+    "founder"
+   ],
+   "note": null,
+   "id": 25
+  },
+  {
+   "name": "Nate Silver",
+   "role": "Founder, FiveThirtyEight",
+   "org": null,
+   "low": 5,
+   "high": 10,
+   "label": "5–10%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": null,
+   "source_url": "https://www.natesilver.net/p/its-time-to-come-to-grips-with-ai",
+   "source_type": "article",
+   "date": null,
+   "verified": false,
+   "tags": [
+    "forecaster",
+    "writer"
+   ],
+   "note": null,
+   "id": 26
+  },
+  {
+   "name": "Superforecasters (XPT, n=88)",
+   "role": "Forecasting Research Institute, 2022–23",
+   "org": null,
+   "low": 0.38,
+   "high": 0.38,
+   "label": "0.38%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": "by 2100",
+   "quote": null,
+   "source_url": "https://static1.squarespace.com/static/635693acf15a3e2a14a56a4a/t/64f0a7838ccbf43b6b5ee40c/1693493128111/XPT.pdf",
+   "source_type": "survey",
+   "date": "2023-07-01",
+   "verified": false,
+   "tags": [
+    "survey"
+   ],
+   "note": "Domain experts in the same study: 3%.",
+   "id": 27
+  },
+  {
+   "name": "Yann LeCun",
+   "role": "Chief AI scientist, Meta; Turing Award",
+   "org": null,
+   "low": 0,
+   "high": 0.01,
+   "label": "<0.01%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": null,
+   "quote": "less likely than an asteroid",
+   "source_url": "https://twitter.com/liron/status/1736555643384025428",
+   "source_type": "x",
+   "date": "2023-12-18",
+   "verified": false,
+   "tags": [
+    "lab",
+    "researcher"
+   ],
+   "note": null,
+   "id": 28
+  }
+ ]
+}
