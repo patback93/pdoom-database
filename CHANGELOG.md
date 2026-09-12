@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-13 — `stake` field
+
+- Every person-row now carries `stake`: the speaker's public relationship to the AI industry (`lab`, `ex-lab`, `ai-industry`, `investor`, `safety-org`, `academic`, `government`, `media`, `independent`). Assigned from the stated role at the time of the statement; affiliation only, never money or net worth. Legend in `stake_legend`. Surveys and markets get null.
+- Merged the two spellings of Matthew Adelstein.
+
 ## 2026-09-13 — Stage 4: six sweeps, +44 rows, declined list
 
 - Swept The Inside View (Trazzi), the 80,000 Hours Podcast, LessWrong / Alignment Forum / EA Forum, Lex Fridman and Bankless, the e/acc and political side, and existing compilations (Wikipedia, NYT, New Yorker, Business Insider, EA Forum roundups) as leads back to primaries.

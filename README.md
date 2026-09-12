@@ -20,6 +20,7 @@ Raw data: `pdoom.json` (also served at https://pdoomcoin.lol/data/pdoom.json)
 |---|---|
 | `name` | person, or group for surveys |
 | `role` | affiliation or description at the time of the statement |
+| `stake` | the speaker's relationship to the AI industry, one of `lab`, `ex-lab`, `ai-industry`, `investor`, `safety-org`, `academic`, `government`, `media`, `independent` (null for surveys). Public affiliation only, never money. Definitions in `stake_legend` in the JSON. |
 | `low`, `high` | numeric bounds in percent; `high` = 100 for open-ended ">X%" |
 | `label` | the value as the speaker gave it |
 | `scope` | what "doom" meant in context |
