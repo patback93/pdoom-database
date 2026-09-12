@@ -6,7 +6,7 @@
 - Vitalik Buterin gets a second row (12%, Aug 2025) alongside his 2023 10%; per the rules, changed numbers are new rows.
 - Conditional statements are labeled as such in scope (Tegmark: if no regulation; Ellsberg: conditional on ASI; Gillen: conditional on rushing to superintelligence).
 - Excluded: pseudonymous or first-name-only audience callers, numbers only attributed by the host, and third-party figures quoted in passing. Robin Hanson (<1%) and Louis Berman (99.999%) are included from host-written episode notes and marked unverified pending a transcript re-read.
-- Total 58 rows, 54 verified.
+- Total 58 rows, 53 verified.
 
 ## 2026-09-12 (verification pass)
 - Re-checked 22 rows against primary sources. 24 of 27 rows now verified.
