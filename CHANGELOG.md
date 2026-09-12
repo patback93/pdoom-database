@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-13 — Stage 4: six sweeps, +44 rows, declined list
+
+- Swept The Inside View (Trazzi), the 80,000 Hours Podcast, LessWrong / Alignment Forum / EA Forum, Lex Fridman and Bankless, the e/acc and political side, and existing compilations (Wikipedia, NYT, New Yorker, Business Insider, EA Forum roundups) as leads back to primaries.
+- New rows include Andrew Critch (~85%, his own post), Wei Dai (80–90%), Curtis Huebner (90%), Mikhail Samin (~80%), Jesse Hoogland (60–80%+), Alan Chan (46%), Richard Ngo (31%), Jan Kulveit (20–30%), Tom Davidson (~20%), Victoria Krakovna (~20%, 2023), Will MacAskill (3% in 2022, 1–10% in 2025), Vitalik Buterin (8–9%, 2024), Rob Wiblin (~10%), Nora Belrose (1–2%), Rohin Shah (~4%, 2021), Irina Rish (<1%), Eli Lifland (~25%, 2025), Daniel Kokotajlo (70–75% in 2025; 15% conditional on Plan A, 2026), Joe Carlsmith (>10%, 2023 revision), Zvi Mowshowitz (60%, 2024), David Duvenaud (70–80%, 80k), Stuart Armstrong (10–90%, 2015), Katja Grace (10–90%, 2024), Paul Crowley (>80%), Paul Christiano (10–20% takeover, Bankless, unverified), Liam Robins (2.76%), Matthew Adelstein (2.6%), Josh Snider (~40%).
+- Dismissals in words, recorded as ≈0% like LeCun: Marc Andreessen, Jensen Huang, Vinod Khosla. Elon Musk 10–20% (2024) added as an earlier statement.
+- Ten public-opinion polls added, tagged `survey` + `poll` and excluded from the median: Rethink Priorities 2023 (15% median, the only one that asked for a probability), YouGov 2023/2024/2025×2, Monmouth 2023, AIPI 2023, Sentience Institute 2023, Yahoo/YouGov 2025, The Argument 2026. Labels are shares of respondents, not probabilities.
+- New `declined` array: people asked for a number on the record who did not give one, with their words: Demis Hassabis, Sundar Pichai, Neel Nanda (stated policy), Stuart Russell, Guillaume Verdon, Robert Miles (2022), Max Harms, Donald Trump, Ted Cruz, Eliezer Yudkowsky.
+- Not added: Sam Altman (never asked for a number on a primary we could read), Reid Hoffman, Scott Alexander's reported ~20% (no primary quote yet), Ryan Greenblatt's 35–40% (reported by Zvi, not his words), Jacob Steinhardt ~5% and Ajeya Cotra 20–30% (secondary only), Nate Soares >95% (no primary), Joscha Bach (all-cause number, not AI-specific).
+
 ## 2026-09-13 (stage 3: labs, podcasts, surveys, public figures, 2026)
 - +42 rows. Total 98 (87 people/statements, 11 surveys and markets), 91 verified.
 - The September 2026 cascade: after the Coxon resignation, lab staff posted their own numbers. Added Geoffrey Irving ~50%, Marcus Williams 70% (conditional), Mikita Balesni >10%, Victoria Krakovna >10%, Dima Krasheninnikov ≥10%, Ted Sanders ≈0%, Hinton 10% (BBC Newsnight), Paul Christiano 4%/15% (1 yr / 3 yrs), all Sept 9–11, 2026.

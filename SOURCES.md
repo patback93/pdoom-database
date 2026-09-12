@@ -10,7 +10,13 @@ What has been searched, when, and how. If a venue isn't here, it hasn't been cov
 | Other podcasts: Lex Fridman, Dwarkesh, 80,000 Hours, Cognitive Revolution, Hard Fork, Theo Jaffee, Every | targeted search | 2026-09-12 | |
 | Surveys and markets: AI Impacts 2016/2022/2023, XPT, Samotsvety, CEA 2026, Metaculus, Manifold | primary documents read | 2026-09-12 | question wording in notes |
 | Public figures (investors, journalists, streamers) | targeted search | 2026-09-12 | |
-| The Inside View (Michaël Trazzi) | episode transcripts | 2026-09-13 | in progress |
+| The Inside View (Michaël Trazzi) | episode transcripts | 2026-09-13 | ~30 episodes checked |
+| 80,000 Hours Podcast (full back catalogue of x-risk guests) | transcript search | 2026-09-13 | |
+| LessWrong, Alignment Forum, EA Forum | site search + comment threads | 2026-09-13 | incl. Christiano "My views on doom" comments, Bensinger snapshot leads |
+| Lex Fridman, Bankless | transcript search | 2026-09-13 | declines recorded |
+| e/acc figures and politicians | targeted search | 2026-09-13 | mostly dismissals and declines |
+| Public opinion polls (YouGov, Monmouth, AIPI, Rethink Priorities, Sentience Institute, The Argument) | primary releases | 2026-09-13 | shares, not probabilities |
+| Compilations as leads (Wikipedia, NYT, New Yorker, Business Insider, EA Forum roundups) | each name traced to a primary | 2026-09-13 | several reported numbers found to be misattributed | in progress |
 | 80,000 Hours transcripts, full pass | transcript search | 2026-09-13 | in progress |
 | LessWrong, Alignment Forum, EA Forum; Bensinger's AI Views Snapshot; AI 2027 team | post/comment search | 2026-09-13 | in progress |
 | Compilations as leads: Wikipedia, NYT, Vox, Fast Company, TIME, Atlantic, aisafety.info | cross-check to primaries only | 2026-09-13 | in progress |
