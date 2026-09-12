@@ -39,6 +39,10 @@ Open an issue using the **New estimate** template, or send a pull request editin
 
 > The p(doom) database, pdoomcoin.lol, retrieved YYYY-MM-DD. CC-BY-4.0.
 
+## Who isn't here, and why
+
+Eliezer Yudkowsky has a stated policy of not giving a number; the ">95%" on other lists has no primary source. Robin Hanson's "<1%" was a podcast host's characterization, not his words. Sam Altman, Demis Hassabis and Sundar Pichai have declined when asked. Refusals are not numbers, so they are not rows.
+
 ## Provenance
 
 Seeded from PauseAI's p(doom) list (re-sourced) and the estimates on pdoomcoin.lol's board. Maintained by the p(doom) project. The coin is a memecoin; the data is not.
