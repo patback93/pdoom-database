@@ -3,7 +3,7 @@
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
  "updated": "2026-09-12",
- "count": 27,
+ "count": 58,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -27,6 +27,48 @@
    "id": 1
   },
   {
+   "name": "Louis Berman",
+   "role": "Former tech CTO; AI x-risk activist",
+   "org": null,
+   "low": 99.999,
+   "high": 99.999,
+   "label": "99.999%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": "eventually",
+   "quote": "I happen to like Roman Yampolskiy's 99.99999% eventually thing. The calendar is really the issue.",
+   "source_url": "https://lironshapira.substack.com/p/tech-cto-has-99999-pdoom",
+   "source_type": "podcast",
+   "date": "2025-08-28",
+   "verified": true,
+   "tags": [
+    "advocate",
+    "doom-debates"
+   ],
+   "note": "Figure from the episode title; passage shows him endorsing Yampolskiy's number and past figures of 50% and 100%. Full segment not yet re-read.",
+   "id": 2
+  },
+  {
+   "name": "Michael Ellsberg",
+   "role": "Author",
+   "org": null,
+   "low": 99,
+   "high": 99,
+   "label": "99%",
+   "scope": "everyone dies, conditional on a robust ASI being built",
+   "horizon": "within one to two years of ASI",
+   "quote": "And so I would say conditional on ASI, my P(Doom) is 99%. I don't know how fast it would happen, one year, two years, maybe immediately.",
+   "source_url": "https://lironshapira.substack.com/p/facing-ai-doom-michael-ellsberg",
+   "source_type": "podcast",
+   "date": "2025-11-29",
+   "verified": true,
+   "tags": [
+    "writer",
+    "doom-debates"
+   ],
+   "note": "Conditional on ASI arising.",
+   "id": 3
+  },
+  {
    "name": "Eliezer Yudkowsky",
    "role": "Founder, MIRI",
    "org": null,
@@ -45,7 +87,97 @@
     "safety"
    ],
    "note": "No primary text found where he states >95% himself; he has said he avoids giving a number. Secondary lists cite Fast Company.",
-   "id": 2
+   "id": 4
+  },
+  {
+   "name": "Jeremy Gillen",
+   "role": "Researcher, MIRI",
+   "org": null,
+   "low": 90,
+   "high": 99,
+   "label": "90–99%",
+   "scope": "AI doom, conditional on rushing into superintelligence",
+   "horizon": null,
+   "quote": "I don't know, like pretty high. Probably higher than 90%, probably lower than 99%, in that kind of region. This is also conditioning on rushing forward into superintelligence.",
+   "source_url": "https://lironshapira.substack.com/p/the-ai-corrigibility-debate-miri",
+   "source_type": "podcast",
+   "date": "2025-11-14",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "safety",
+    "doom-debates"
+   ],
+   "note": "Says he hasn't put much thought into the number.",
+   "id": 5
+  },
+  {
+   "name": "Steven Byrnes",
+   "role": "AGI safety researcher, Astera Institute",
+   "org": null,
+   "low": 90,
+   "high": 90,
+   "label": "~90%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "I don't know, 90% or something, but I kind of pulled that number out of my ass, so take it for whatever it's worth.",
+   "source_url": "https://lironshapira.substack.com/p/the-man-who-might-solve-ai-alignment",
+   "source_type": "podcast",
+   "date": "2025-08-01",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "safety",
+    "doom-debates"
+   ],
+   "note": "Explicitly a rough guess; expects the danger from a future brain-like AGI paradigm, not LLMs.",
+   "id": 6
+  },
+  {
+   "name": "Max Tegmark",
+   "role": "MIT physicist; president, Future of Life Institute",
+   "org": null,
+   "low": 90,
+   "high": 100,
+   "label": ">90%",
+   "scope": "loss of human control over superintelligence, if no regulation",
+   "horizon": null,
+   "quote": "When I said P(doom) of over 90%, that was if we do no regulation. I am actually quite optimistic because I don't think China will allow a race to superintelligence",
+   "source_url": "https://lironshapira.substack.com/p/max-tegmark-vs-dean-ball-debate-ban-superintelligence",
+   "source_type": "podcast",
+   "date": "2025-11-21",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "academic",
+    "advocate",
+    "doom-debates"
+   ],
+   "note": "Conditional on no tough regulation; derived from his MIT paper on scalable oversight failing 92% of the time in the most optimistic scenario.",
+   "id": 7
+  },
+  {
+   "name": "David Duvenaud",
+   "role": "Professor, University of Toronto; former Anthropic researcher",
+   "org": null,
+   "low": 85,
+   "high": 85,
+   "label": "~85%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "So I'd say something around 85%.",
+   "source_url": "https://lironshapira.substack.com/p/doom-debates-state-of-the-show-2026",
+   "source_type": "podcast",
+   "date": "2026-07-29",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "academic",
+    "ex-lab",
+    "doom-debates"
+   ],
+   "note": "Clip replayed in the State of the Show episode; originally from his own Doom Debates episode.",
+   "id": 8
   },
   {
    "name": "Dan Hendrycks",
@@ -66,7 +198,28 @@
     "safety"
    ],
    "note": "Says it was ~20% two years earlier.",
-   "id": 3
+   "id": 9
+  },
+  {
+   "name": "Aella",
+   "role": "Writer and researcher, PlzDontKillUs",
+   "org": null,
+   "low": 75,
+   "high": 75,
+   "label": "75%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "Liron: That's why you're saying 75% P(Doom). Aella: Yeah. It's a lot higher than I would like it to be.",
+   "source_url": "https://lironshapira.substack.com/p/plzdontkillus",
+   "source_type": "podcast",
+   "date": "2026-08-26",
+   "verified": true,
+   "tags": [
+    "writer",
+    "doom-debates"
+   ],
+   "note": "Figure stated by the host and confirmed by her on air.",
+   "id": 10
   },
   {
    "name": "Daniel Kokotajlo",
@@ -87,7 +240,28 @@
     "ex-lab"
    ],
    "note": "Most of his remaining hope is humans coordinating not to build dangerous AI.",
-   "id": 4
+   "id": 11
+  },
+  {
+   "name": "Justin Helps",
+   "role": "Science educator, Primer",
+   "org": null,
+   "low": 70,
+   "high": 70,
+   "label": "70%",
+   "scope": "AI takeover, all time",
+   "horizon": "by 2100",
+   "quote": "If you're talking P(Doom) for all time, I guess I put 70% at 2100 is the number I put in the video. So it's pretty high in the long run, but it's a lot lower in the short run.",
+   "source_url": "https://lironshapira.substack.com/p/justin-helps-primer-on-youtube-is",
+   "source_type": "podcast",
+   "date": "2026-04-30",
+   "verified": true,
+   "tags": [
+    "writer",
+    "doom-debates"
+   ],
+   "note": "Much lower short-run figure; episode notes cite 5% by 2040.",
+   "id": 12
   },
   {
    "name": "Zvi Mowshowitz",
@@ -107,7 +281,50 @@
     "writer"
    ],
    "note": "Prefers Leike's 10–90% framing. Later reported higher on Doom Debates.",
-   "id": 5
+   "id": 13
+  },
+  {
+   "name": "Richard Ren",
+   "role": "Researcher, Center for AI Safety",
+   "org": null,
+   "low": 50,
+   "high": 65,
+   "label": "50–65%",
+   "scope": "losing ~99.9% of humanity's potential value (extinction or permanent disempowerment)",
+   "horizon": "next few decades",
+   "quote": "Probably around 50 to 65%.",
+   "source_url": "https://lironshapira.substack.com/p/he-may-have-found-ais-feelings",
+   "source_type": "podcast",
+   "date": "2026-09-09",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "safety",
+    "doom-debates"
+   ],
+   "note": "Re-confirmed later in the episode after the host misremembered it as 40%.",
+   "id": 14
+  },
+  {
+   "name": "Liv Boeree",
+   "role": "Poker champion; science communicator",
+   "org": null,
+   "low": 5,
+   "high": 99,
+   "label": "5–99%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "Um, I mean, it's somewhere between five and 99%.",
+   "source_url": "https://lironshapira.substack.com/p/liv-boeree-has-a-strategy-to-stop",
+   "source_type": "podcast",
+   "date": "2025-09-24",
+   "verified": true,
+   "tags": [
+    "writer",
+    "doom-debates"
+   ],
+   "note": "Calls it \"a hot mess of a probability distribution\"; even 5% is unacceptable to her.",
+   "id": 15
   },
   {
    "name": "David Krueger",
@@ -128,7 +345,7 @@
     "academic"
    ],
    "note": null,
-   "id": 6
+   "id": 16
   },
   {
    "name": "Liron Shapira",
@@ -148,7 +365,7 @@
     "podcaster"
    ],
    "note": null,
-   "id": 7
+   "id": 17
   },
   {
    "name": "Emad Mostaque",
@@ -168,29 +385,7 @@
     "founder"
    ],
    "note": "Elsewhere attaches 10–20 year timelines. Earlier stated the same on X, Dec 2024.",
-   "id": 8
-  },
-  {
-   "name": "Paul Christiano",
-   "role": "Former head of safety, US CAISI; founded ARC",
-   "org": null,
-   "low": 46,
-   "high": 46,
-   "label": "46%",
-   "scope": "irreversibly messed-up future (takeover 22% + extinction 9% + other 15%)",
-   "horizon": "within 10 years of building powerful AI",
-   "quote": "Probability that humanity has somehow irreversibly messed up our future within 10 years of building powerful AI: 46%",
-   "source_url": "https://www.lesswrong.com/posts/xWMqsvHapP3nwdSW8/my-views-on-doom",
-   "source_type": "forum",
-   "date": "2023-04-27",
-   "verified": true,
-   "tags": [
-    "researcher",
-    "safety",
-    "ex-lab"
-   ],
-   "note": "Same post: AI takeover 22%; most humans die within 10 years of powerful AI 20%.",
-   "id": 9
+   "id": 18
   },
   {
    "name": "Holden Karnofsky",
@@ -210,7 +405,7 @@
     "funder"
    ],
    "note": "A stated plausible band for a hypothetical scenario, not a point estimate.",
-   "id": 10
+   "id": 19
   },
   {
    "name": "Jan Leike",
@@ -232,7 +427,114 @@
     "lab"
    ],
    "note": "Range proposed by the host; Leike endorsed it, after saying p(doom) depends on his mood and isn't a useful question.",
-   "id": 11
+   "id": 20
+  },
+  {
+   "name": "Rob Miles",
+   "role": "AI safety educator",
+   "org": null,
+   "low": 10,
+   "high": 90,
+   "label": "10–90%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "I think anyone whose number is below 10% or above 90% is overconfident. I have a ton of model uncertainty here. I think that sort of any number in the 10 to 90% range is plausibly defensible.",
+   "source_url": "https://lironshapira.substack.com/p/rob-miles-top-ai-safety-communicator",
+   "source_type": "podcast",
+   "date": "2025-08-23",
+   "verified": true,
+   "tags": [
+    "safety",
+    "writer",
+    "doom-debates"
+   ],
+   "note": "Agrees when the host places him \"in the 50 plus zone\", then qualifies that it depends on how humanity responds.",
+   "id": 21
+  },
+  {
+   "name": "Geoffrey Miller",
+   "role": "Evolutionary psychologist, University of New Mexico",
+   "org": null,
+   "low": 50,
+   "high": 50,
+   "label": "50%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": "this century",
+   "quote": "50%. But also with broad uncertainty and margins of error. We could push the P(Doom) as low as 5% in this century, and if we were really stupid, we could push it as high as 80%.",
+   "source_url": "https://lironshapira.substack.com/p/top-professor-condemns-agi-development",
+   "source_type": "podcast",
+   "date": "2025-07-24",
+   "verified": true,
+   "tags": [
+    "academic",
+    "doom-debates"
+   ],
+   "note": "Contingent on human behavior: 5% to 80% depending on societal response.",
+   "id": 22
+  },
+  {
+   "name": "Tristan Harris",
+   "role": "Co-founder, Center for Humane Technology",
+   "org": null,
+   "low": 50,
+   "high": 100,
+   "label": ">50%",
+   "scope": "AI kills everybody or destroys >99% of potential value",
+   "horizon": "by 2050",
+   "quote": "Liron: So we're talking 50% plus? Tristan: More than 50%.",
+   "source_url": "https://lironshapira.substack.com/p/could-this-movie-wake-up-humanity",
+   "source_type": "podcast",
+   "date": "2026-04-14",
+   "verified": true,
+   "tags": [
+    "advocate",
+    "doom-debates"
+   ],
+   "note": "Conditional: \"if we don't change course.\"",
+   "id": 23
+  },
+  {
+   "name": "Paul Christiano",
+   "role": "Former head of safety, US CAISI; founded ARC",
+   "org": null,
+   "low": 46,
+   "high": 46,
+   "label": "46%",
+   "scope": "irreversibly messed-up future (takeover 22% + extinction 9% + other 15%)",
+   "horizon": "within 10 years of building powerful AI",
+   "quote": "Probability that humanity has somehow irreversibly messed up our future within 10 years of building powerful AI: 46%",
+   "source_url": "https://www.lesswrong.com/posts/xWMqsvHapP3nwdSW8/my-views-on-doom",
+   "source_type": "forum",
+   "date": "2023-04-27",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "safety",
+    "ex-lab"
+   ],
+   "note": "Same post: AI takeover 22%; most humans die within 10 years of powerful AI 20%.",
+   "id": 24
+  },
+  {
+   "name": "Carl Feynman",
+   "role": "AI engineer",
+   "org": null,
+   "low": 43,
+   "high": 43,
+   "label": "43%",
+   "scope": "human extinction",
+   "horizon": null,
+   "quote": "43%. 43% P(Doom) means I have... What is that? 57%.",
+   "source_url": "https://lironshapira.substack.com/p/carl-feynman-ai-risk-interview",
+   "source_type": "podcast",
+   "date": "2025-07-04",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "doom-debates"
+   ],
+   "note": "Says it was a little higher previously; things improved as more people noticed the problem.",
+   "id": 25
   },
   {
    "name": "Joep Meindertsma",
@@ -252,7 +554,7 @@
     "advocate"
    ],
    "note": "Journalist's paraphrase of his estimate in a profile he reviewed; adds \"I doubt constantly, but the chance it goes wrong is large.\"",
-   "id": 12
+   "id": 26
   },
   {
    "name": "Eli Lifland",
@@ -272,7 +574,7 @@
     "forecaster"
    ],
    "note": "Says he doesn't think much about exact numbers.",
-   "id": 13
+   "id": 27
   },
   {
    "name": "Scott Alexander",
@@ -292,7 +594,28 @@
     "writer"
    ],
    "note": "Given only \"if forced\"; explicitly not a precise prediction.",
-   "id": 14
+   "id": 28
+  },
+  {
+   "name": "Avalon Warren",
+   "role": "PlzDontKillUs",
+   "org": null,
+   "low": 33,
+   "high": 33,
+   "label": "33%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "My P(Doom)'s somewhere between... I think I would wanna go 33.",
+   "source_url": "https://lironshapira.substack.com/p/plzdontkillus",
+   "source_type": "podcast",
+   "date": "2026-08-26",
+   "verified": true,
+   "tags": [
+    "advocate",
+    "doom-debates"
+   ],
+   "note": null,
+   "id": 29
   },
   {
    "name": "AI safety researchers (survey, n=44)",
@@ -312,28 +635,49 @@
     "survey"
    ],
    "note": "n=44 of ~117 invited. Mean ~30%, median 20%. Alignment researchers, not general AI researchers.",
-   "id": 15
+   "id": 30
   },
   {
-   "name": "Geoffrey Hinton",
-   "role": "Nobel laureate; former Google",
+   "name": "Holly Elmore",
+   "role": "Executive Director, PauseAI US",
    "org": null,
-   "low": 10,
-   "high": 20,
-   "label": "10–20%",
-   "scope": "AI catastrophe / extinction",
-   "horizon": "within 30 years",
-   "quote": null,
-   "source_url": "https://www.zmescience.com/science/news-science/ai-risks-hinton-warnings/",
-   "source_type": "article",
-   "date": "2024-12-27",
+   "low": 20,
+   "high": 40,
+   "label": "20–40%",
+   "scope": "20% extinction; up to 40% worst civilizational tragedies",
+   "horizon": null,
+   "quote": "My pat answer is that it's like 20 to 40% on the worst - the variation is like 20% extinction and then to like 40%, the worst civilizational tragedies, but not everyone dies.",
+   "source_url": "https://lironshapira.substack.com/p/lesswrong-circular-firing-squad",
+   "source_type": "podcast",
+   "date": "2025-09-27",
    "verified": true,
    "tags": [
-    "researcher",
-    "academic"
+    "advocate",
+    "doom-debates"
    ],
-   "note": null,
-   "id": 16
+   "note": "For \"everyone dies by 2050\": closer to 20. Says the number varies day to day.",
+   "id": 31
+  },
+  {
+   "name": "Lumpenspace",
+   "role": "AI accelerationist writer (pseudonymous)",
+   "org": null,
+   "low": 30,
+   "high": 30,
+   "label": "~30%",
+   "scope": "no biological humans exist",
+   "horizon": null,
+   "quote": "If you mean no biological humans exist in the universe, that might be close to 30 maybe.",
+   "source_url": "https://lironshapira.substack.com/p/ai-superseding-humanity-is-a-good",
+   "source_type": "podcast",
+   "date": "2026-05-07",
+   "verified": true,
+   "tags": [
+    "writer",
+    "doom-debates"
+   ],
+   "note": "~0% if doom means nothing of value exists; ~30% only for the no-biological-humans definition.",
+   "id": 32
   },
   {
    "name": "Emmett Shear",
@@ -354,7 +698,30 @@
     "ex-lab"
    ],
    "note": "Logan Bartlett Show ep. 69. HuffPost, ABC and Wikipedia paraphrase \"5% to 50%\"; no verbatim transcript read yet.",
-   "id": 17
+   "id": 33
+  },
+  {
+   "name": "Alex Turner",
+   "role": "AI safety researcher, formerly Google DeepMind",
+   "org": null,
+   "low": 25,
+   "high": 30,
+   "label": "25–30%",
+   "scope": "AI kills at least a billion people",
+   "horizon": "by 2050",
+   "quote": "So I operationalize P(Doom) as probability that AI kills at least a billion people by 2050. I put that at, I don't know, 25, 30%.",
+   "source_url": "https://lironshapira.substack.com/p/top-researcher-quits-google-deepmind",
+   "source_type": "podcast",
+   "date": "2026-08-04",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "safety",
+    "ex-lab",
+    "doom-debates"
+   ],
+   "note": "About 10 points technical misalignment, the rest misuse.",
+   "id": 34
   },
   {
    "name": "Yoshua Bengio",
@@ -375,7 +742,7 @@
     "academic"
    ],
    "note": "Derived from ~50% chance of human-level AI within a decade and >50% it's turned against humanity at scale.",
-   "id": 18
+   "id": 35
   },
   {
    "name": "Elon Musk",
@@ -396,7 +763,7 @@
     "founder"
    ],
    "note": null,
-   "id": 19
+   "id": 36
   },
   {
    "name": "Dario Amodei",
@@ -417,7 +784,28 @@
     "ceo"
    ],
    "note": null,
-   "id": 20
+   "id": 37
+  },
+  {
+   "name": "Geoffrey Hinton",
+   "role": "Nobel laureate; former Google",
+   "org": null,
+   "low": 10,
+   "high": 20,
+   "label": "10–20%",
+   "scope": "AI catastrophe / extinction",
+   "horizon": "within 30 years",
+   "quote": null,
+   "source_url": "https://www.zmescience.com/science/news-science/ai-risks-hinton-warnings/",
+   "source_type": "article",
+   "date": "2024-12-27",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "academic"
+   ],
+   "note": null,
+   "id": 38
   },
   {
    "name": "Lina Khan",
@@ -437,7 +825,28 @@
     "policy"
    ],
    "note": "Said on NYT's Hard Fork after calling herself an optimist. Audio not yet checked directly; transcriptions agree.",
-   "id": 21
+   "id": 39
+  },
+  {
+   "name": "Vitalik Buterin",
+   "role": "Co-founder, Ethereum",
+   "org": null,
+   "low": 12,
+   "high": 12,
+   "label": "12%",
+   "scope": "mostly pre-2050",
+   "horizon": "mostly before 2050",
+   "quote": "About 12% right now.",
+   "source_url": "https://lironshapira.substack.com/p/debate-with-vitalik-buterin-will",
+   "source_type": "podcast",
+   "date": "2025-08-12",
+   "verified": true,
+   "tags": [
+    "founder",
+    "doom-debates"
+   ],
+   "note": "Was 15–16% at the start of 2025 and ~10% earlier. Extinction by 2050 specifically: at least 9%.",
+   "id": 40
   },
   {
    "name": "Evan Hubinger",
@@ -458,27 +867,7 @@
     "safety"
    ],
    "note": "Adds that risk from current models is low.",
-   "id": 22
-  },
-  {
-   "name": "Machine learning researchers (survey, n≈2,778)",
-   "role": "Mean, 2023 AI Impacts expert survey",
-   "org": null,
-   "low": 5,
-   "high": 10,
-   "label": "5–10% (median)",
-   "scope": "human extinction or similarly permanent and severe disempowerment",
-   "horizon": null,
-   "quote": "The median prediction for extremely bad outcomes, such as human extinction, was 5% (mean 9%)",
-   "source_url": "https://arxiv.org/abs/2401.02843",
-   "source_type": "paper",
-   "date": "2023-10-01",
-   "verified": true,
-   "tags": [
-    "survey"
-   ],
-   "note": "Medians 5–10% and means 9–19% across four question wordings, N up to 2,704. Survey Oct 2023.",
-   "id": 23
+   "id": 41
   },
   {
    "name": "Vitalik Buterin",
@@ -498,7 +887,48 @@
     "founder"
    ],
    "note": "Stated as 0.1, i.e. 10%, in the thread for his techno-optimism essay.",
-   "id": 24
+   "id": 42
+  },
+  {
+   "name": "David Sirota",
+   "role": "Screenwriter, Don't Look Up; journalist, The Lever",
+   "org": null,
+   "low": 10,
+   "high": 100,
+   "label": ">10%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "My P(Doom) is way higher than 10%.",
+   "source_url": "https://lironshapira.substack.com/p/i-challenged-dont-look-ups-screenwriter",
+   "source_type": "podcast",
+   "date": "2026-04-07",
+   "verified": true,
+   "tags": [
+    "writer",
+    "doom-debates"
+   ],
+   "note": "No upper bound given.",
+   "id": 43
+  },
+  {
+   "name": "Machine learning researchers (survey, n≈2,778)",
+   "role": "Mean, 2023 AI Impacts expert survey",
+   "org": null,
+   "low": 5,
+   "high": 10,
+   "label": "5–10% (median)",
+   "scope": "human extinction or similarly permanent and severe disempowerment",
+   "horizon": null,
+   "quote": "The median prediction for extremely bad outcomes, such as human extinction, was 5% (mean 9%)",
+   "source_url": "https://arxiv.org/abs/2401.02843",
+   "source_type": "paper",
+   "date": "2023-10-01",
+   "verified": true,
+   "tags": [
+    "survey"
+   ],
+   "note": "Medians 5–10% and means 9–19% across four question wordings, N up to 2,704. Survey Oct 2023.",
+   "id": 44
   },
   {
    "name": "Nate Silver",
@@ -519,7 +949,200 @@
     "writer"
    ],
    "note": "Given indirectly: \"in line with\" the 5–10% consensus rather than a figure of his own.",
-   "id": 25
+   "id": 45
+  },
+  {
+   "name": "Stephen Casper",
+   "role": "AI safety researcher, MIT; UK AISI",
+   "org": null,
+   "low": 5,
+   "high": 10,
+   "label": "5–10%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "I think my P(Doom) lies somewhere between 5% and 10%",
+   "source_url": "https://lironshapira.substack.com/p/ai-alignment-research-could-get-us",
+   "source_type": "podcast",
+   "date": "2026-06-10",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "safety",
+    "policy",
+    "doom-debates"
+   ],
+   "note": null,
+   "id": 46
+  },
+  {
+   "name": "Robert Wright",
+   "role": "Author and journalist, Nonzero",
+   "org": null,
+   "low": 4,
+   "high": 5,
+   "label": "4–5%",
+   "scope": "no modern humans living decent lives at all",
+   "horizon": "within 100 years",
+   "quote": "Mm, I don't know, 4 or 5%, which is high for something like that, right?",
+   "source_url": "https://lironshapira.substack.com/p/ai-dystopia-is-just-8-years-away",
+   "source_type": "podcast",
+   "date": "2026-06-23",
+   "verified": true,
+   "tags": [
+    "writer",
+    "doom-debates"
+   ],
+   "note": "For a broader 'suffering' dystopia within 100 years: \"I wish I could say less than 50%, but I'm not sure I can.\"",
+   "id": 47
+  },
+  {
+   "name": "Quintin Pope",
+   "role": "ML researcher; alignment optimist",
+   "org": null,
+   "low": 4,
+   "high": 4,
+   "label": "4%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "Well, my P(Doom) is 4%, so yes, both of those things need to be imagined.",
+   "source_url": "https://lironshapira.substack.com/p/ai-alignment-is-solved-phd-researcher",
+   "source_type": "podcast",
+   "date": "2026-03-25",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "doom-debates"
+   ],
+   "note": "Debate recorded in 2023 on Twitter Spaces; published on Doom Debates in 2026.",
+   "id": 48
+  },
+  {
+   "name": "Liam Robins",
+   "role": "Math student, George Washington University; AI policy writer",
+   "org": null,
+   "low": 3.38,
+   "high": 3.38,
+   "label": "3.38%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "My P(doom) is 3.38%. Here's Why.",
+   "source_url": "https://lironshapira.substack.com/p/every-student-is-cheating-with-ai",
+   "source_type": "podcast",
+   "date": "2025-06-12",
+   "verified": true,
+   "tags": [
+    "writer",
+    "doom-debates"
+   ],
+   "note": "Title of his own post. The host reports he updated toward 8% mid-debate in part 2.",
+   "id": 49
+  },
+  {
+   "name": "Ben Goertzel",
+   "role": "AGI researcher; CEO, SingularityNET",
+   "org": null,
+   "low": 3.14,
+   "high": 3.14,
+   "label": "π%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "I don't think that's a very useful question because we don't have any rational way to estimate that. So if I have to pick a number, I'll come up with π percent.",
+   "source_url": "https://lironshapira.substack.com/p/dr-ben-goertzel-vs-liron-shapira",
+   "source_type": "podcast",
+   "date": "2026-05-19",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "founder",
+    "doom-debates"
+   ],
+   "note": "Half-joking; says the question isn't useful. Adds that doom without AGI (nukes, bio, nanotech) is higher than LeCun's figure.",
+   "id": 50
+  },
+  {
+   "name": "Matthew Adelstein",
+   "role": "Philosophy writer, Bentham's Newsletter",
+   "org": null,
+   "low": 2.6,
+   "high": 2.6,
+   "label": "2.6%",
+   "scope": "AI kills everyone",
+   "horizon": null,
+   "quote": "Liron: it all somehow maths together into 2.6%. Do you have a formula for that? Matthew: So I multiplied the probabilities",
+   "source_url": "https://lironshapira.substack.com/p/benthams-bulldog-ai-doom-debate",
+   "source_type": "podcast",
+   "date": "2026-02-10",
+   "verified": true,
+   "tags": [
+    "writer",
+    "doom-debates"
+   ],
+   "note": "Product of component probabilities: 90% build agents, 70% alignment by default, 70% otherwise, 60% warning shots, 80% AI could kill us.",
+   "id": 51
+  },
+  {
+   "name": "Michael Timothy Bennett",
+   "role": "AI researcher",
+   "org": null,
+   "low": 1,
+   "high": 1,
+   "label": "1%",
+   "scope": "humanity destroys itself, with AI",
+   "horizon": "next 50 to 100 years",
+   "quote": "So I think without AI, our chances of blowing ourselves up are maybe 1 or 2%, and I would say 2%. And with AI, I feel like it's about half that. So 1%.",
+   "source_url": "https://lironshapira.substack.com/p/michael-timothy-bennett-debate",
+   "source_type": "podcast",
+   "date": "2025-12-11",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "academic",
+    "doom-debates"
+   ],
+   "note": "Says AI halves his baseline; \"numbers I kind of made up based on gut intuition.\"",
+   "id": 52
+  },
+  {
+   "name": "Mike Israetel",
+   "role": "Exercise scientist, Renaissance Periodization",
+   "org": null,
+   "low": 0,
+   "high": 1,
+   "label": "≈0%",
+   "scope": "p(doom), as asked on Doom Debates",
+   "horizon": null,
+   "quote": "It's functionally close to zero because I take a ton of stops... So it's like each stop is 1%. Then we get 1% multiplied by 1% multiplied by 1%.",
+   "source_url": "https://lironshapira.substack.com/p/dr-mike-israetel-returns-to-debate",
+   "source_type": "podcast",
+   "date": "2026-05-12",
+   "verified": true,
+   "tags": [
+    "other",
+    "doom-debates"
+   ],
+   "note": "No exact figure; \"zeros repeating and then one somewhere down.\"",
+   "id": 53
+  },
+  {
+   "name": "Robin Hanson",
+   "role": "Economist, George Mason University",
+   "org": null,
+   "low": 0,
+   "high": 1,
+   "label": "<1%",
+   "scope": "near-term extinction from AGI",
+   "horizon": null,
+   "quote": "Robin's position is shockingly different: P(doom) is below 1%.",
+   "source_url": "https://lironshapira.substack.com/p/robin-hanson-ai-doom-debate",
+   "source_type": "podcast",
+   "date": "2024-07-08",
+   "verified": false,
+   "tags": [
+    "academic",
+    "doom-debates"
+   ],
+   "note": "Host-written description restating his number; transcript segment not yet re-read.",
+   "id": 54
   },
   {
    "name": "Superforecasters (XPT, n=88)",
@@ -539,7 +1162,50 @@
     "survey"
    ],
    "note": "Median of 88 superforecasters; domain experts in the same tournament: 3%.",
-   "id": 26
+   "id": 55
+  },
+  {
+   "name": "Noah Smith",
+   "role": "Economist, Noahpinion",
+   "org": null,
+   "low": 0.1,
+   "high": 0.1,
+   "label": "0.1%",
+   "scope": "total human extinction",
+   "horizon": "by 2050",
+   "quote": "My probability of total extinction by 2050 is so low that Daniel Kahneman would yell at me for giving a number. It's 0.1%.",
+   "source_url": "https://lironshapira.substack.com/p/noah-smith-vs-liron-shapira-debate",
+   "source_type": "podcast",
+   "date": "2026-01-05",
+   "verified": true,
+   "tags": [
+    "writer",
+    "academic",
+    "doom-debates"
+   ],
+   "note": "Civilizational collapse ~1%. Separately gives 96% that technology as a whole eventually ends humanity as we know it, which he doesn't necessarily consider bad.",
+   "id": 56
+  },
+  {
+   "name": "Dean Ball",
+   "role": "AI policy analyst; former White House AI Action Plan author",
+   "org": null,
+   "low": 0.01,
+   "high": 0.01,
+   "label": "0.01%",
+   "scope": "AI takes control of the world and kills large numbers of people",
+   "horizon": null,
+   "quote": "If what we're talking about is AI systems taking control over the world and killing large numbers of people... My P(doom) is very low. It's sub 1%, it's 0.01% or something like that.",
+   "source_url": "https://lironshapira.substack.com/p/max-tegmark-vs-dean-ball-debate-ban-superintelligence",
+   "source_type": "podcast",
+   "date": "2025-11-21",
+   "verified": true,
+   "tags": [
+    "policy",
+    "doom-debates"
+   ],
+   "note": "Hedged: \"or something like that.\"",
+   "id": 57
   },
   {
    "name": "Yann LeCun",
@@ -560,7 +1226,7 @@
     "researcher"
    ],
    "note": "Declines to give a figure: says all estimates are \"pulled out of thin air\" and it makes little sense to assign a probability to an event we have agency over. The \"<0.01%\" on other lists is not his wording.",
-   "id": 27
+   "id": 58
   }
  ]
 }
