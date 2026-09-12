@@ -41,7 +41,7 @@ Open an issue using the **New estimate** template, or send a pull request editin
 
 ## Who isn't here, and why
 
-Eliezer Yudkowsky has a stated policy of not giving a number; the ">95%" on other lists has no primary source. Robin Hanson's "<1%" was a podcast host's characterization, not his words. Sam Altman, Demis Hassabis and Sundar Pichai have declined when asked. Refusals are not numbers, so they are not rows.
+Robin Hanson's "<1%" was a podcast host's characterization, not his words, so he has no row. People who were asked for a number on the record and did not give one (Demis Hassabis, Sundar Pichai, Neel Nanda, Stuart Russell, Eliezer Yudkowsky and others) are listed in the `declined` array with their words. Refusals are not numbers, so they are not rows. Public-opinion polls are tagged `survey` and `poll`; their labels are shares of respondents, not probabilities, and they are excluded from the median.
 
 ## Provenance
 
