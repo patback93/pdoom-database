@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-14
+
+- Alex Turner, ~1 in 3 (AI takeover), Guardian op-ed of Sept 14. New row; his Aug 2026 25–30% stays (different scope).
+
 ## 2026-09-13 — `stake` field
 
 - Every person-row now carries `stake`: the speaker's public relationship to the AI industry (`lab`, `ex-lab`, `ai-industry`, `investor`, `safety-org`, `academic`, `government`, `media`, `independent`). Assigned from the stated role at the time of the statement; affiliation only, never money or net worth. Legend in `stake_legend`. Surveys and markets get null.
