@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-09-14",
- "count": 143,
+ "updated": "2026-09-20",
+ "count": 144,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -561,6 +561,29 @@
    "id": 25
   },
   {
+   "name": "US adults (POLITICO / Public First, September 2026, n=2,064)",
+   "role": "POLITICO, fielded by Public First",
+   "org": null,
+   "stake": null,
+   "low": 63,
+   "high": 63,
+   "label": "63% see at least moderate risk",
+   "scope": "risk that 'advanced AI will destroy humanity'",
+   "horizon": null,
+   "quote": "17% almost certain, 20% significant risk, 26% moderate risk; 7% no risk at all. 48% favor pausing development of more advanced models, 31% favor continuing.",
+   "source_url": "https://thehill.com/policy/technology/6092503-poll-ai-humanity-risks/",
+   "source_type": "poll",
+   "date": "2026-09-16",
+   "verified": true,
+   "tags": [
+    "survey",
+    "poll",
+    "public"
+   ],
+   "note": "Fieldwork Sept 13–15, 2026, MoE ±2.2. Share of respondents, not a probability. 70% of 2024 Harris voters and 60% of Trump voters.",
+   "id": 26
+  },
+  {
    "name": "Zvi Mowshowitz",
    "role": "AI writer, Don't Worry About the Vase",
    "org": null,
@@ -579,7 +602,7 @@
     "writer"
    ],
    "note": "Prefers Leike's 10–90% framing. Later reported higher on Doom Debates.",
-   "id": 26
+   "id": 27
   },
   {
    "name": "Zvi Mowshowitz",
@@ -600,7 +623,7 @@
     "writer"
    ],
    "note": "Manifold market he created on whether his own p(doom) would fall below ~55% during 2024; resolved NO.",
-   "id": 27
+   "id": 28
   },
   {
    "name": "Richard Ren",
@@ -623,7 +646,7 @@
     "doom-debates"
    ],
    "note": "Re-confirmed later in the episode after the host misremembered it as 40%.",
-   "id": 28
+   "id": 29
   },
   {
    "name": "US adults (Monmouth University, January 2023, n=805)",
@@ -646,7 +669,7 @@
     "public"
    ],
    "note": "Telephone, Jan 26–30, 2023. Same item in April 2015: 44% worried. Share, not a probability.",
-   "id": 29
+   "id": 30
   },
   {
    "name": "US adults (Yahoo News / YouGov, October 2025, n=1,770)",
@@ -669,7 +692,7 @@
     "public"
    ],
    "note": "Fieldwork Oct 23–27, 2025, MoE ~3.1%. Share, not a probability.",
-   "id": 30
+   "id": 31
   },
   {
    "name": "Liv Boeree",
@@ -691,7 +714,7 @@
     "doom-debates"
    ],
    "note": "Calls it \"a hot mess of a probability distribution\"; even 5% is unacceptable to her.",
-   "id": 31
+   "id": 32
   },
   {
    "name": "US adults (Sentience Institute AIMS, May–July 2023, n=1,099)",
@@ -714,7 +737,7 @@
     "public"
    ],
    "note": "Q: 'How concerned, if at all, are you about the possibility that AI will cause the end of the human race on Earth?' Share, not a probability.",
-   "id": 32
+   "id": 33
   },
   {
    "name": "Stuart Armstrong",
@@ -736,7 +759,7 @@
     "safety"
    ],
    "note": "Pre-dates the term p(doom).",
-   "id": 33
+   "id": 34
   },
   {
    "name": "Holden Karnofsky",
@@ -757,7 +780,7 @@
     "funder"
    ],
    "note": "A stated plausible band for a hypothetical scenario, not a point estimate.",
-   "id": 34
+   "id": 35
   },
   {
    "name": "Jan Leike",
@@ -780,7 +803,7 @@
     "lab"
    ],
    "note": "Range proposed by the host; Leike endorsed it, after saying p(doom) depends on his mood and isn't a useful question.",
-   "id": 35
+   "id": 36
   },
   {
    "name": "Katja Grace",
@@ -802,7 +825,7 @@
     "forecaster"
    ],
    "note": "To The New Yorker. Wider than her ≈7% of 2022.",
-   "id": 36
+   "id": 37
   },
   {
    "name": "Liron Shapira",
@@ -823,7 +846,7 @@
     "podcaster"
    ],
    "note": null,
-   "id": 37
+   "id": 38
   },
   {
    "name": "Nathan Labenz",
@@ -844,7 +867,7 @@
     "podcaster"
    ],
    "note": "Puts most weight on the lower end.",
-   "id": 38
+   "id": 39
   },
   {
    "name": "Geoffrey Miller",
@@ -866,7 +889,7 @@
     "doom-debates"
    ],
    "note": "Contingent on human behavior: 5% to 80% depending on societal response.",
-   "id": 39
+   "id": 40
   },
   {
    "name": "Rob Miles",
@@ -889,7 +912,7 @@
     "doom-debates"
    ],
    "note": "Agrees when the host places him \"in the 50 plus zone\", then qualifies that it depends on how humanity responds.",
-   "id": 40
+   "id": 41
   },
   {
    "name": "Tristan Harris",
@@ -911,7 +934,7 @@
     "doom-debates"
    ],
    "note": "Conditional: \"if we don't change course.\"",
-   "id": 41
+   "id": 42
   },
   {
    "name": "Emad Mostaque",
@@ -932,7 +955,7 @@
     "founder"
    ],
    "note": "Elsewhere attaches 10–20 year timelines. Earlier stated the same on X, Dec 2024.",
-   "id": 42
+   "id": 43
   },
   {
    "name": "David Krueger",
@@ -954,7 +977,7 @@
     "academic"
    ],
    "note": null,
-   "id": 43
+   "id": 44
   },
   {
    "name": "Geoffrey Irving",
@@ -978,7 +1001,7 @@
     "ex-lab"
    ],
    "note": "Explained as the mean of a long-held 10–90% range.",
-   "id": 44
+   "id": 45
   },
   {
    "name": "Paul Christiano",
@@ -1001,7 +1024,7 @@
     "ex-lab"
    ],
    "note": "Same post: AI takeover 22%; most humans die within 10 years of powerful AI 20%.",
-   "id": 45
+   "id": 46
   },
   {
    "name": "Alan Chan",
@@ -1023,7 +1046,7 @@
     "safety"
    ],
    "note": "Asked by co-guest Max Kaufmann.",
-   "id": 46
+   "id": 47
   },
   {
    "name": "US adults (YouGov, April 2023, n=1,000)",
@@ -1046,7 +1069,7 @@
     "public"
    ],
    "note": "Q: 'How likely, if at all, do you think it is that the following would cause the end of the human race on Earth?' Fieldwork April 7–11, 2023, MoE ±3.4%. Share, not a probability.",
-   "id": 47
+   "id": 48
   },
   {
    "name": "US adults (YouGov, June 2025, n=1,112)",
@@ -1069,7 +1092,7 @@
     "public"
    ],
    "note": "Same YouGov item. Fieldwork June 27–30, 2025, MoE ~4%. Share, not a probability.",
-   "id": 48
+   "id": 49
   },
   {
    "name": "Carl Feynman",
@@ -1091,7 +1114,7 @@
     "doom-debates"
    ],
    "note": "Says it was a little higher previously; things improved as more people noticed the problem.",
-   "id": 49
+   "id": 50
   },
   {
    "name": "Joep Meindertsma",
@@ -1112,7 +1135,7 @@
     "advocate"
    ],
    "note": "Journalist's paraphrase of his estimate in a profile he reviewed; adds \"I doubt constantly, but the chance it goes wrong is large.\"",
-   "id": 50
+   "id": 51
   },
   {
    "name": "Josh Snider",
@@ -1133,7 +1156,7 @@
     "writer"
    ],
    "note": null,
-   "id": 51
+   "id": 52
   },
   {
    "name": "US adults (YouGov, March 2024, n=1,073)",
@@ -1156,7 +1179,7 @@
     "public"
    ],
    "note": "Fieldwork March 14–18, 2024. Share, not a probability.",
-   "id": 52
+   "id": 53
   },
   {
    "name": "Eli Lifland",
@@ -1177,7 +1200,7 @@
     "forecaster"
    ],
    "note": "Says he doesn't think much about exact numbers.",
-   "id": 53
+   "id": 54
   },
   {
    "name": "US adults (YouGov, March 2025, n=1,132)",
@@ -1200,7 +1223,7 @@
     "public"
    ],
    "note": "Same YouGov item as 2023/2024. Fieldwork March 5–7, 2025. Share, not a probability.",
-   "id": 54
+   "id": 55
   },
   {
    "name": "Scott Alexander",
@@ -1221,7 +1244,7 @@
     "writer"
    ],
    "note": "Given only \"if forced\"; explicitly not a precise prediction.",
-   "id": 55
+   "id": 56
   },
   {
    "name": "Avalon Warren",
@@ -1243,7 +1266,7 @@
     "doom-debates"
    ],
    "note": null,
-   "id": 56
+   "id": 57
   },
   {
    "name": "Alex Turner",
@@ -1266,7 +1289,7 @@
     "ex-lab"
    ],
    "note": "Guardian op-ed. His Aug 2026 Doom Debates figure (25–30%) was for AI killing at least a billion people by 2050; this is takeover.",
-   "id": 57
+   "id": 58
   },
   {
    "name": "Richard Ngo",
@@ -1288,7 +1311,7 @@
     "ex-lab"
    ],
    "note": "Comment under Paul Christiano's 'My views on doom'.",
-   "id": 58
+   "id": 59
   },
   {
    "name": "AI safety researchers (survey, n=44)",
@@ -1309,7 +1332,7 @@
     "survey"
    ],
    "note": "n=44 of ~117 invited. Mean ~30%, median 20%. Alignment researchers, not general AI researchers.",
-   "id": 59
+   "id": 60
   },
   {
    "name": "Holly Elmore",
@@ -1331,7 +1354,7 @@
     "doom-debates"
    ],
    "note": "For \"everyone dies by 2050\": closer to 20. Says the number varies day to day.",
-   "id": 60
+   "id": 61
   },
   {
    "name": "Lumpenspace",
@@ -1353,7 +1376,7 @@
     "doom-debates"
    ],
    "note": "~0% if doom means nothing of value exists; ~30% only for the no-biological-humans definition.",
-   "id": 61
+   "id": 62
   },
   {
    "name": "Shane Legg",
@@ -1375,7 +1398,7 @@
     "researcher"
    ],
    "note": "Written Q&A before DeepMind was founded; no known updated number.",
-   "id": 62
+   "id": 63
   },
   {
    "name": "Emmett Shear",
@@ -1397,7 +1420,7 @@
     "ex-lab"
    ],
    "note": "HuffPost paraphrase of a Logan Bartlett Show clip Shear reposted himself, June 2023. No verbatim transcript read.",
-   "id": 63
+   "id": 64
   },
   {
    "name": "Alex Turner",
@@ -1421,7 +1444,7 @@
     "doom-debates"
    ],
    "note": "About 10 points technical misalignment, the rest misuse.",
-   "id": 64
+   "id": 65
   },
   {
    "name": "US registered voters (The Argument, May–June 2026, n=3,008)",
@@ -1444,7 +1467,7 @@
     "public"
    ],
    "note": "Exact wording not published in the free article. Fieldwork May 29–June 3, 2026. Share, not a probability.",
-   "id": 65
+   "id": 66
   },
   {
    "name": "Rohin Shah",
@@ -1467,7 +1490,7 @@
     "safety"
    ],
    "note": "Refuses a point estimate: \"these numbers feel particularly made up.\"",
-   "id": 66
+   "id": 67
   },
   {
    "name": "Samotsvety forecasters (n=11)",
@@ -1489,7 +1512,7 @@
     "forecaster"
    ],
    "note": "Geometric mean of odds after trimming extremes; individual range 3–91.5%.",
-   "id": 67
+   "id": 68
   },
   {
    "name": "Jan Kulveit",
@@ -1511,7 +1534,7 @@
     "safety"
    ],
    "note": "Comment thread under Kokotajlo's 70%.",
-   "id": 68
+   "id": 69
   },
   {
    "name": "Eli Lifland",
@@ -1532,7 +1555,7 @@
     "forecaster"
    ],
    "note": "ControlAI interview during the AI 2027 media round.",
-   "id": 69
+   "id": 70
   },
   {
    "name": "Dario Amodei",
@@ -1554,7 +1577,7 @@
     "ceo"
    ],
    "note": "Axios AI+ DC Summit. Top of his earlier 10–25% range.",
-   "id": 70
+   "id": 71
   },
   {
    "name": "AI safety leaders (CEA Summit on Existential Security 2026, n=59)",
@@ -1575,7 +1598,7 @@
     "survey"
    ],
    "note": "Range 5–95%; 15% answered 70% or higher.",
-   "id": 71
+   "id": 72
   },
   {
    "name": "Carl Shulman",
@@ -1597,7 +1620,7 @@
     "forecaster"
    ],
    "note": "Would have said ~10% in the 2000s, before deep learning.",
-   "id": 72
+   "id": 73
   },
   {
    "name": "Victoria Krakovna",
@@ -1620,7 +1643,7 @@
     "safety"
    ],
    "note": "Adds 'I'm not really that confident in this number at all.'",
-   "id": 73
+   "id": 74
   },
   {
    "name": "Tom Davidson",
@@ -1642,7 +1665,7 @@
     "forecaster"
    ],
    "note": "Up from 'a bit above 10%' the year before.",
-   "id": 74
+   "id": 75
   },
   {
    "name": "Yoshua Bengio",
@@ -1664,7 +1687,7 @@
     "academic"
    ],
    "note": "Derived from ~50% chance of human-level AI within a decade and >50% it's turned against humanity at scale.",
-   "id": 75
+   "id": 76
   },
   {
    "name": "Dwarkesh Patel",
@@ -1685,7 +1708,7 @@
     "podcaster"
    ],
    "note": "Says the number is borrowed from Carl Shulman.",
-   "id": 76
+   "id": 77
   },
   {
    "name": "Elon Musk",
@@ -1707,7 +1730,7 @@
     "founder"
    ],
    "note": null,
-   "id": 77
+   "id": 78
   },
   {
    "name": "Dario Amodei",
@@ -1729,7 +1752,7 @@
     "ceo"
    ],
    "note": "Clarified on Hard Fork, Feb 2025: \"10 to 25% referred to the chance of civilization getting substantially derailed, which is not the same as an AI killing everyone.\"",
-   "id": 78
+   "id": 79
   },
   {
    "name": "Liam Robins",
@@ -1751,7 +1774,7 @@
     "forecaster"
    ],
    "note": "Up from 3.38% in June 2025.",
-   "id": 79
+   "id": 80
   },
   {
    "name": "Neel Nanda",
@@ -1774,7 +1797,7 @@
     "safety"
    ],
    "note": "Written before joining DeepMind; has since said he deliberately doesn't publicize a p(doom).",
-   "id": 80
+   "id": 81
   },
   {
    "name": "Paul Christiano",
@@ -1797,7 +1820,7 @@
     "ex-lab"
    ],
    "note": "Bankless #168. Quotes as reported by Decrypt; audio not checked.",
-   "id": 81
+   "id": 82
   },
   {
    "name": "US adults (Rethink Priorities, June 2023, n=2,407)",
@@ -1820,7 +1843,7 @@
     "public"
    ],
    "note": "Respondents gave an actual percentage. Online poll June 2–3, 2023, poststratified. Authors caution numeric answers are framing-sensitive.",
-   "id": 82
+   "id": 83
   },
   {
    "name": "Lina Khan",
@@ -1841,7 +1864,7 @@
     "policy"
    ],
    "note": "Said on NYT Hard Fork after calling herself an optimist. Quote via transcription; audio not checked directly.",
-   "id": 83
+   "id": 84
   },
   {
    "name": "Elon Musk",
@@ -1863,7 +1886,7 @@
     "public-figure"
    ],
    "note": "On stage at Cannes Lions. Repeated as 'some chance which could be 10% to 20% that it goes bad' at the Future Investment Initiative, Riyadh, Oct 29 2024.",
-   "id": 84
+   "id": 85
   },
   {
    "name": "Geoffrey Hinton",
@@ -1885,7 +1908,7 @@
     "academic"
    ],
    "note": null,
-   "id": 85
+   "id": 86
   },
   {
    "name": "Daniel Kokotajlo",
@@ -1908,7 +1931,7 @@
     "ex-lab"
    ],
    "note": "Conditional estimate; he puts only 5–20% on Plan A actually happening.",
-   "id": 86
+   "id": 87
   },
   {
    "name": "Manifold traders (AI wipes out humanity before 2100, n=816)",
@@ -1929,7 +1952,7 @@
     "market"
    ],
    "note": "Live on the pdoomcoin.lol board. Play-money; YES can never pay out.",
-   "id": 87
+   "id": 88
   },
   {
    "name": "Vitalik Buterin",
@@ -1951,7 +1974,7 @@
     "doom-debates"
    ],
    "note": "Was 15–16% at the start of 2025 and ~10% earlier. Extinction by 2050 specifically: at least 9%.",
-   "id": 88
+   "id": 89
   },
   {
    "name": "Rohin Shah",
@@ -1974,7 +1997,7 @@
     "safety"
    ],
    "note": "Said not to take it too seriously; \"might have said 80%, or 95%.\"",
-   "id": 89
+   "id": 90
   },
   {
    "name": "Toby Ord",
@@ -1996,7 +2019,7 @@
     "writer"
    ],
    "note": "From The Precipice; in 2024 said the estimates are rounded to the nearest factor of 10 and none have moved far.",
-   "id": 90
+   "id": 91
   },
   {
    "name": "Joe Carlsmith",
@@ -2018,7 +2041,7 @@
     "safety"
    ],
    "note": "Original April 2021 estimate was ~5%.",
-   "id": 91
+   "id": 92
   },
   {
    "name": "Joe Carlsmith",
@@ -2040,7 +2063,7 @@
     "philosopher"
    ],
    "note": "Revision of the 5% in his 2021 report.",
-   "id": 92
+   "id": 93
   },
   {
    "name": "Vitalik Buterin",
@@ -2061,7 +2084,7 @@
     "founder"
    ],
    "note": "Stated as 0.1, i.e. 10%, in the thread for his techno-optimism essay.",
-   "id": 93
+   "id": 94
   },
   {
    "name": "Dwarkesh Patel",
@@ -2082,7 +2105,7 @@
     "podcaster"
    ],
    "note": "Lower than his ~20% of Dec 2023.",
-   "id": 94
+   "id": 95
   },
   {
    "name": "Rob Wiblin",
@@ -2103,7 +2126,7 @@
     "podcaster"
    ],
    "note": "Stated while interviewing Vitalik Buterin.",
-   "id": 95
+   "id": 96
   },
   {
    "name": "Lex Fridman",
@@ -2124,7 +2147,7 @@
     "podcaster"
    ],
    "note": "Stated while asking Sundar Pichai, who declined to give a number.",
-   "id": 96
+   "id": 97
   },
   {
    "name": "David Sirota",
@@ -2146,7 +2169,7 @@
     "doom-debates"
    ],
    "note": "No upper bound given.",
-   "id": 97
+   "id": 98
   },
   {
    "name": "Evan Hubinger",
@@ -2168,7 +2191,7 @@
     "safety"
    ],
    "note": "Adds that risk from current models is low.",
-   "id": 98
+   "id": 99
   },
   {
    "name": "Geoffrey Hinton",
@@ -2190,7 +2213,7 @@
     "academic"
    ],
    "note": "BBC Newsnight, endorsing Hubinger's framing; said it would be \"very foolish to say 1%.\"",
-   "id": 99
+   "id": 100
   },
   {
    "name": "Mikita Balesni",
@@ -2212,7 +2235,7 @@
     "researcher"
    ],
    "note": null,
-   "id": 100
+   "id": 101
   },
   {
    "name": "Victoria Krakovna",
@@ -2235,7 +2258,7 @@
     "safety"
    ],
    "note": null,
-   "id": 101
+   "id": 102
   },
   {
    "name": "Dima Krasheninnikov",
@@ -2257,7 +2280,7 @@
     "researcher"
    ],
    "note": "Hedged with \"plausibly.\"",
-   "id": 102
+   "id": 103
   },
   {
    "name": "Paul Christiano",
@@ -2280,7 +2303,7 @@
     "ex-lab"
    ],
    "note": "Personal statement on joining the OpenAI board.",
-   "id": 103
+   "id": 104
   },
   {
    "name": "Vitalik Buterin",
@@ -2302,7 +2325,7 @@
     "crypto"
    ],
    "note": "Down from the ~10% in his 2023 d/acc essay.",
-   "id": 104
+   "id": 105
   },
   {
    "name": "Machine learning researchers (survey, n≈2,778)",
@@ -2323,7 +2346,7 @@
     "survey"
    ],
    "note": "Medians 5–10% and means 9–19% across four question wordings, N up to 2,704. Survey Oct 2023.",
-   "id": 105
+   "id": 106
   },
   {
    "name": "Nate Silver",
@@ -2345,7 +2368,7 @@
     "writer"
    ],
    "note": "Given indirectly: \"in line with\" the 5–10% consensus rather than a figure of his own.",
-   "id": 106
+   "id": 107
   },
   {
    "name": "Stephen Casper",
@@ -2369,7 +2392,7 @@
     "doom-debates"
    ],
    "note": null,
-   "id": 107
+   "id": 108
   },
   {
    "name": "Katja Grace",
@@ -2391,7 +2414,7 @@
     "forecaster"
    ],
    "note": "Product of written-down component probabilities.",
-   "id": 108
+   "id": 109
   },
   {
    "name": "Will MacAskill",
@@ -2413,7 +2436,7 @@
     "ea"
    ],
    "note": "Up from the 3% in his 2022 book.",
-   "id": 109
+   "id": 110
   },
   {
    "name": "AI researchers (AI Impacts 2016, n=352)",
@@ -2434,7 +2457,7 @@
     "survey"
    ],
    "note": "Fielded 2016; 352 of 1,634 NIPS/ICML 2015 authors.",
-   "id": 110
+   "id": 111
   },
   {
    "name": "AI researchers (AI Impacts 2022, n=738)",
@@ -2455,7 +2478,7 @@
     "survey"
    ],
    "note": "738 of 4,271 NeurIPS/ICML authors. Mean ~14%. The control-failure variant had a median of 10%.",
-   "id": 111
+   "id": 112
   },
   {
    "name": "Kevin Roose",
@@ -2476,7 +2499,7 @@
     "writer"
    ],
    "note": "Reported secondhand; NYT transcript not read, may be a paraphrase.",
-   "id": 112
+   "id": 113
   },
   {
    "name": "Casey Newton",
@@ -2497,7 +2520,7 @@
     "writer"
    ],
    "note": "Reported by Fast Company; not his own words in a transcript.",
-   "id": 113
+   "id": 114
   },
   {
    "name": "Buck Shlegeris",
@@ -2519,7 +2542,7 @@
     "safety"
    ],
    "note": "A lower bound, not a point estimate.",
-   "id": 114
+   "id": 115
   },
   {
    "name": "Benjamin Mann",
@@ -2541,7 +2564,7 @@
     "founder"
    ],
    "note": "Lenny's Podcast; taken from episode summaries, full transcript paywalled.",
-   "id": 115
+   "id": 116
   },
   {
    "name": "Destiny (Steven Bonnell)",
@@ -2563,7 +2586,7 @@
     "doom-debates"
    ],
    "note": "Closing estimate on the same episode, up from <1%.",
-   "id": 116
+   "id": 117
   },
   {
    "name": "Manifold traders (AI wipes out humanity before 2030, n=1,117)",
@@ -2584,7 +2607,7 @@
     "market"
    ],
    "note": "Play-money; YES can never pay out, so read as a poll biased toward NO.",
-   "id": 117
+   "id": 118
   },
   {
    "name": "Robert Wright",
@@ -2606,7 +2629,7 @@
     "doom-debates"
    ],
    "note": "For a broader 'suffering' dystopia within 100 years: \"I wish I could say less than 50%, but I'm not sure I can.\"",
-   "id": 118
+   "id": 119
   },
   {
    "name": "Rohin Shah",
@@ -2629,7 +2652,7 @@
     "safety"
    ],
    "note": "Alignment Newsletter #170. Narrower than a full p(doom).",
-   "id": 119
+   "id": 120
   },
   {
    "name": "Quintin Pope",
@@ -2651,7 +2674,7 @@
     "doom-debates"
    ],
    "note": "Debate recorded in 2023 on Twitter Spaces; published on Doom Debates in 2026.",
-   "id": 120
+   "id": 121
   },
   {
    "name": "Liam Robins",
@@ -2673,7 +2696,7 @@
     "doom-debates"
    ],
    "note": "Title of his own post. The host reports he updated toward 8% mid-debate in part 2.",
-   "id": 121
+   "id": 122
   },
   {
    "name": "Ben Goertzel",
@@ -2696,7 +2719,7 @@
     "doom-debates"
    ],
    "note": "Half-joking; says the question isn't useful. Adds that doom without AGI (nukes, bio, nanotech) is higher than LeCun's figure.",
-   "id": 122
+   "id": 123
   },
   {
    "name": "Will MacAskill",
@@ -2718,7 +2741,7 @@
     "ea"
    ],
    "note": "Restating the figure from What We Owe the Future.",
-   "id": 123
+   "id": 124
   },
   {
    "name": "AI domain experts (XPT, n=89)",
@@ -2739,7 +2762,7 @@
     "survey"
    ],
    "note": "Same question as the superforecaster row. For a 10%-of-humanity AI catastrophe by 2100: experts 12%, superforecasters 2.13%.",
-   "id": 124
+   "id": 125
   },
   {
    "name": "Gary Marcus",
@@ -2762,7 +2785,7 @@
     "writer"
    ],
    "note": "\"Still lower than most industry people's.\"",
-   "id": 125
+   "id": 126
   },
   {
    "name": "Liam Robins",
@@ -2784,7 +2807,7 @@
     "ea"
    ],
    "note": "Superseded by his Aug 2026 post.",
-   "id": 126
+   "id": 127
   },
   {
    "name": "Matthew Adelstein",
@@ -2805,7 +2828,7 @@
     "writer"
    ],
    "note": "Writes as Bentham's Bulldog.",
-   "id": 127
+   "id": 128
   },
   {
    "name": "Matthew Adelstein",
@@ -2827,7 +2850,7 @@
     "doom-debates"
    ],
    "note": "Product of component probabilities: 90% build agents, 70% alignment by default, 70% otherwise, 60% warning shots, 80% AI could kill us.",
-   "id": 128
+   "id": 129
   },
   {
    "name": "Scott Aaronson",
@@ -2849,7 +2872,7 @@
     "researcher"
    ],
    "note": "Adds a \"much higher\" unstated probability for any AI-involved existential catastrophe.",
-   "id": 129
+   "id": 130
   },
   {
    "name": "Metaculus community (human extinction by 2100, n=1,716)",
@@ -2870,7 +2893,7 @@
     "market"
    ],
    "note": "All-cause. Was 1% in 2023.",
-   "id": 130
+   "id": 131
   },
   {
    "name": "Nora Belrose",
@@ -2892,7 +2915,7 @@
     "lab"
    ],
    "note": "Says she was at ~50–55% in May 2022 and updated down.",
-   "id": 131
+   "id": 132
   },
   {
    "name": "Michael Timothy Bennett",
@@ -2915,7 +2938,7 @@
     "doom-debates"
    ],
    "note": "Says AI halves his baseline; \"numbers I kind of made up based on gut intuition.\"",
-   "id": 132
+   "id": 133
   },
   {
    "name": "Irina Rish",
@@ -2937,7 +2960,7 @@
     "academic"
    ],
    "note": "Separately puts humanity destroying itself by any cause at 'less than 20%'.",
-   "id": 133
+   "id": 134
   },
   {
    "name": "Destiny (Steven Bonnell)",
@@ -2959,7 +2982,7 @@
     "doom-debates"
    ],
    "note": "Opening estimate on Doom Debates; raised to 5% by the end of the episode.",
-   "id": 134
+   "id": 135
   },
   {
    "name": "Mike Israetel",
@@ -2981,7 +3004,7 @@
     "doom-debates"
    ],
    "note": "No exact figure; \"zeros repeating and then one somewhere down.\"",
-   "id": 135
+   "id": 136
   },
   {
    "name": "Superforecasters (XPT, n=88)",
@@ -3002,7 +3025,7 @@
     "survey"
    ],
    "note": "Median of 88 superforecasters; domain experts in the same tournament: 3%.",
-   "id": 136
+   "id": 137
   },
   {
    "name": "Noah Smith",
@@ -3025,7 +3048,7 @@
     "doom-debates"
    ],
    "note": "Civilizational collapse ~1%. Separately gives 96% that technology as a whole eventually ends humanity as we know it, which he doesn't necessarily consider bad.",
-   "id": 137
+   "id": 138
   },
   {
    "name": "Dean Ball",
@@ -3047,7 +3070,7 @@
     "doom-debates"
    ],
    "note": "Hedged: \"or something like that.\"",
-   "id": 138
+   "id": 139
   },
   {
    "name": "Marc Andreessen",
@@ -3069,7 +3092,7 @@
     "e-acc"
    ],
    "note": "'Why AI Will Save the World'. No explicit number; dismissal in words. He later added 'p(Doom) = 0' to his X bio (reported by The New Yorker, Mar 2024).",
-   "id": 139
+   "id": 140
   },
   {
    "name": "Vinod Khosla",
@@ -3090,7 +3113,7 @@
     "investor"
    ],
    "note": "Fortune Brainstorm AI. Says the risk is 'about the same risk as that of an asteroid hitting our planet.'",
-   "id": 140
+   "id": 141
   },
   {
    "name": "Yann LeCun",
@@ -3112,7 +3135,7 @@
     "researcher"
    ],
    "note": "Declines to give a figure: says all estimates are \"pulled out of thin air\" and it makes little sense to assign a probability to an event we have agency over. The \"<0.01%\" on other lists is not his wording.",
-   "id": 141
+   "id": 142
   },
   {
    "name": "Jensen Huang",
@@ -3134,7 +3157,7 @@
     "executive"
    ],
    "note": "Axios interview. No numeric probability; dismissal in words.",
-   "id": 142
+   "id": 143
   },
   {
    "name": "Ted Sanders",
@@ -3155,7 +3178,7 @@
     "lab"
    ],
    "note": "If wrong, \"probably because I underestimate recursive self improvement.\"",
-   "id": 143
+   "id": 144
   }
  ],
  "declined": [

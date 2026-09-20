@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-20
+
+- POLITICO / Public First poll (Sept 13–15, n=2,064): 63% see at least moderate risk that advanced AI destroys humanity. Tagged survey+poll, excluded from median.
+
 ## 2026-09-14
 
 - Alex Turner, ~1 in 3 (AI takeover), Guardian op-ed of Sept 14. New row; his Aug 2026 25–30% stays (different scope).
