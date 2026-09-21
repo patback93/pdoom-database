@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-21 — weekly movers sweep
+
+- No changed numbers from people already in the database (27 names checked; Amodei, Hinton, Hubinger, Bengio and others restated older figures without a new number).
+- New: Charlie Sykes >10% (verified), Ali Ghodsi ≈0% (Databricks CEO, dismissal in words), ChatGPT 5–10% via Telluride panel (`model` tag).
+
 ## 2026-09-21
 
 - First `model` row: GPT-6 Astra, ~10% by 2050, asked by Liron Shapira. Models are tagged `model`, get no `stake`, and are excluded from the human median like surveys and markets.
