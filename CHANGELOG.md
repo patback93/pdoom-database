@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-21
+
+- First `model` row: GPT-6 Astra, ~10% by 2050, asked by Liron Shapira. Models are tagged `model`, get no `stake`, and are excluded from the human median like surveys and markets.
+
 ## 2026-09-20
 
 - POLITICO / Public First poll (Sept 13–15, n=2,064): 63% see at least moderate risk that advanced AI destroys humanity. Tagged survey+poll, excluded from median.

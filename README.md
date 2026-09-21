@@ -29,7 +29,7 @@ Raw data: `pdoom.json` (also served at https://pdoomcoin.lol/data/pdoom.json)
 | `source_url`, `source_type` | where to hear or read it |
 | `date` | ISO date of the statement (X posts: derived from the tweet ID) |
 | `verified` | re-checked against the primary source by a maintainer |
-| `tags` | `lab`, `ex-lab`, `researcher`, `safety`, `academic`, `survey`, `forecaster`, `founder`, `investor`, `policy`, `writer`, `advocate`, `podcaster` |
+| `tags` | `lab`, `ex-lab`, `researcher`, `safety`, `academic`, `survey`, `poll`, `market`, `model`, `forecaster`, `founder`, `investor`, `policy`, `writer`, `advocate`, `podcaster`. `survey`, `market` and `model` rows are excluded from the median; `model` means an AI system's own answer, not a person's. |
 | `note` | caveats the speaker attached |
 
 ## Contributing
