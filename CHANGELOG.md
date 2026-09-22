@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-22
+- Added Florian Brand, 0% (X, Sept 21). First row from the daily X watch. 149 rows.
+
 ## 2026-09-21 — weekly movers sweep
 
 - No changed numbers from people already in the database (27 names checked; Amodei, Hinton, Hubinger, Bengio and others restated older figures without a new number).

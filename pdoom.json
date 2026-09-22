@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-09-21",
- "count": 148,
+ "updated": "2026-09-22",
+ "count": 149,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -3265,6 +3265,28 @@
    ],
    "note": "Bloomberg interview; same line on the a16z podcast Sept 18. Dismissal in words, recorded like LeCun and Huang. Primary paywalled; quote via secondary coverage.",
    "id": 148
+  },
+  {
+   "name": "Florian Brand",
+   "role": "Open-model community figure and LLM evals writer (@xeophon)",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 0,
+   "label": "0%",
+   "scope": "p(doom), unqualified",
+   "horizon": null,
+   "quote": "my p(doom) is 0",
+   "source_url": "https://x.com/xeophon/status/2101999516996002165",
+   "source_type": "x",
+   "date": "2026-09-21",
+   "verified": false,
+   "tags": [
+    "open-source",
+    "x-watch"
+   ],
+   "note": "Found by the Grok Bot X watch (first day of the daily routine). Wording per the Bot; verified flag flips when the post is read directly.",
+   "id": 149
   }
  ],
  "declined": [
