@@ -3280,12 +3280,12 @@
    "source_url": "https://x.com/xeophon/status/2101999516996002165",
    "source_type": "x",
    "date": "2026-09-21",
-   "verified": false,
+   "verified": true,
    "tags": [
     "open-source",
     "x-watch"
    ],
-   "note": "Found by the Grok Bot X watch (first day of the daily routine). Wording per the Bot; verified flag flips when the post is read directly.",
+   "note": "Found by the Grok Bot X watch (first day of the daily routine). Post read directly by the maintainer Sept 22.",
    "id": 149
   }
  ],
