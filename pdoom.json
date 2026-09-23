@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-09-22",
- "count": 149,
+ "updated": "2026-09-23",
+ "count": 150,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -3287,6 +3287,28 @@
    ],
    "note": "Found by the Grok Bot X watch (first day of the daily routine). Post read directly by the maintainer Sept 22.",
    "id": 149
+  },
+  {
+   "name": "Tenobrus",
+   "role": "AI engineer and commentator (pseudonymous)",
+   "org": null,
+   "stake": "independent",
+   "low": 20,
+   "high": 20,
+   "label": "≈20%",
+   "scope": "p(doom), extinction, own trajectory: ~80% five years ago, ~30%, now ~20%",
+   "horizon": null,
+   "quote": "personally over the course of the last five years my \"p(doom)\" has gone from ~80ish down to 30ish and as of recently 20ish. i have updated significantly on many anti-doom datapoints (and also observed confirmation of many many other predicted ones)!",
+   "source_url": "https://x.com/tenobrus/status/2101892956474995192",
+   "source_type": "x",
+   "date": "2026-09-21",
+   "verified": false,
+   "tags": [
+    "x-watch",
+    "trajectory"
+   ],
+   "note": "Pseudonymous but an established AI-discourse account (~37k followers), included on the Lumpenspace precedent. Found by the Grok Bot X watch. Wording per the Bot until the post is read directly.",
+   "id": 150
   }
  ],
  "declined": [

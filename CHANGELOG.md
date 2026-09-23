@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-23
+- Added Tenobrus, ≈20% (X, Sept 21; 80→30→20 over five years). 150 rows.
+
 ## 2026-09-22
 - Added Florian Brand, 0% (X, Sept 21). First row from the daily X watch. 149 rows.
 
