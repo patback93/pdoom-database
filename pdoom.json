@@ -3455,6 +3455,14 @@
    "date": null,
    "source_url": "https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy",
    "note": "Long-standing practice of not giving a doom number; the '>95%' on other lists has no primary source. Writes of dying 'with dignity' rather than a percentage."
+  },
+  {
+   "name": "Anatoly Yakovenko (toly)",
+   "role": "Solana co-founder",
+   "quote": "My p(doom) is 100% if humans don’t develop asi",
+   "date": "2026-09-26",
+   "source_url": "https://x.com/toly/status/2103988609737199943",
+   "note": "Asked on X \"so are u team p(doom) toly\"; answered with the risk of not building ASI, not of AI itself. No number for AI-caused doom, so not a row."
   }
  ],
  "stake_legend": {

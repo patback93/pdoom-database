@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-28 (X watch, Sept 25–27)
+- Anatoly Yakovenko (toly, Solana co-founder) added to **Asked and declined**, not as a row. Asked "so are u team p(doom)", he replied "My p(doom) is 100% if humans don’t develop asi" (X, Sept 26, 23:22 UTC). That is the risk of *not* building ASI, the inverse of this dataset's question, and he gave no number for AI-caused doom. Recording it as 100% would misstate his view and skew the median. Same treatment as the Trump entry. 153 rows.
+
 ## 2026-09-28 (weekly movers sweep)
 - Jensen Huang: new row, 0% that AI ends the world by 2030 (CBS, aired Sept 20). His first explicit number; July row was a spoken dismissal (≈0%).
 - Casey Hart: new, <1% by 2050 (Doom Debates, Sept 23).
