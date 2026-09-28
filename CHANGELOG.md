@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-28 (weekly movers sweep)
+- Jensen Huang: new row, 0% that AI ends the world by 2030 (CBS, aired Sept 20). His first explicit number; July row was a spoken dismissal (≈0%).
+- Casey Hart: new, <1% by 2050 (Doom Debates, Sept 23).
+- AI Impacts 2024 expert survey (n=1,580, posted Sept 14, announced Sept 24): median 10% for extinction or permanent severe disempowerment, up from 5% in 2023.
+- Renamed the 2023 AI Impacts row from "Machine learning researchers (survey, …)" to "AI researchers (AI Impacts 2023, …)" so the four AI Impacts runs are one series (the index uses the latest of each series).
+- Checked with no new number: Altman, Amodei, Musk, Hassabis, Hinton, Bengio, Tegmark, Marcus, Zvi, Scott Alexander, Yudkowsky and others. Liron Shapira repeated ~50%.
+- 153 rows.
+
 ## 2026-09-23
 - Added Tenobrus, ≈20% (X, Sept 21; 80→30→20 over five years). 150 rows.
 

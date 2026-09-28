@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-09-23",
- "count": 150,
+ "updated": "2026-09-28",
+ "count": 153,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -2371,7 +2371,7 @@
    "id": 107
   },
   {
-   "name": "Machine learning researchers (survey, n≈2,778)",
+   "name": "AI researchers (AI Impacts 2023, n≈2,778)",
    "role": "Mean, 2023 AI Impacts expert survey",
    "org": null,
    "stake": null,
@@ -3309,6 +3309,70 @@
    ],
    "note": "Pseudonymous but an established AI-discourse account (~37k followers), included on the Lumpenspace precedent. Found by the Grok Bot X watch. Wording per the Bot until the post is read directly.",
    "id": 150
+  },
+  {
+   "name": "Jensen Huang",
+   "role": "CEO, Nvidia",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 0,
+   "label": "0%",
+   "scope": "AI ending the world by 2030",
+   "horizon": "2030",
+   "quote": "2030 is not going to be the end of the world. There is zero percent chance that's going to be the end of the world.",
+   "source_url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-20-2026/",
+   "source_type": "tv",
+   "date": "2026-09-20",
+   "verified": true,
+   "tags": [
+    "lab-leader",
+    "trajectory"
+   ],
+   "note": "CBS News interview with Jo Ling Kent (recorded Sept 18, aired Sept 20 on CBS Sunday Morning / Face the Nation), responding to Jacob Coxon's resignation. First explicit number; his July row was a spoken dismissal coded ≈0% with no horizon. CBS's article prints it as '0% chance'.",
+   "id": 151
+  },
+  {
+   "name": "Casey Hart",
+   "role": "philosopher and ontologist (formerly Cycorp, Amazon, Ford)",
+   "org": null,
+   "stake": "independent",
+   "low": 0,
+   "high": 1,
+   "label": "<1%",
+   "scope": "humanity extinct or nearly extinct because AI takes over",
+   "horizon": "2050",
+   "quote": "And for that, I’m below 1%. How much below 1%? I don’t know how to say whether it’s 0.1 versus 0.01 versus — I haven’t thought any more about that. But it’s below 1%.",
+   "source_url": "https://lironshapira.substack.com/p/will-ai-kill-everyone-by-2050",
+   "source_type": "podcast",
+   "date": "2026-09-23",
+   "verified": true,
+   "tags": [
+    "doom-debates"
+   ],
+   "note": "Doom Debates, 'Will AI Kill Everyone by 2050?', transcript at 00:25:44. Also: 'Maybe if you talk to me in 10 years, I’ll update from 0.5% to 5%.'",
+   "id": 152
+  },
+  {
+   "name": "AI researchers (AI Impacts 2024, n=1,580)",
+   "role": "AI Impacts 2024 Expert Survey on Progress in AI (ESPAI)",
+   "org": null,
+   "stake": null,
+   "low": 10,
+   "high": 10,
+   "label": "10% (median)",
+   "scope": "human extinction or similarly permanent and severe disempowerment from future AI",
+   "horizon": null,
+   "quote": "For the first time in these surveys, the median AI researcher says human extinction or permanent and severe disempowerment from future AI has a 10% chance, given no further conditions.",
+   "source_url": "https://aiimpacts.org/wp-content/uploads/2026/09/ESPAI2024.pdf",
+   "source_type": "survey",
+   "date": "2026-09-14",
+   "verified": true,
+   "tags": [
+    "survey"
+   ],
+   "note": "Fielded Dec 2024; 1,580 respondents from six top AI venues. Pooled over three question variants (n=1,489): median 10.0%, mean 18.2%, middle half 1–25%; 51% gave at least 10%. Plain question alone (n=744): median 10.0%, mean 18.3% (2023: 5% / 16.2%). PDF posted Sept 14, 2026; announced Sept 24.",
+   "id": 153
   }
  ],
  "declined": [
