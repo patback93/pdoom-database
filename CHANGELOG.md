@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-29 (later): July and August, first-person query
+- 291 posts (July 113, August 178), 57 first-person. Five new people meet the floor: Matthew Tromp 70%, Justin Halford >50%, Vladimir Shakirov ~20% (was ~60% in 2015–20), Auguste Prompt 5% if ASI is built (80% without), bone (@boneGPT) ≈0%. Plus Diego Caleiro's earlier 73% (Aug 24), before his 69%.
+- Index people median unchanged at 10.0% (n=165).
+- 217 rows.
+
 ## 2026-09-29 (last): fourth big-net batch (Sept 1–13, first-person query)
 - The Grok Bot's new narrow query ("my p(doom)", "p(doom) is", …) returned 735 posts for $3.56; 714 were new. 144 were first-person statements, and 18 of them come from real people who meet the floor.
 - **+18 rows, 18 new people:** Vikram Chandra 20–25%, Ian Bremmer ≈0% (next five years), Tomas Pueyo ~10%, Grady Booch ≈0%, Basil (@LinkofSunshine) ~1%, Blake Lemoine 0.015%, Adi Baradwaj ~0.01%, Minh Nhat Nguyen >50% (long timelines), Jack Feynman 0, Anshu Sharma 90% (humans made irrelevant, not extinction), prerat 50%, Jason Palmer ~10%, Adam Holter 0%, Gustav Dahlander ~50%, Nick Guerrera ≈0%, Luke Elin 20%, Tim O'Neil ≈0%, Onufry Wojtaszczyk (Google Cloud) >50%.

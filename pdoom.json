@@ -3,7 +3,7 @@
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
  "updated": "2026-09-29",
- "count": 211,
+ "count": 217,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -4709,6 +4709,141 @@
    ],
    "note": "Says his posts are his own, not Google's.",
    "id": 211
+  },
+  {
+   "name": "Justin Halford",
+   "role": "Writer on X",
+   "org": null,
+   "stake": "independent",
+   "low": 50,
+   "high": 100,
+   "label": ">50%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "my p(doom) is > 50% at this point\n\nThe internet is going to destabilize and a lone actor with a $20k bio printer and a sufficiently capable open source model will be able to churn out pathogens of pre-specified characteristics.",
+   "source_url": "https://x.com/Justin_Halford_/status/2085477390700937703",
+   "source_type": "x",
+   "date": "2026-08-06",
+   "verified": true,
+   "tags": [
+    "writer",
+    "x-net-2026-08"
+   ],
+   "note": "Mainly bio-risk from open models.",
+   "id": 212
+  },
+  {
+   "name": "Vladimir Shakirov",
+   "role": "Advocate for AGI safety, aging research and cryonics",
+   "org": null,
+   "stake": "independent",
+   "low": 20,
+   "high": 20,
+   "label": "~20%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "I had p(Doom) of maybe ~0.6 in ~2015-20, now more like ~0.2. Mostly because so much attention is now given to this topic. But recent Huggingface incident increased my p(Doom) somewhat.",
+   "source_url": "https://x.com/schw90/status/2093995298607518045",
+   "source_type": "x",
+   "date": "2026-08-30",
+   "verified": true,
+   "tags": [
+    "advocate",
+    "x-net-2026-08"
+   ],
+   "note": "Given as fractions: ~60% in 2015–20, ~20% now, nudged up by the Hugging Face incident.",
+   "id": 213
+  },
+  {
+   "name": "Matthew Tromp",
+   "role": "AI safety advocate (stop frontier development)",
+   "org": null,
+   "stake": "independent",
+   "low": 70,
+   "high": 70,
+   "label": "70%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "I have recently had a complete flip in my p(doom) (from \"not worth thinking about\" to 70%).",
+   "source_url": "https://x.com/matthewktromp/status/2078846321012719809",
+   "source_type": "x",
+   "date": "2026-07-19",
+   "verified": true,
+   "tags": [
+    "advocate",
+    "x-net-2026-07"
+   ],
+   "note": null,
+   "id": 214
+  },
+  {
+   "name": "Auguste Prompt",
+   "role": "Pseudonymous writer on X (~12k followers)",
+   "org": null,
+   "stake": "independent",
+   "low": 5,
+   "high": 5,
+   "label": "5% with ASI",
+   "scope": "p(doom) if ASI is built",
+   "horizon": null,
+   "quote": "Without ASI the risk of me dying is 100% and my p(doom) is 80%.\n\nWith ASI the risk of me dying is 20% and my p(doom) is 5%.",
+   "source_url": "https://x.com/augusteprompt/status/2086067470326972806",
+   "source_type": "x",
+   "date": "2026-08-08",
+   "verified": true,
+   "tags": [
+    "writer",
+    "pseudonym",
+    "e-acc",
+    "x-net-2026-08"
+   ],
+   "note": "Inverse framing: 5% with ASI, 80% without it. Established pseudonym.",
+   "id": 215
+  },
+  {
+   "name": "bone (@boneGPT)",
+   "role": "Pseudonymous builder on X (~62k followers)",
+   "org": null,
+   "stake": "independent",
+   "low": 0,
+   "high": 0,
+   "label": "≈0%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "My p(doom) is nearly zero and my p(dystopia) is nearly 100",
+   "source_url": "https://x.com/boneGPT/status/2083705958237127088",
+   "source_type": "x",
+   "date": "2026-08-02",
+   "verified": true,
+   "tags": [
+    "writer",
+    "pseudonym",
+    "x-net-2026-08"
+   ],
+   "note": "\"Nearly zero\" recorded as ≈0%; p(dystopia) nearly 100%. Established pseudonym.",
+   "id": 216
+  },
+  {
+   "name": "Diego Caleiro",
+   "role": "Philosopher and evolutionary anthropologist",
+   "org": null,
+   "stake": "independent",
+   "low": 73,
+   "high": 73,
+   "label": "73%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "I did spend 12 years of my life as a doomer doing AI safety. Like you're doing now.  I'm not opposed to your effort.  \n\nMy p doom is still 73%.",
+   "source_url": "https://x.com/diegocaleiro/status/2091726297621987572",
+   "source_type": "x",
+   "date": "2026-08-24",
+   "verified": true,
+   "tags": [
+    "writer",
+    "x-net-2026-08"
+   ],
+   "note": "Earlier number; down to 69% by Sept 10 (\"given Paul joining OpenAI\").",
+   "id": 217
   }
  ],
  "declined": [
