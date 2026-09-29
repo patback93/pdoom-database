@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-29 (backfill): X, October 2023 to June 2026, first-person query
+- The Grok Bot's first-person query ran month by month back to October 2023 (3,891 new posts; January–September 2023 not yet pulled). 742 first-person candidates were reviewed against the README rules in four parallel passes, and every quote was checked against the post text.
+- **+83 rows, 58 new people.** Among them: Ajeya Cotra (METR) <50%, Samuel Marks (Anthropic) 15–20%, Henry Shevlin (Google DeepMind) ~15%, Luke Muehlhauser >5%, David Manheim ~50%, Seán Ó hÉigeartaigh <50%, Nikola Jurkovic (METR) >50%, Greg Colbourn ~50–90% over time, Nathan Young ~4–5%, Anatoly Karlin ~30%, Julian Togelius ≈0%, Chris Albon 0%, Phil Libin ≈0%, Lyman Stone ≈0%, Guillaume Verdon ≈0% from ASI (previously only in declined, from the Lex Fridman interview), AI Notkilleveryoneism Memes ~25%.
+- Changed numbers from people already listed get new rows: David Shapiro (30% → 12.7% → 0.4% → 0.12% → 0.22%, Aug–Sept 2024), Roko Mijic, Minh Nhat Nguyen, Jey Grayson, Diego Caleiro, Justin Halford, Jack Feynman, Rafael Ruiz de Lira.
+- Excluded: Grok's own posts (a model), jokes, hypotheticals, numbers about non-AI doom, pseudonyms under ~10k followers, and small decimals that could be a fraction or a percent.
+- Median of people's latest numbers: 10.0% (n=223), unchanged.
+- 300 rows.
+
 ## 2026-09-29 (later): July and August, first-person query
 - 291 posts (July 113, August 178), 57 first-person. Five new people meet the floor: Matthew Tromp 70%, Justin Halford >50%, Vladimir Shakirov ~20% (was ~60% in 2015–20), Auguste Prompt 5% if ASI is built (80% without), bone (@boneGPT) ≈0%. Plus Diego Caleiro's earlier 73% (Aug 24), before his 69%.
 - Index people median unchanged at 10.0% (n=165).
