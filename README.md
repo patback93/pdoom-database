@@ -19,7 +19,7 @@ Raw data: `pdoom.json` (also served at https://pdoomcoin.lol/data/pdoom.json)
 The bar for what a row *is* hasn't moved: a number the person said themselves, in public, with a link a stranger can check. The bar for *who* can have a row is wider, so the sample isn't just the AI-safety world talking to itself.
 
 **In:**
-- Any real, identifiable person, whatever their field: researchers, builders, investors, officials, journalists, founders, public figures.
+- Any real, identifiable person, whatever their field (researchers, builders, investors, officials, journalists, founders, public figures) with a public presence: a role you can verify, or roughly 1k+ followers. The database records public voices, not a poll of every account.
 - Established public pseudonyms with a real audience (roughly 10k+ followers or a known byline), tagged as such.
 - Conditional numbers, with the condition kept in `scope` or `note`.
 - Plain words that *are* a number: "zero", "none", "certain", "basically zero". Recorded as said (≈0%), like LeCun and Huang.

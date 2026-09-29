@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-29 (evening): first "big net" batch from X
+- The Grok Bot pulled 2,596 September posts by term (p(doom), pdoom, p(extinction), "chance AI kills", non-English terms). The triage filter found 641 with a doom term next to a number; 153 of them are first-person.
+- Most of the 153 are the "upping my p(doom)" music-video meme, people repeating someone else's number, jokes, or anonymous accounts. Five are real people stating their own number, each read directly on X: Ryan Dahl (Node.js/Deno) 0.01% in 10 years, Ian Andrews (NVIDIA) 0, Pasha Kamyshev ~5%, Malcolm Wright <1%, Laurence Siegel ≈0%. Tagged `x-net-2026-09`.
+- Gary Marcus's row notes his Sept 9 reply: p(doom) "very low", p(catastrophe) "at least 10%".
+- README inclusion floor: identifiable people need a verifiable role or ~1k+ followers.
+- 178 rows.
+
 ## 2026-09-29: wider net (inclusion rules + six sweeps)
 - **Rules:** README now has a "Who's included" section. Same bar for what a row is: a self-stated number with a checkable source. Wider range of who can have one: any identifiable person in any field; established pseudonyms; plain words that are a number ("zero"); non-English statements with the original words (`quote_original`) and a translation.
 - **Sweeps:** investors, people who build AI (lab and industry), government and policy, international (non-English), public figures and podcast guests, crypto and tech Twitter. New rows are tagged `sweep-2026-09-29`.

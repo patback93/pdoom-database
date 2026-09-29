@@ -3,7 +3,7 @@
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
  "updated": "2026-09-29",
- "count": 173,
+ "count": 178,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -2848,7 +2848,7 @@
     "academic",
     "writer"
    ],
-   "note": "\"Still lower than most industry people's.\"",
+   "note": "\"Still lower than most industry people's.\" Sept 9, 2026 on X, asked \"what's your p(doom)?\": \"very low. but my p(catastrophe) is at least 10%.\" (words for doom, so no new row) https://x.com/GaryMarcus",
    "id": 129
   },
   {
@@ -3840,6 +3840,122 @@
    ],
    "note": "AGI Hub. His usual \"99.9%\" is conditional on no regulation and superintelligence within 5 years; overall ~90%. Date is the transcript's publication date; the livestream date is unconfirmed.",
    "id": 173
+  },
+  {
+   "org": null,
+   "horizon": "next 10 years",
+   "source_type": "x",
+   "verified": true,
+   "note": "Opens with \"10% chance of extinction indeed is ridiculous\". Posted three edited versions that night; p(extinction) = 0.0001 in all of them. Same list: p(terminator war) 0.0002, p(>25% of white collar work disappears) 0.95.",
+   "name": "Ryan Dahl",
+   "role": "Creator of Node.js, co-founder of Deno",
+   "stake": "independent",
+   "low": 0.01,
+   "high": 0.01,
+   "label": "0.01%",
+   "scope": "extinction",
+   "quote": "here are my priors for various doom scenarios in next 10 years\np(extinction) = 0.0001",
+   "source_url": "https://x.com/rough__sea/status/2099306130967236851",
+   "date": "2026-09-14",
+   "tags": [
+    "engineer",
+    "founder",
+    "x-net-2026-09",
+    "x-watch"
+   ],
+   "id": 174
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "x",
+   "verified": true,
+   "note": "Said while sharing one of the \"upping my p(doom)\" music videos.",
+   "name": "Ian Andrews",
+   "role": "NVIDIA (formerly CRO at Groq)",
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 0,
+   "label": "0",
+   "scope": "p(doom), undefined",
+   "quote": "My p(doom) is 0 but this is a Banger!",
+   "source_url": "https://x.com/IanAndrewsDC/status/2103920494852591667",
+   "date": "2026-09-26",
+   "tags": [
+    "executive",
+    "x-net-2026-09",
+    "x-watch"
+   ],
+   "id": 175
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "x",
+   "verified": true,
+   "note": "The thread's context: the main AI danger is persuasion that starts a global war, not grey goo.",
+   "name": "Pasha Kamyshev",
+   "role": "Science-fiction author (Will of the Stars)",
+   "stake": "independent",
+   "low": 5,
+   "high": 5,
+   "label": "~5%",
+   "scope": "extinction (in a thread on AI risk)",
+   "quote": "My p(global war this century) is ~80%, but my p(extinction) is still around ~5%.",
+   "source_url": "https://x.com/PashaKamyshev/status/2097903985592078694",
+   "date": "2026-09-10",
+   "tags": [
+    "writer",
+    "x-net-2026-09",
+    "x-watch"
+   ],
+   "id": 176
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "x",
+   "verified": true,
+   "note": "Adds that he thinks extinction is more likely without AI.",
+   "name": "Malcolm Wright",
+   "role": "Marketing professor",
+   "stake": "academic",
+   "low": 0,
+   "high": 1,
+   "label": "<1%",
+   "scope": "p(doom)",
+   "quote": "Yeah for me p(doom) < 1%. Not zero because something could go really wrong by accident, but I don’t think it likely.",
+   "source_url": "https://x.com/punk_utopian/status/2103942914737160516",
+   "date": "2026-09-26",
+   "tags": [
+    "academic",
+    "x-net-2026-09",
+    "x-watch"
+   ],
+   "id": 177
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "x",
+   "verified": true,
+   "note": "\"Vanishingly close to zero\" recorded as ≈0%, like other plain-word zeros. He rates \"some sort of unforeseen harm\" high.",
+   "name": "Laurence Siegel",
+   "role": "Economist and author (Fewer, Richer, Greener)",
+   "stake": "independent",
+   "low": 0,
+   "high": 0,
+   "label": "≈0%",
+   "scope": "extinction",
+   "quote": "By my logic, the p(extinction) is vanishingly close to zero.",
+   "source_url": "https://x.com/LaurenceBSiegel/status/2099701296068485183",
+   "date": "2026-09-15",
+   "tags": [
+    "writer",
+    "x-net-2026-09",
+    "x-watch"
+   ],
+   "id": 178
   }
  ],
  "declined": [
