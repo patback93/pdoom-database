@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-29 (night): second big-net batch (Sept 17–29, core terms)
+- +2,859 posts (5,455 total). 132 new first-person candidates; 10 real people with their own number who meet the floor, each read directly on X: Haseeb Qureshi (Dragonfly) ≤5% (down from ~10%), Pascal-Emmanuel Gobry 0, Roko Mijic 35–40%, Arthur Conmy (Anthropic) >10% without a slowdown, Kenneth Folk ≈0%, Rafael Ruiz de Lira 10–30%, Diego Caleiro 69%, Praful Mathur 0, Greg Meyer ≈0%, Jey Grayson 90% given ASI.
+- 188 rows.
+
 ## 2026-09-29 (evening): first "big net" batch from X
 - The Grok Bot pulled 2,596 September posts by term (p(doom), pdoom, p(extinction), "chance AI kills", non-English terms). The triage filter found 641 with a doom term next to a number; 153 of them are first-person.
 - Most of the 153 are the "upping my p(doom)" music-video meme, people repeating someone else's number, jokes, or anonymous accounts. Five are real people stating their own number, each read directly on X: Ryan Dahl (Node.js/Deno) 0.01% in 10 years, Ian Andrews (NVIDIA) 0, Pasha Kamyshev ~5%, Malcolm Wright <1%, Laurence Siegel ≈0%. Tagged `x-net-2026-09`.
