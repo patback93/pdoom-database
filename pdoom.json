@@ -3,7 +3,7 @@
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
  "updated": "2026-09-29",
- "count": 188,
+ "count": 193,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -4189,6 +4189,123 @@
    ],
    "note": "Conditional on artificial superintelligence emerging. Reply to Eliezer Yudkowsky.",
    "id": 188
+  },
+  {
+   "name": "Rob Leclerc",
+   "role": "Founder, deep-tech venture fund ($300M AUM); neural nets since 1999",
+   "org": null,
+   "stake": "investor",
+   "low": 0,
+   "high": 0,
+   "label": "0",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "i’m an accelerationist and my p(doom) is zero.",
+   "source_url": "https://x.com/robleclerc/status/2100350566182588923",
+   "source_type": "x",
+   "date": "2026-09-16",
+   "verified": true,
+   "tags": [
+    "e-acc",
+    "investor",
+    "x-net-2026-09",
+    "x-watch"
+   ],
+   "note": "Same day: \"i don’t believe in x-risk and my p(doom) is zero, but even paperclips have killed people.\"",
+   "id": 189
+  },
+  {
+   "name": "Andy Masley",
+   "role": "Writer and researcher",
+   "org": null,
+   "stake": "independent",
+   "low": 1,
+   "high": 100,
+   "label": ">1%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "To be clear as a doomer (in that my odds of doom are >1%)",
+   "source_url": "https://x.com/AndyMasley/status/2099614442761879944",
+   "source_type": "x",
+   "date": "2026-09-14",
+   "verified": true,
+   "tags": [
+    "writer",
+    "x-net-2026-09",
+    "x-watch"
+   ],
+   "note": "Calls himself a doomer on that basis and says he is otherwise \"very excited\" about AI's benefits. Open-ended: counts as 1% in the median.",
+   "id": 190
+  },
+  {
+   "name": "Nathan Worsley",
+   "role": "Captain, euphoria.fi (crypto trading)",
+   "org": null,
+   "stake": "independent",
+   "low": 1,
+   "high": 1,
+   "label": "1%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "I have raised my p(doom) from 0% to 1%",
+   "source_url": "https://x.com/NathanWorsley_/status/2100219094515752982",
+   "source_type": "x",
+   "date": "2026-09-16",
+   "verified": true,
+   "tags": [
+    "crypto",
+    "founder",
+    "x-net-2026-09",
+    "x-watch"
+   ],
+   "note": "Up from 0%.",
+   "id": 191
+  },
+  {
+   "name": "tautologer",
+   "role": "Pseudonymous writer on X (~12k followers)",
+   "org": null,
+   "stake": "independent",
+   "low": 5,
+   "high": 5,
+   "label": "~5%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "tbc my p(doom) is like 5%",
+   "source_url": "https://x.com/tautologer/status/2100053997461905743",
+   "source_type": "x",
+   "date": "2026-09-16",
+   "verified": true,
+   "tags": [
+    "writer",
+    "x-net-2026-09",
+    "x-watch"
+   ],
+   "note": "Established pseudonym. Says almost all his probability mass is on the non-doom outcomes.",
+   "id": 192
+  },
+  {
+   "name": "Meaghie Walker Williams",
+   "role": "Coast Salish matriarch; writer on X",
+   "org": null,
+   "stake": "independent",
+   "low": 90,
+   "high": 90,
+   "label": "90%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "My p-doom is 90 percent and has been for about 4 years",
+   "source_url": "https://x.com/MeaghieC/status/2099759217762803863",
+   "source_type": "x",
+   "date": "2026-09-15",
+   "verified": true,
+   "tags": [
+    "public-figure",
+    "x-net-2026-09",
+    "x-watch"
+   ],
+   "note": "Says it has held for about four years, since meeting Michael Vassar.",
+   "id": 193
   }
  ],
  "declined": [

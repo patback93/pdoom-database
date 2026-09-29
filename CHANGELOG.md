@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-29 (late): third big-net batch (Sept 13–17, core terms)
+- +1,918 posts (7,373 total). 41 new first-person candidates from accounts over ~800 followers; most were jokes or someone else's number. 5 real people stating their own, read directly on X: Rob Leclerc (deep-tech VC) 0, Andy Masley >1%, Nathan Worsley 1%, tautologer ~5%, Meaghie Walker Williams 90%.
+- 193 rows.
+
 ## 2026-09-29 (night): second big-net batch (Sept 17–29, core terms)
 - +2,859 posts (5,455 total). 132 new first-person candidates; 10 real people with their own number who meet the floor, each read directly on X: Haseeb Qureshi (Dragonfly) ≤5% (down from ~10%), Pascal-Emmanuel Gobry 0, Roko Mijic 35–40%, Arthur Conmy (Anthropic) >10% without a slowdown, Kenneth Folk ≈0%, Rafael Ruiz de Lira 10–30%, Diego Caleiro 69%, Praful Mathur 0, Greg Meyer ≈0%, Jey Grayson 90% given ASI.
 - 188 rows.
