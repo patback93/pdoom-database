@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-29 (last): fourth big-net batch (Sept 1–13, first-person query)
+- The Grok Bot's new narrow query ("my p(doom)", "p(doom) is", …) returned 735 posts for $3.56; 714 were new. 144 were first-person statements, and 18 of them come from real people who meet the floor.
+- **+18 rows, 18 new people:** Vikram Chandra 20–25%, Ian Bremmer ≈0% (next five years), Tomas Pueyo ~10%, Grady Booch ≈0%, Basil (@LinkofSunshine) ~1%, Blake Lemoine 0.015%, Adi Baradwaj ~0.01%, Minh Nhat Nguyen >50% (long timelines), Jack Feynman 0, Anshu Sharma 90% (humans made irrelevant, not extinction), prerat 50%, Jason Palmer ~10%, Adam Holter 0%, Gustav Dahlander ~50%, Nick Guerrera ≈0%, Luke Elin 20%, Tim O'Neil ≈0%, Onufry Wojtaszczyk (Google Cloud) >50%.
+- **Declined:** Rohan Anil ("No, my p(doom) is not 10%").
+- Median of people's latest numbers: 13.5% (n=142) → 10.0% (n=160). The people who post a number on X skew lower than the podcast and lab sample.
+- 211 rows.
+
 ## 2026-09-29 (late): third big-net batch (Sept 13–17, core terms)
 - +1,918 posts (7,373 total). 41 new first-person candidates from accounts over ~800 followers; most were jokes or someone else's number. 5 real people stating their own, read directly on X: Rob Leclerc (deep-tech VC) 0, Andy Masley >1%, Nathan Worsley 1%, tautologer ~5%, Meaghie Walker Williams 90%.
 - 193 rows.
