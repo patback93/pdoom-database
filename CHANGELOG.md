@@ -1,5 +1,29 @@
 # Changelog
 
+## 2026-09-29: wider net (inclusion rules + six sweeps)
+- **Rules:** README now has a "Who's included" section. Same bar for what a row is: a self-stated number with a checkable source. Wider range of who can have one: any identifiable person in any field; established pseudonyms; plain words that are a number ("zero"); non-English statements with the original words (`quote_original`) and a translation.
+- **Sweeps:** investors, people who build AI (lab and industry), government and policy, international (non-English), public figures and podcast guests, crypto and tech Twitter. New rows are tagged `sweep-2026-09-29`.
+- **+20 rows, 20 new people:**
+  - **Investors:** Jaan Tallinn 1–50% per 10× compute (point estimate ~7%).
+  - **Lab:** roon <1%.
+  - **AI industry:** 15 <1%, Flo Crivello ~10%, Himanshu Tyagi ~2%, Gil Mark ≤1%, Devin Elliot zero, Simon Willison maybe 5%.
+  - **Government:** Ro Khanna 5–10%, davidad <5%.
+  - **Media and academics:** Ed Zitron 0%, Andrew McAfee ~0%, David Shapiro <2%.
+  - **Independent:** Justin Drake >50%, Peter Berezin ~75%, Zack Shapiro 15%, Michael Vassar single-digit % by 2027, Leopold Aschenbrenner ~5%.
+  - **Japan (first non-English rows):** bioshok 30–40%, akira ~90%.
+  - **Not verified:** the Zitron, McAfee, Gil Mark and Willison rows rest on third-party or auto transcripts, so they are marked `verified: false`.
+- **+10 declined:** Sam Altman ("I have never known how to put an exact number on p(doom)"), Kenneth Stanley, Alex Bores, Alexandria Ocasio-Cortez, Ruben Gallego, JB Pritzker (spokesperson), Hodan Omaar, Audrey Tang ("My P(Doom) is NaN"), Shaw Walters, Casey Muratori. Lina Khan's row notes that she declined to update it in Sept 2026.
+- **Left out:**
+  - John Carmack: secondary source only.
+  - Andrew Ng: his 1/10,000,000 is an illustration he says is not his estimate.
+  - Olle Häggström: the number would have to be inferred.
+  - Anders Sandberg: only a video title.
+  - Ed Zitron's "1%": redefined as something other than extinction.
+  - David Shapiro's 12.70%: built from his audience's answers.
+  - Paul Kedrosky's "one in six": illustrative.
+- **People median** (latest statement per person, midpoints): 23.75% across 102 people → 18.7% across 122. The new names skew toward builders and sceptics, which is what widening the net was for. The index is re-run with this data.
+- 173 rows, 21 declined.
+
 ## 2026-09-28 (X watch, Sept 25–27)
 - Anatoly Yakovenko (toly, Solana co-founder) added to **Asked and declined**, not as a row. Asked "so are u team p(doom)", he replied "My p(doom) is 100% if humans don’t develop asi" (X, Sept 26, 23:22 UTC). That is the risk of *not* building ASI, the inverse of this dataset's question, and he gave no number for AI-caused doom. Recording it as 100% would misstate his view and skew the median. Same treatment as the Trump entry. 153 rows.
 

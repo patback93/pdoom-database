@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-09-28",
- "count": 153,
+ "updated": "2026-09-29",
+ "count": 173,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -1863,7 +1863,7 @@
    "tags": [
     "policy"
    ],
-   "note": "Said on NYT Hard Fork after calling herself an optimist. Quote via transcription; audio not checked directly.",
+   "note": "Said on NYT Hard Fork after calling herself an optimist. Quote via transcription; audio not checked directly. Asked again by POLITICO Playbook in Sept 2026, she declined through a spokesperson to give a new number.",
    "id": 84
   },
   {
@@ -3373,6 +3373,473 @@
    ],
    "note": "Fielded Dec 2024; 1,580 respondents from six top AI venues. Pooled over three question variants (n=1,489): median 10.0%, mean 18.2%, middle half 1–25%; 51% gave at least 10%. Plain question alone (n=744): median 10.0%, mean 18.3% (2023: 5% / 16.2%). PDF posted Sept 14, 2026; announced Sept 24.",
    "id": 153
+  },
+  {
+   "name": "Jaan Tallinn",
+   "role": "Co-founder of Skype; early investor in DeepMind and Anthropic; co-founder of the Future of Life Institute and CSER",
+   "org": null,
+   "stake": "investor",
+   "low": 1,
+   "high": 50,
+   "label": "1–50% per 10× compute (~7% point estimate)",
+   "scope": "life-ending disaster from AI, per generation of frontier training (each ~10× increase in compute)",
+   "horizon": "per 10× compute generation (he says 10×-ing happens every ~6–18 months)",
+   "quote": "My current estimate for life-ending disaster is basically 1-50% per generation, per 10xing of compute that's being thrown at these experiments. [...] let's say something like a geometric mean of one and 50% is seven percent. So it's seven percent risk to everything. [...] 7% is this point estimate. Really, my uncertain range is from 1% to 50%.",
+   "source_url": "https://zencastr.com/z/ulhWVkCJ",
+   "source_type": "podcast",
+   "date": "2023-07-06",
+   "verified": true,
+   "tags": [
+    "founder",
+    "investor",
+    "safety",
+    "sweep-2026-09-29"
+   ],
+   "note": "Interview by Nathan Labenz (Cognitive Revolution), republished as 'Special: Jaan Tallinn on Pausing Giant AI Experiments' on the Future of Life Institute Podcast, Jul 6, 2023 (date = FLI publish date on the episode page; the Cognitive Revolution original aired a few months earlier, exact date not fetched). Quote from the episode page's machine transcript (~41:56 chapter 'Current estimate for life-ending catastrophe'); audio not listened. Investor AND the largest individual AI-safety funder (SFF); stake=investor per brief, safety-funder role noted. Per-generation, conditional number: he adds that five or six more such scale-ups would make us 'more likely dead than not'. Not a single overall p(doom); record as range 1–50 with the per-generation scope. Sept 26, 2026 WSJ profile (Kate Clark) quotes him 'terrified AI will kill us all' but no number reachable (paywalled; AI Weekly summary shows none).",
+   "id": 154
+  },
+  {
+   "name": "Leopold Aschenbrenner",
+   "role": "Founder, Situational Awareness LP (AGI-focused investment fund); former OpenAI Superalignment researcher",
+   "org": "Situational Awareness LP",
+   "stake": "independent",
+   "low": 5,
+   "high": 5,
+   "label": "~5%",
+   "scope": "AI x-risk: extinction or similarly bad outcome",
+   "horizon": "next 20 years (from 2023)",
+   "quote": "I might put AI xrisk in the next 20 years at ~5%. But 5% chance of extinction or similarly bad outcome is, well, still incredibly high!",
+   "source_url": "https://www.forourposterity.com/nobodys-on-the-ball-on-agi-alignment/",
+   "source_type": "blog",
+   "date": "2023-03-29",
+   "verified": true,
+   "tags": [
+    "ex-lab",
+    "investor",
+    "sweep-2026-09-29",
+    "writer"
+   ],
+   "note": "Said in March 2023; later on OpenAI’s Superalignment team, now runs the AGI-focused fund Situational Awareness LP. Stake recorded as at the time of the statement is uncertain, so independent.",
+   "id": 155
+  },
+  {
+   "name": "Peter Berezin",
+   "role": "Chief Global Strategist and Director of Research, BCA Research",
+   "org": "BCA Research",
+   "stake": "independent",
+   "low": 75,
+   "high": 75,
+   "label": "~75%",
+   "scope": "p(doom), answered directly to 'what is your P-Doom?'",
+   "horizon": null,
+   "quote": "I'm going to say like 75%, which is, by the way, exactly the same probability attached to a recession in the US this year. I think it's high. I think it's quite high.",
+   "source_url": "https://lironshapira.substack.com/p/top-economist-sees-ai-doom-coming",
+   "source_type": "podcast",
+   "date": "2025-04-09",
+   "verified": true,
+   "tags": [
+    "sweep-2026-09-29",
+    "writer"
+   ],
+   "note": "Investment strategist (BCA Research), not an AI investor. Answered \"what is your P-Doom?\" directly.",
+   "id": 156
+  },
+  {
+   "name": "Justin Drake",
+   "role": "Researcher, Ethereum Foundation",
+   "org": "Ethereum Foundation",
+   "stake": "independent",
+   "low": 50,
+   "high": 100,
+   "label": ">50%",
+   "scope": "p(doom), undefined in the exchange (context: whether humanity survives technology acceleration)",
+   "horizon": null,
+   "quote": "I think you just need to keep hope. You need to put aside the so-called P(doom) — the probability of doom. My P(doom) now is relatively high. I think it's more than 50%. But I don't want to say this out loud. [...] Even though my P(doom) went way up in the last few weeks and months, this is a strong opinion weakly held.",
+   "source_url": "https://ethereum.org/videos/ethereums-quantum-plan-justin-drake",
+   "source_type": "podcast",
+   "date": "2026-03-23",
+   "verified": true,
+   "tags": [
+    "crypto",
+    "researcher",
+    "sweep-2026-09-29"
+   ],
+   "note": "Bankless podcast, 'Ethereum's Quantum Strategy with Justin Drake', segment 'Closing thoughts on probability of doom' (1:40:04), hosts Ryan Sean Adams and David Hoffman. Quote copied from the transcript published on ethereum.org. Episode date 2026-03-23 from Apple Podcasts listing (https://podcasts.apple.com/pl/podcast/ethereums-quantum-strategy-with-justin-drake/id1499409058?i=1000756742917); ethereum.org metadata shows a placeholder 2025-07-15 upload date, but the episode references Opus 4.5, so 2026 is right. He calls it 'a strong opinion weakly held'.",
+   "id": 157
+  },
+  {
+   "name": "Ed Zitron",
+   "role": "Writer and podcaster (Where's Your Ed At, Better Offline); AI-hype critic",
+   "org": "Better Offline",
+   "stake": "media",
+   "low": 0,
+   "high": 0,
+   "label": "0%",
+   "scope": "human extinction from AI 'strictly', on the current course of pursuing superintelligence",
+   "horizon": null,
+   "quote": "So are we talking strictly AI-based? Because if we dot the world with data centers, we have a climate disaster that's coming for us, which will actually potentially eradicate humanity. But if we're talking strictly about AI, I stand at zero because we are, we have not defined superintelligence. I don't think LLMs are the path to it, and I don't think I see it happening.",
+   "source_url": "https://podcasts.happyscribe.com/the-diary-of-a-ceo-with-steven-bartlett/the-great-ai-debate-is-artificial-intelligence-an-extinction-threat-debating-the-true-risks-of-advanced-models",
+   "source_type": "podcast",
+   "date": "2026-09-17",
+   "verified": false,
+   "tags": [
+    "podcaster",
+    "sweep-2026-09-29",
+    "writer"
+   ],
+   "note": "Diary of a CEO \"Great AI Debate\". Quote from the HappyScribe transcript (YouTube not reachable here). Later in the same show he said \"1%\" but redefined it as power-system failures, not extinction; not recorded.",
+   "id": 158
+  },
+  {
+   "name": "Andrew McAfee",
+   "role": "Principal research scientist, MIT Sloan; co-director, MIT Initiative on the Digital Economy",
+   "org": "MIT",
+   "stake": "academic",
+   "low": 0,
+   "high": 0,
+   "label": "~0%",
+   "scope": "human extinction from AI on the current course of pursuing superintelligence",
+   "horizon": null,
+   "quote": "I put a, I put a tilde in front of my zero because never say never, but rounding error, 0%.",
+   "source_url": "https://podcasts.happyscribe.com/the-diary-of-a-ceo-with-steven-bartlett/the-great-ai-debate-is-artificial-intelligence-an-extinction-threat-debating-the-true-risks-of-advanced-models",
+   "source_type": "podcast",
+   "date": "2026-09-17",
+   "verified": false,
+   "tags": [
+    "academic",
+    "sweep-2026-09-29",
+    "writer"
+   ],
+   "note": "Diary of a CEO \"Great AI Debate\"; written in an envelope before the show. Quote from the HappyScribe transcript.",
+   "id": 159
+  },
+  {
+   "name": "15 (15.ai)",
+   "role": "Pseudonymous computer scientist and software engineer, founder of 15.ai",
+   "org": "15.ai",
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 1,
+   "label": "<1%",
+   "scope": "humans extinct due to AI (his own operationalisation in a follow-up tweet)",
+   "horizon": "by 2100",
+   "quote": "<1%\nMy P(doom) hasn't changed much. The Navier-Stokes proof is awesome but I don't really buy the doomsday \"hype\" surrounding it",
+   "source_url": "https://x.com/fifteenai/status/2097836108054933797",
+   "source_type": "x",
+   "date": "2026-09-09",
+   "verified": true,
+   "tags": [
+    "founder",
+    "sweep-2026-09-29"
+   ],
+   "note": "Pseudonymous founder of 15.ai (Wikipedia article), direct reply to \"what's your P(doom)?\". Follow-up Sept 10: \"P(humans are extinct by 2100 due to AI) < 1%\". Both posts read directly.",
+   "id": 160
+  },
+  {
+   "name": "David Shapiro",
+   "role": "AI commentator, YouTuber and Substack author",
+   "org": "independent",
+   "stake": "media",
+   "low": 0,
+   "high": 2,
+   "label": "<2%",
+   "scope": "doom via ASI that is soon, agentic, uncontrollable and hostile (his own four-gate model)",
+   "horizon": null,
+   "quote": "When I plugged in numbers from my crowd, and arrived at a risk of 12.7%, I was called deranged by members of the AI safety community. My personal, unfiltered p(doom) is now less than 2%, see below for rationale and data",
+   "source_url": "https://daveshap.substack.com/p/what-do-you-mean-by-doomer",
+   "source_type": "blog",
+   "date": "2024-08-23",
+   "verified": true,
+   "tags": [
+    "podcaster",
+    "sweep-2026-09-29",
+    "writer"
+   ],
+   "note": "Two days earlier he posted \"My new P(DOOM) is 12.70%\", but that figure was built from his audience's poll answers; this is his stated personal number.",
+   "id": 161
+  },
+  {
+   "name": "Michael Vassar",
+   "role": "Former president of the Singularity Institute (now MIRI); investor/entrepreneur",
+   "org": "independent",
+   "stake": "independent",
+   "low": 1,
+   "high": 9,
+   "label": "single-digit % (by 2027)",
+   "scope": "AI doom (Doom Debates framing: extinction from superintelligence)",
+   "horizon": "by 2027",
+   "quote": "I really don't think this is a useful frame. But in another sense, in a long enough time horizon, it has to be close to one. All things end. And in a short enough time horizon, like 2027, it has to be a single-digit percentage. But even a single-digit percentage is noteworthy and concerning.",
+   "source_url": "https://lironshapira.substack.com/p/only-bad-people-want-to-pauseai",
+   "source_type": "podcast",
+   "date": "2026-08-18",
+   "verified": true,
+   "tags": [
+    "founder",
+    "investor",
+    "sweep-2026-09-29"
+   ],
+   "note": "Says the frame isn't useful; over a long enough horizon \"it has to be close to one\". The \"tens of percents by 2050\" was the host's wording, not his, so not recorded.",
+   "id": 162
+  },
+  {
+   "name": "David Dalrymple (davidad)",
+   "role": "AI safety researcher; programme director, ARIA Safeguarded AI",
+   "org": "ARIA",
+   "stake": "government",
+   "low": 0,
+   "high": 5,
+   "label": "<5%",
+   "scope": "p(doom), decomposed into five residual routes (wrong about the 'wisdom attractor', Malthusian competition, bio misuse, military first strike, 'warring gods')",
+   "horizon": null,
+   "quote": "I think I think we're on track yeah. I like my, my P doom is less than 5% now. I I think we're in good shape.",
+   "source_url": "https://www.cognitiverevolution.ai/alignment-with-awakening-davidad-on-moral-realism-ai-wisdom-why-his-p-doom-is-down-to-5/",
+   "source_type": "podcast",
+   "date": "2026-07-12",
+   "verified": true,
+   "tags": [
+    "government",
+    "researcher",
+    "safety",
+    "sweep-2026-09-29"
+   ],
+   "note": "The Cognitive Revolution (Nathan Labenz), [1:04:02] in the episode's published auto-transcript. Also 'even P doom less than 5%. Like that's, that's quite a lot of doom for humanity to be taking on.' [1:08:26]. Host intro: his p(doom) 'has fallen from the seventies in 2022 to under five percent today' (host's words, not a row). Researcher, outside the public-figures remit; include only if the researcher sweep didn't find it. Check whether his ARIA role is current.",
+   "id": 163
+  },
+  {
+   "name": "roon",
+   "role": "Member of technical staff, OpenAI (pseudonymous X account @tszzl)",
+   "org": "OpenAI",
+   "stake": "lab",
+   "low": 0,
+   "high": 1,
+   "label": "<1%",
+   "scope": "total value destruction (his definition of doom); excludes bad-but-not-total outcomes such as value lock-in or AI-run dictatorship",
+   "horizon": null,
+   "quote": "I think I'm definitely below 10% of total doom, total value destruction, yeah. [Liron: Are you at above 1%?] It depends on the day. I don't know. I actually think that... My PDoom of like total value destruction is likely less than 1%, but certainly like non-zero, yeah.",
+   "source_url": "https://lironshapira.substack.com/p/roon-vs-liron-ai-doom-debate",
+   "source_type": "podcast",
+   "date": "2024-12-18",
+   "verified": true,
+   "tags": [
+    "lab",
+    "researcher",
+    "sweep-2026-09-29"
+   ],
+   "note": "Definition: total value destruction. On Sept 10, 2026 he deleted a quote-post agreeing with Hubinger's >10% and said he dislikes \"the false precision of the doom numbers\": \"a quite low but real chance\". The \">10%\" circulating for him is not his.",
+   "id": 164
+  },
+  {
+   "name": "Flo Crivello",
+   "role": "Founder and CEO, Lindy",
+   "org": "Lindy",
+   "stake": "ai-industry",
+   "low": 10,
+   "high": 10,
+   "label": "~10%",
+   "scope": "doom (unspecified; contrasted with 'pure utopia')",
+   "horizon": null,
+   "quote": "Like, for the record, my PDoom, insofar as I can quantify it, which I cannot, but if I had to, like my vibe is like 10% or something like that and so there's like a 90% chance that we live in like a pure utopia.",
+   "source_url": "https://www.latent.space/p/lindy",
+   "source_type": "podcast",
+   "date": "2024-11-15",
+   "verified": true,
+   "tags": [
+    "executive",
+    "founder",
+    "sweep-2026-09-29"
+   ],
+   "note": "Latent Space, 'Agents @ Work: Lindy.ai', ~01:04:20. Transcript speaker labels are offset by one line but the answer follows Alessio's question to Flo. In 2023 on The Cognitive Revolution he said only 'I don't think there's, like, a 99 percent chance of doom. But even if it's 10 percent...' (hypothetical, not used).",
+   "id": 165
+  },
+  {
+   "name": "Himanshu Tyagi",
+   "role": "Co-founder, Sentient (open-source AGI); professor, IISc",
+   "org": "Sentient",
+   "stake": "ai-industry",
+   "low": 2,
+   "high": 2,
+   "label": "~2%",
+   "scope": "p(doom) as asked on Doom Debates (Liron's definition)",
+   "horizon": null,
+   "quote": "Yeah, so I thought of an estimate after looking at your show earlier. And my PDoom is, it's a high number. It's about 2%. And it's mostly because there are too many unknown unknowns for this.",
+   "source_url": "https://lironshapira.substack.com/p/this-85m-backed-founder-claims-open",
+   "source_type": "podcast",
+   "date": "2025-05-22",
+   "verified": true,
+   "tags": [
+    "academic",
+    "crypto",
+    "doom-debates",
+    "founder",
+    "sweep-2026-09-29"
+   ],
+   "note": "Doom Debates, ~43:22 (Substack auto-transcript, which spells him 'Hemanja'). He adds that on priors alone it would be 'much less than 1%'; 2% is his stated answer.",
+   "id": 166
+  },
+  {
+   "name": "Gil Mark",
+   "role": "Head of generative AI products, LinkedIn",
+   "org": "LinkedIn (Microsoft)",
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 1,
+   "label": "1% or less",
+   "scope": "p(doom) as asked on Doom Debates",
+   "horizon": null,
+   "quote": "1% or less.",
+   "source_url": "https://lironshapira.substack.com/p/does-ai-competition-ai-alignment",
+   "source_type": "podcast",
+   "date": "2025-02-10",
+   "verified": false,
+   "tags": [
+    "executive",
+    "sweep-2026-09-29"
+   ],
+   "note": "Auto-transcript mixes speakers; the host repeats the number back.",
+   "id": 167
+  },
+  {
+   "name": "Devin Elliot",
+   "role": "Software engineer building AI systems; former pro snowboarder",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 0,
+   "label": "zero",
+   "scope": "AI doom",
+   "horizon": null,
+   "quote": "I do not have a P(Doom). Like, it's just a zero number. I guess the way that I think about it is, I think about P(Doom) as sort of the answer to the wrong question. There's plenty of ways we annihilate ourselves. I don't think it's from this version of an AI doing that.",
+   "source_url": "https://lironshapira.substack.com/p/doomer-vs-builder-ai-doom-debate",
+   "source_type": "podcast",
+   "date": "2025-12-17",
+   "verified": true,
+   "tags": [
+    "doom-debates",
+    "engineer",
+    "sweep-2026-09-29"
+   ],
+   "note": "Doom Debates 00:03:33 (edited transcript on the post). 'It's just a zero number' maps to 0% under the plain-language rule.",
+   "id": 168
+  },
+  {
+   "name": "Simon Willison",
+   "role": "Creator of Datasette and the LLM CLI; independent developer and blogger",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 5,
+   "high": 5,
+   "label": "maybe 5%",
+   "scope": "AI doom (asked whether Llama 2 moved it)",
+   "horizon": null,
+   "quote": "My, my needle is, is stuck on the sort of metal, maybe 5%, but, but not worth thinking about. Too hard.",
+   "source_url": "https://www.latent.space/p/llama2",
+   "source_type": "podcast",
+   "date": "2023-07-19",
+   "verified": false,
+   "tags": [
+    "founder",
+    "sweep-2026-09-29",
+    "writer"
+   ],
+   "note": "\"but not worth thinking about. Too hard.\" Auto-transcript is garbled around the number.",
+   "id": 169
+  },
+  {
+   "name": "Ro Khanna",
+   "role": "US Representative (D-CA)",
+   "org": "US House of Representatives",
+   "stake": "government",
+   "low": 5,
+   "high": 10,
+   "label": "5–10%",
+   "scope": "AI apocalypse; Playbook asked 2028 prospects for their P(doom), defined as the likelihood rogue AI could wipe out humanity",
+   "horizon": null,
+   "quote": "“5 to 10%,” but added he had “faith in humanity to triumph.”",
+   "source_url": "https://www.politico.com/newsletters/playbook/2026/09/18/lina-khans-cure-for-dem-ai-doomers-01083630",
+   "source_type": "interview",
+   "date": "2026-09-18",
+   "verified": true,
+   "tags": [
+    "government",
+    "policy",
+    "sweep-2026-09-29"
+   ],
+   "note": "To POLITICO Playbook, which asked 2028 Democratic prospects for their P(doom); added he had \"faith in humanity to triumph.\"",
+   "id": 170
+  },
+  {
+   "name": "Zack Shapiro",
+   "role": "Head of Policy, Bitcoin Policy Institute; lawyer",
+   "org": "Bitcoin Policy Institute",
+   "stake": "independent",
+   "low": 15,
+   "high": 15,
+   "label": "15%",
+   "scope": "AI becomes our overlords / wipes us out (host's question: 'we get it existentially wrong and the stuff just wipes us out')",
+   "horizon": null,
+   "quote": "Do you think there's any shot that we've made a mistake here and it will become our overlords? Yes. What percentage would you put on that? 15%.",
+   "source_url": "https://podscripts.co/podcasts/what-bitcoin-did/ai-is-about-to-split-society-in-two-zack-shapiro",
+   "source_type": "podcast",
+   "date": "2026-08-14",
+   "verified": true,
+   "tags": [
+    "advocate",
+    "crypto",
+    "policy",
+    "sweep-2026-09-29"
+   ],
+   "note": "Machine transcript without speaker labels; the official episode description gives 15%, and later in the episode he restates \"some low double-digit percentage\".",
+   "id": 171
+  },
+  {
+   "name": "bioshok (有路翔太)",
+   "role": "CEO / co-representative, AGI Hub (Japan); AI-alignment commentator on X (@bioshok3, ~30k followers)",
+   "org": "AGI Hub",
+   "stake": "safety-org",
+   "low": 30,
+   "high": 40,
+   "label": "30–40%",
+   "scope": "overall p(doom) from AI, including the chance that regulation / a development pause happens (AGI Hub's own summary calls it a 総合値, all-things-considered)",
+   "horizon": null,
+   "quote": "So to explain: my P(doom) is roughly in the 30s percent overall. Um. Yeah, as an overall P(doom), about 30 to 40 percent.",
+   "source_url": "https://note.com/agi_hub/n/nf213649b7943",
+   "source_type": "video",
+   "date": "2026-08-07",
+   "quote_original": "じゃあまあ説明しますと、 だから僕のPドゥームはだいたいオーバーオールで三十パーセント台って感じですかね。で。うん。まあ全体的なPドゥームだから三十から四十パーセントぐらいで。",
+   "verified": true,
+   "tags": [
+    "advocate",
+    "podcaster",
+    "safety",
+    "sweep-2026-09-29"
+   ],
+   "note": "CEO of AGI Hub (Japan). Said at the start of a public 6-hour debate; quote checked against AGI Hub's published transcript (00:27:11). Translation by the maintainer.",
+   "id": 172
+  },
+  {
+   "name": "akira (林央, Hayashi Akira)",
+   "role": "Chief Alignment Officer / principal researcher, AGI Hub (Japan); University of Tokyo undergraduate",
+   "org": "AGI Hub",
+   "stake": "safety-org",
+   "low": 90,
+   "high": 90,
+   "label": "~90% overall",
+   "scope": "all-things-considered probability of human death/extinction from AI (\"90%ぐらいの死亡\"); the 99.9% figure he usually quotes is conditional on no development regulation and superintelligence arriving within 5 years",
+   "horizon": "not stated (conditional figure: AGI within 5 years)",
+   "quote": "Let me just say one thing first: when I say something like 99.9%, I'm actually talking under the condition 'no regulation happens and it gets built within five years'. If you factor in development regulation happening, or superintelligence actually arriving later, then overall it's about 90% death.",
+   "source_url": "https://note.com/agi_hub/n/ne0e36fb2a0e4",
+   "source_type": "video",
+   "date": "2026-09-18",
+   "quote_original": "ちなみに先に一つだけ言わせていただくと、僕が99.9%みたいに言う時は「規制ができなくて5年以内に出来ちゃった場合」という条件で実は話していて、開発規制ができたりとか、実はもっと超知能ができるのが先みたいなのを考慮すると、全体としては90%ぐらいの死亡っていう感じですね。",
+   "verified": true,
+   "tags": [
+    "advocate",
+    "researcher",
+    "safety",
+    "sweep-2026-09-29"
+   ],
+   "note": "AGI Hub. His usual \"99.9%\" is conditional on no regulation and superintelligence within 5 years; overall ~90%. Date is the transcript's publication date; the livestream date is unconfirmed.",
+   "id": 173
   }
  ],
  "declined": [
@@ -3463,6 +3930,86 @@
    "date": "2026-09-26",
    "source_url": "https://x.com/toly/status/2103988609737199943",
    "note": "Asked on X \"so are u team p(doom) toly\"; answered with the risk of not building ASI, not of AI itself. No number for AI-caused doom, so not a row."
+  },
+  {
+   "name": "Sam Altman",
+   "role": "CEO, OpenAI",
+   "quote": "I have never known how to put an exact number on p(doom), to say nothing of how to think about the differential. I will say this: if I thought going to work every day made it less likely that we all continue to thrive into the future, I would retire and just hang with my kids.",
+   "date": "2026-03-01",
+   "source_url": "https://x.com/sama/status/2027958834741055691",
+   "note": "Reply to Geoffrey Miller (@gmiller) asking 'what's the maximum p(doom) you're willing to impose on all of our kids'. Verified via syndication API. Wikipedia's '>0%' for Altman is words, not a number."
+  },
+  {
+   "name": "Kenneth Stanley",
+   "role": "Former OpenAI research team lead (open-endedness)",
+   "quote": "And I think if I give you a p-doom, I will immediately polarize your audience. ... I just don't really want to be pigeonholed into this number.",
+   "date": "2025-01-06",
+   "source_url": "https://lironshapira.substack.com/p/debate-with-a-former-openai-research",
+   "note": "Asked on Doom Debates (~58:30-59:05, auto-transcript). Stake ex-lab. He also says a 50% p(doom) is 'within reason' given his wide error bars, which is not his own number."
+  },
+  {
+   "name": "Alex Bores",
+   "role": "New York State Assemblymember; Democratic candidate for Congress (NY-12); RAISE Act author",
+   "quote": "Ben Smith: Like 5%, 10%? Alex Bores: I wouldn't put a number on it, but I think a lot of the debates on it, is it 5%, is it 10%, is it 50%, is it 90%? If your chance of human extinction is measurable in percentage points, the federal government should be thinking about it and acting on it. Ben Smith: Do you think it is in integers? Alex Bores: Yes. The median AI researcher, when polled, puts the risk of extinction at 10%. Ben Smith: Do you think that's reasonable? Alex Bores: I think so.",
+   "date": "2026-05-13",
+   "source_url": "https://nyeditorialboard.substack.com/p/alex-bores-on-housing-ai-regulation",
+   "note": "Said he \"wouldn't put a number on it\"; agreed it is measurable in whole percentage points and that 10% is reasonable. Not recorded as a number."
+  },
+  {
+   "name": "Alexandria Ocasio-Cortez",
+   "role": "US Representative (D-NY)",
+   "quote": "I just don't think it's constructive to engage in it",
+   "date": "2026-09-18",
+   "source_url": "https://www.politico.com/newsletters/playbook/2026/09/18/lina-khans-cure-for-dem-ai-doomers-01083630",
+   "note": "Asked by POLITICO Playbook for her P(doom). Playbook: she 'knew the score. But she wasn't playing the numbers game.'"
+  },
+  {
+   "name": "Ruben Gallego",
+   "role": "US Senator (D-AZ)",
+   "quote": "This doesn't end in us like having a nuclear apocalypse. But what happens when an agent goes rogue and actually wipes out everybody's banking history?",
+   "date": "2026-09-18",
+   "source_url": "https://www.politico.com/newsletters/playbook/2026/09/18/lina-khans-cure-for-dem-ai-doomers-01083630",
+   "note": "Answered POLITICO Playbook's P(doom) question with no number; implies low extinction risk in words only."
+  },
+  {
+   "name": "JB Pritzker",
+   "role": "Governor of Illinois",
+   "quote": "No one should be asking politicians to calculate mathematical probabilities related to AI. Instead, listen to what the experts are telling the world: AI is a threat to humanity's existence.",
+   "date": "2026-09-18",
+   "source_url": "https://www.politico.com/newsletters/playbook/2026/09/18/lina-khans-cure-for-dem-ai-doomers-01083630",
+   "note": "Statement from a Pritzker spokesperson, not Pritzker in person."
+  },
+  {
+   "name": "Hodan Omaar",
+   "role": "Senior Policy Analyst, ITIF",
+   "quote": "The way I think about it is that my range for what p(doom) for AGI is is somewhere around what my p(doom) for other hypothetical, but yet unproven, risks are, rather than necessarily putting a number on it",
+   "date": "2023-12-06",
+   "source_url": "https://www.techpolicy.press/us-senate-ai-insight-forum-tracker/",
+   "note": "Participant in Senate AI Insight Forum #8, where Schumer asked each attendee for their p(doom). Quote from her interview with Tech Policy Press. Think-tank (independent), not government."
+  },
+  {
+   "name": "Audrey Tang",
+   "role": "Taiwan's Cyber Ambassador-at-Large; former Digital Minister",
+   "quote": "My P(Doom) is NaN, or Not A Number, and here's why. [...] It is from zero percent to one hundred percent. We're flying blind. We don't know. So the mean, I guess, is fifty percent, but it's cosmetic. The interval is the message. [...] It's zero to one hundred. [...] we need a glass horse system that you can actually see into as a condition of deployment, and then I'll give you a real number.",
+   "date": "2026-01-20",
+   "source_url": "https://lironshapira.substack.com/p/can-we-govern-superintelligence-taiwans",
+   "note": "Doom Debates transcript, 0:17:34 to 0:20:43. Refuses a number ('NaN', '0 to 100'). The '50% mean' is explicitly 'cosmetic', so not a row."
+  },
+  {
+   "name": "Shaw Walters",
+   "role": "Founder, Eliza Labs / elizaOS (formerly ai16z)",
+   "quote": "So what's your number for P(doom)? I think this is a certain flaw in relatively smart people that they feel this need to take a hyper complex vector and turn it into a scalar number. ... I just don't believe in doom. ... My P(doom) is a multipolar. It's gotta be at least 10 dimensions at this point. It's pretty low on some of those dimensions, but mostly it's pretty high.",
+   "date": "2026-03-06",
+   "source_url": "https://www.blockchaingamer.biz/features/interviews/41648/shaw-walters-elizaos-ai-agents-blockchain-gaming/",
+   "note": "BlockchainGamer.biz interview by Jon Jordan. Asked directly for a number, gave none ('mostly it's pretty high' is words, not a number). Crypto-AI agent founder."
+  },
+  {
+   "name": "Casey Muratori",
+   "role": "Game developer, programming educator (Molly Rocket), co-host of Wading Through AI",
+   "quote": "I hate to disappoint you. As with the things that I said before, I don't think I can actually put a probability on it because of the inability to know all of the specifics of what people are actually working on.",
+   "date": "2026-06-25",
+   "source_url": "https://lironshapira.substack.com/p/even-01-pdoom-is-unacceptable-world",
+   "note": "Doom Debates ~55:10, asked 'what is your P-Doom'. Episode title 'Even 0.1% P(Doom) Is Unacceptable' is his threshold argument, not his estimate. Quote from Substack auto-transcript. Tech-twitter/YouTube figure, not crypto."
   }
  ],
  "stake_legend": {

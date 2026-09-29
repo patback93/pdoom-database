@@ -14,6 +14,26 @@ Raw data: `pdoom.json` (also served at https://pdoomcoin.lol/data/pdoom.json)
 5. **Verified means re-checked.** `"verified": true` means a maintainer opened the primary source and confirmed the quote. Rows from secondary lists are included with their citations and marked `false` until checked.
 6. **No side taken.** Yampolskiy's 99.999999% and LeCun's <0.01% are both in here on equal terms.
 
+## Who's included (widened Sept 29, 2026)
+
+The bar for what a row *is* hasn't moved: a number the person said themselves, in public, with a link a stranger can check. The bar for *who* can have a row is wider, so the sample isn't just the AI-safety world talking to itself.
+
+**In:**
+- Any real, identifiable person, whatever their field: researchers, builders, investors, officials, journalists, founders, public figures.
+- Established public pseudonyms with a real audience (roughly 10k+ followers or a known byline), tagged as such.
+- Conditional numbers, with the condition kept in `scope` or `note`.
+- Plain words that *are* a number: "zero", "none", "certain", "basically zero". Recorded as said (≈0%), like LeCun and Huang.
+- Statements in any language, with the original words in `quote_original` and an English translation in `quote`.
+- A number given as a direct answer to "what's your p(doom)?", in any medium, including replies on X.
+
+**Out:**
+- Numbers someone else attributed to the person.
+- Vague words ("unlikely", "a real risk", "not zero"). If the person was asked directly and answered like this, they go in `declined`.
+- Anonymous one-off accounts and first-name-only callers.
+- Numbers about something else, such as doom *without* AI, or the odds of AGI by a date.
+
+The p(doom) index uses one number per person (their latest) and excludes surveys, markets, polls and models. Widening the net changes who is counted, so every sweep that adds people is logged in the CHANGELOG with the before and after median.
+
 ## Schema
 
 | field | meaning |
@@ -25,7 +45,8 @@ Raw data: `pdoom.json` (also served at https://pdoomcoin.lol/data/pdoom.json)
 | `label` | the value as the speaker gave it |
 | `scope` | what "doom" meant in context |
 | `horizon` | time frame, if stated |
-| `quote` | exact words, when available |
+| `quote` | exact words, when available (English translation for non-English statements) |
+| `quote_original` | the original words, for non-English statements |
 | `source_url`, `source_type` | where to hear or read it |
 | `date` | ISO date of the statement (X posts: derived from the tweet ID) |
 | `verified` | re-checked against the primary source by a maintainer |
