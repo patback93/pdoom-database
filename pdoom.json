@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-09-29",
- "count": 300,
+ "updated": "2026-10-05",
+ "count": 302,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -845,7 +845,7 @@
    "tags": [
     "podcaster"
    ],
-   "note": null,
+   "note": "Restated Oct 2, 2026 (Doom Debates x Nonzero): \"My P(Doom) is like fifty percent by 2050.\"",
    "id": 38
   },
   {
@@ -1000,7 +1000,7 @@
     "policy",
     "ex-lab"
    ],
-   "note": "Explained as the mean of a long-held 10–90% range.",
+   "note": "Explained as the mean of a long-held 10–90% range. Restated in his own TIME essay, Oct 3, 2026: \"I believe there's about a 50% chance we all die because of the development of smarter-than-human AI systems\" (time.com/article/2026/10/03/...).",
    "id": 45
   },
   {
@@ -6601,6 +6601,52 @@
    ],
    "note": "Established pseudonym; bare statement, no context.",
    "id": 300
+  },
+  {
+   "name": "Garrison Lovely",
+   "role": "Journalist; author of Obsolete",
+   "org": null,
+   "stake": "media",
+   "low": 0,
+   "high": 50,
+   "label": "0–50%",
+   "scope": "extinction largely driven by AI by 2050; ~0 if we stop, \"like a coin flip\" if we build it as fast as possible",
+   "horizon": "2050",
+   "quote": "Zero to fifty. And... if we stop it, we will not go extinct from AI. If we build it as fast as possible, then I think it's kind of like a coin flip.",
+   "source_url": "https://lironshapira.substack.com/p/garrison-lovely-obsolete",
+   "source_type": "podcast",
+   "date": "2026-09-29",
+   "verified": true,
+   "tags": [
+    "writer",
+    "doom-debates",
+    "movers-2026-10-05"
+   ],
+   "note": "Doom Debates, asked for P(Extinction) by 2050. Same episode: P(Bad) \"zero to ninety-five percent\"; says he \"used to tell people privately\" ten to ninety percent.",
+   "id": 301
+  },
+  {
+   "name": "Noah Smith",
+   "role": "Economist; writer (Noahpinion)",
+   "org": null,
+   "stake": "media",
+   "low": 10,
+   "high": 10,
+   "label": "10%",
+   "scope": "extinction or civilizational collapse from 'genie-type' AI",
+   "horizon": null,
+   "quote": "Yeah, ten percent.",
+   "source_url": "https://lironshapira.substack.com/p/this-top-economists-pdoom-just-shot",
+   "source_type": "podcast",
+   "date": "2026-03-17",
+   "verified": true,
+   "tags": [
+    "writer",
+    "doom-debates",
+    "movers-2026-10-05"
+   ],
+   "note": "Doom Debates, asked \"What's your P(Doom) now?\" Up from his earlier 0.1%. Found in the Oct 5 sweep; it had been missing.",
+   "id": 302
   }
  ],
  "declined": [

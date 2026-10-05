@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-05: weekly movers sweep (Sept 28 – Oct 5)
+- **New:** Garrison Lovely (journalist, *Obsolete*) 0–50% extinction by 2050: ~0 "if we stop it", "like a coin flip" if we build as fast as possible (Doom Debates, Sept 29).
+- **Missing row added:** Noah Smith 10% (Doom Debates, Mar 17, 2026), up from his 0.1%.
+- **Restated, no new row:** Geoffrey Irving ~50%, now in his own TIME essay (Oct 3); Liron Shapira ~50% by 2050 (Oct 2).
+- **Checked and excluded:** Altman (judged a 10% risk "unacceptable", no number of his own); LeCun ("zero concerns" is a headline paraphrase); Kokotajlo's Senate testimony (a timeline, not p(doom)); Yampolskiy 99.9% (a reporter's summary).
+- 302 rows.
+
 ## 2026-09-29 (backfill): X, October 2023 to June 2026, first-person query
 - The Grok Bot's first-person query ran month by month back to October 2023 (3,891 new posts; January–September 2023 not yet pulled). 742 first-person candidates were reviewed against the README rules in four parallel passes, and every quote was checked against the post text.
 - **+83 rows, 58 new people.** Among them: Ajeya Cotra (METR) <50%, Samuel Marks (Anthropic) 15–20%, Henry Shevlin (Google DeepMind) ~15%, Luke Muehlhauser >5%, David Manheim ~50%, Seán Ó hÉigeartaigh <50%, Nikola Jurkovic (METR) >50%, Greg Colbourn ~50–90% over time, Nathan Young ~4–5%, Anatoly Karlin ~30%, Julian Togelius ≈0%, Chris Albon 0%, Phil Libin ≈0%, Lyman Stone ≈0%, Guillaume Verdon ≈0% from ASI (previously only in declined, from the Lex Fridman interview), AI Notkilleveryoneism Memes ~25%.
