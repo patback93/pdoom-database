@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-10-05",
- "count": 302,
+ "updated": "2026-10-09",
+ "count": 310,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -4024,7 +4024,7 @@
     "x-net-2026-09",
     "x-watch"
    ],
-   "note": "Adds that \"laissez-faire AI development\" carries \"a much, much higher risk\". A Sept 25 post calls 40% \"reasonable with a determined effort to reduce it\".",
+   "note": "Adds that \"laissez-faire AI development\" carries \"a much, much higher risk\". A Sept 25 post calls 40% \"reasonable with a determined effort to reduce it\". Restated Oct 4, 2026: \"my P(Doom) is like 36% or something\" (x.com/RokoMijic/status/2106691873402196305).",
    "id": 181
   },
   {
@@ -4118,7 +4118,7 @@
     "x-net-2026-09",
     "x-watch"
    ],
-   "note": "Recorded as said; the number may be partly tongue-in-cheek.",
+   "note": "Recorded as said; the number may be partly tongue-in-cheek. Restated Oct 1, 2026: \"my P(doom) is 69%\" (x.com/diegocaleiro/status/2105732226411528566).",
    "id": 185
   },
   {
@@ -6647,6 +6647,184 @@
    ],
    "note": "Doom Debates, asked \"What's your P(Doom) now?\" Up from his earlier 0.1%. Found in the Oct 5 sweep; it had been missing.",
    "id": 302
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "article",
+   "verified": true,
+   "note": "In \"An Open Letter To Steven Pinker On AI\", part of a public exchange with Pinker. Down from ~33% (2023). Several X posts paraphrased it as 30–35%; the letter says 25–30%.",
+   "name": "Scott Alexander",
+   "role": "Writer, Astral Codex Ten",
+   "stake": "media",
+   "low": 25,
+   "high": 30,
+   "label": "25–30%",
+   "scope": "AI drives humanity extinct",
+   "quote": "I’ve previously said that I think there’s about a 25-30% chance that AI drives humanity extinct.",
+   "source_url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
+   "date": "2026-10-06",
+   "tags": [
+    "writer",
+    "movers-2026-10-09"
+   ],
+   "id": 303
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "x",
+   "verified": true,
+   "note": "Up from 2–3% (Sept 2025). Reply to Rob Leclerc.",
+   "name": "Magnus Hambleton",
+   "role": "VC, byFounders (early in Lovable)",
+   "stake": "investor",
+   "low": 5,
+   "high": 5,
+   "label": "~5%",
+   "scope": "p(doom)",
+   "quote": "I am what you may call a doomer and my p(doom) is ~5% but very uncertain. I think even 0.4% is way too high to be ok with.",
+   "source_url": "https://x.com/magnushambleton/status/2107791948710826020",
+   "date": "2026-10-07",
+   "tags": [
+    "investor",
+    "x-net-2026-10"
+   ],
+   "id": 304
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "x",
+   "verified": true,
+   "note": "Open interval: above zero, below 1%.",
+   "name": "Peter Tarr",
+   "role": "Investment manager; ex stock and options broker (@ProfitsTaken, ~83k followers)",
+   "stake": "investor",
+   "low": 0,
+   "high": 1,
+   "label": ">0%, <1%",
+   "scope": "AI p(doom)",
+   "quote": "FWIW, to me AI p(doom) is best expressed as: 0 < p(doom) < 1%",
+   "source_url": "https://x.com/ProfitsTaken/status/2104772480573301014",
+   "date": "2026-09-29",
+   "tags": [
+    "investor",
+    "x-net-2026-10"
+   ],
+   "id": 305
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "x",
+   "verified": true,
+   "note": "Reply about abliterated (safety-removed) open models.",
+   "name": "Emre Sokullu",
+   "role": "Developer of WebBrain, an open-source AI browser agent",
+   "stake": "ai-industry",
+   "low": 100,
+   "high": 100,
+   "label": "100%",
+   "scope": "p(doom)",
+   "quote": "I think abliterated models are much more likely to cause it 🥲 That's why my P(doom) is 100%. But heck, there's no stopping it now.",
+   "source_url": "https://x.com/EmreSokullu/status/2108166725837455420",
+   "date": "2026-10-08",
+   "tags": [
+    "builder",
+    "x-net-2026-10"
+   ],
+   "id": 306
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "x",
+   "verified": true,
+   "note": "Conditional: 40% \"if the slowdown/regulation guys get their way\". Says the year-earlier figure was 10–20%. Restated \"my P(doom) is maybe 5%\" on Oct 7. BlockApps lists a co-founder James (Jim) Hormuzdiar; matched by surname and the STRATO link in his bio.",
+   "name": "Jamshid Hormuzdiar",
+   "role": "Tech founder building with AI at STRATO (BlockApps); former particle physicist",
+   "stake": "ai-industry",
+   "low": 5,
+   "high": 5,
+   "label": "5%",
+   "scope": "p(doom)",
+   "quote": "A year ago my P(doom) was 10%-20%. We understand AI better now (I code with it professionally every day). My P(doom) has dropped to 5%. I raise it to 40% if the slowdown/regulation guys get their way.",
+   "source_url": "https://x.com/JamshidHormuz/status/2105769366922952765",
+   "date": "2026-10-01",
+   "tags": [
+    "builder",
+    "e-acc",
+    "x-net-2026-10"
+   ],
+   "id": 307
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "x",
+   "verified": true,
+   "note": "\"Basically 0\", recorded as said.",
+   "name": "Daniel Losey",
+   "role": "Builds genetic algorithms and low-resource language translation tools",
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 0,
+   "label": "≈0%",
+   "scope": "p(doom)",
+   "quote": "my p(doom) is basically 0, but my p(I'm wrong about my p(doom)) is like %19.",
+   "source_url": "https://x.com/DanielJLosey/status/2104772061218460112",
+   "date": "2026-09-29",
+   "tags": [
+    "builder",
+    "x-net-2026-10"
+   ],
+   "id": 308
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "x",
+   "verified": true,
+   "name": "Wesley Blomquist",
+   "role": "Writer on X on AI and tech (\"progressive e/acc\", ~1.3k followers)",
+   "stake": "independent",
+   "low": 0,
+   "high": 1,
+   "label": "far less than 1%",
+   "scope": "AI wiping humanity off the planet",
+   "quote": "The idea that AI is going to wipe us off the planet is just fear-mongering. I truly believe that P-Doom is far less than 1%.",
+   "source_url": "https://x.com/Chief1496/status/2106453784482189517",
+   "date": "2026-10-03",
+   "tags": [
+    "e-acc",
+    "x-net-2026-10"
+   ],
+   "id": 309,
+   "note": null
+  },
+  {
+   "org": null,
+   "horizon": null,
+   "source_type": "x",
+   "verified": true,
+   "note": "Established pseudonym.",
+   "name": "American HODL (@americanhodl8)",
+   "role": "Pseudonymous bitcoin investor on X (~98k followers)",
+   "stake": "investor",
+   "low": 0,
+   "high": 0,
+   "label": "0",
+   "scope": "p(doom)",
+   "quote": "My p(doom) is zero my p(btc) is 100",
+   "source_url": "https://x.com/americanhodl8/status/2107135541536059580",
+   "date": "2026-10-05",
+   "tags": [
+    "investor",
+    "pseudonym",
+    "x-net-2026-10"
+   ],
+   "id": 310
   }
  ],
  "declined": [

@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-09: Grok Bot dailies (Sept 28 – Oct 9) + Scott Alexander
+- The Grok Bot's daily first-person query, Sept 29 and Oct 1–6 plus an Oct 9 catch-up: 296 posts, 74 with a doom term next to a number, 62 not seen before. Read against the README rules and each post fetched again for verbatim text.
+- **New people (6):** Peter Tarr (investment manager) >0%, <1%; Emre Sokullu (WebBrain) 100%; Jamshid Hormuzdiar (STRATO/BlockApps) 5%, down from 10–20% a year ago, 40% "if the slowdown/regulation guys get their way"; Daniel Losey ≈0%; Wesley Blomquist far less than 1%; American HODL (pseudonym, ~98k) 0.
+- **Changed numbers:** Scott Alexander 25–30% in his open letter to Steven Pinker (Oct 6), down from ~33% (2023); X paraphrased it as 30–35%, the letter says 25–30%. Magnus Hambleton ~5% (Oct 7), up from 2–3%.
+- **Restated, no new row:** Roko Mijic "like 36%" (Oct 4, inside his 35–40%); Diego Caleiro 69% (Oct 1).
+- **Excluded:** jokes (a "now at 11.3%" after a 3am page; "<0"; "NaN"), numbers attributed to others (Yudkowsky, Amodei, Yampolskiy, Alexander), hypotheticals, a flippant "P(doom) is 0 buddy" reply, and pseudonyms or first-name accounts under the floor.
+- Median of people's latest numbers: 10.0% (n=224) → 10.0% (n=230).
+- 310 rows.
+
 ## 2026-10-05: weekly movers sweep (Sept 28 – Oct 5)
 - **New:** Garrison Lovely (journalist, *Obsolete*) 0–50% extinction by 2050: ~0 "if we stop it", "like a coin flip" if we build as fast as possible (Doom Debates, Sept 29).
 - **Missing row added:** Noah Smith 10% (Doom Debates, Mar 17, 2026), up from his 0.1%.
