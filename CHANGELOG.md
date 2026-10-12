@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-12: weekly movers sweep (Oct 5 – 12)
+- **New:** Jacob Coxon (ex-Anthropic and OpenAI researcher) "more likely than not" (>50%) that humanity loses control to AI on the current path, testifying to the New York City Council (Oct 5). Sarah Hastings-Woodhouse (AI safety writer, formerly UK AISI) 40–50% (Doom Debates, Oct 7). Greg Emerson (BCG senior partner) 0 (X, Oct 9).
+- **Changed:** Kevin Roose ~10% (Business Insider, Oct 7), up from 5% (2023). Zvi Mowshowitz >50% for "Doom v1" (loss of control, total disempowerment and/or extinction) by 2036 (Oct 7); scoped and dated, consistent with his ~70%.
+- **Declined (new):** at the same NYC Council hearing, Speaker Julie Menin asked OpenAI, Google, Meta and Anthropic to quantify the worst-case risk. None gave a number: Morgan Dwyer (OpenAI) "I don't know", Alice Friend (Google) "there isn't really a rigorous scientific way", Shane Cahill (Meta) "I don't have our framework in front of me". Anthropic's Logan Graham gave no number, but no verbatim answer was published, so he isn't listed. Also Andy Barkett (Miriel): "assigning a specific probability … is misleading".
+- **Restated, no new row:** Alex Turner "roughly one in three" at the hearing (press-reported).
+- **Checked and not added:** Andrew Leigh "one in 10" (article blocked, no verbatim yet); Philip Tetlock "well under 50-50" to 2050 (student-paper fragments); Richard Socher "zero" (episode description only); Lila Ibrahim (NDTV blocked). Grok Bot dailies Oct 10–11: one row (Emerson), the rest quiz results, jokes or below the floor.
+- Median of people's latest numbers: 10.0% (n=230) → 10.0% (n=233).
+- 315 rows, 26 declined.
+
 ## 2026-10-09: Grok Bot dailies (Sept 28 – Oct 9) + Scott Alexander
 - The Grok Bot's daily first-person query, Sept 29 and Oct 1–6 plus an Oct 9 catch-up: 296 posts, 74 with a doom term next to a number, 62 not seen before. Read against the README rules and each post fetched again for verbatim text.
 - **New people (6):** Peter Tarr (investment manager) >0%, <1%; Emre Sokullu (WebBrain) 100%; Jamshid Hormuzdiar (STRATO/BlockApps) 5%, down from 10–20% a year ago, 40% "if the slowdown/regulation guys get their way"; Daniel Losey ≈0%; Wesley Blomquist far less than 1%; American HODL (pseudonym, ~98k) 0.

@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-10-09",
- "count": 310,
+ "updated": "2026-10-12",
+ "count": 315,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -1288,7 +1288,7 @@
     "safety",
     "ex-lab"
    ],
-   "note": "Guardian op-ed. His Aug 2026 Doom Debates figure (25–30%) was for AI killing at least a billion people by 2050; this is takeover.",
+   "note": "Guardian op-ed. His Aug 2026 Doom Debates figure (25–30%) was for AI killing at least a billion people by 2050; this is takeover. Restated at the NYC Council hearing, Oct 5, 2026 (\"roughly one in three\", as reported by Fortune and The Next Web).",
    "id": 58
   },
   {
@@ -6825,6 +6825,120 @@
     "x-net-2026-10"
    ],
    "id": 310
+  },
+  {
+   "name": "Jacob Coxon",
+   "role": "Former pretraining researcher, Anthropic and OpenAI (resigned Sept 8, 2026)",
+   "org": null,
+   "stake": "ex-lab",
+   "low": 50,
+   "high": 100,
+   "label": ">50% (\"more likely than not\")",
+   "scope": "humanity loses control to AI, which \"could end in human extinction\"",
+   "horizon": "on the current path",
+   "quote": "On the current path, I think it is more likely than not that humanity loses control to these AIs, and it could end in human extinction.",
+   "source_url": "https://council.nyc.gov/press/2026/10/05/3278/",
+   "source_type": "testimony",
+   "date": "2026-10-05",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "ex-lab",
+    "testimony",
+    "movers-2026-10-12"
+   ],
+   "note": "Testimony to the New York City Council (Committee of the Whole), quoted in the Council's release and verbatim by The Next Web; amNY reports he framed it as his own assessment. A TMZ appearance on Sept 11 was summarised elsewhere as \"10% in the next ten years\"; no verbatim found, not recorded.",
+   "id": 311
+  },
+  {
+   "name": "Sarah Hastings-Woodhouse",
+   "role": "AI safety writer and researcher; podcaster; formerly digital communications officer, UK AI Security Institute",
+   "org": null,
+   "stake": "media",
+   "low": 40,
+   "high": 50,
+   "label": "40–50%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "I would say it is — and this is just very vibes-based — but something like 40 to 50%.",
+   "source_url": "https://lironshapira.substack.com/p/ai-has-become-profoundly-weird",
+   "source_type": "podcast",
+   "date": "2026-10-07",
+   "verified": true,
+   "tags": [
+    "writer",
+    "safety",
+    "doom-debates",
+    "movers-2026-10-12"
+   ],
+   "note": "Doom Debates, 00:23:39. Breakdown: alignment turns out tractable, another 20% \"we regulate and buy ourselves more time\", \"the other 50% — I think maybe we're just a bit screwed.\"",
+   "id": 312
+  },
+  {
+   "name": "Kevin Roose",
+   "role": "Author, The AGI Chronicles; formerly tech columnist, The New York Times, and co-host of Hard Fork",
+   "org": null,
+   "stake": "media",
+   "low": 10,
+   "high": 10,
+   "label": "~10%",
+   "scope": "\"it all goes super bad\"",
+   "horizon": null,
+   "quote": "I usually say I'm at about 10%. … Which sounds crazy to people in most parts of the world. But in San Francisco, that makes you an optimist.",
+   "source_url": "https://www.businessinsider.com/openai-anthropic-trump-regulation-kevin-roose-ai-book-podcast-kafka-2026-10",
+   "source_type": "interview",
+   "date": "2026-10-07",
+   "verified": true,
+   "tags": [
+    "writer",
+    "movers-2026-10-12"
+   ],
+   "note": "Asked \"What's your personal P(doom)?\" by Peter Kafka (Business Insider, edited transcript). Up from 5% (2023, secondhand).",
+   "id": 313
+  },
+  {
+   "name": "Zvi Mowshowitz",
+   "role": "Writer, Don't Worry About the Vase",
+   "org": null,
+   "stake": "media",
+   "low": 50,
+   "high": 100,
+   "label": ">50%",
+   "scope": "\"Doom v1\": loss of control, total disempowerment and/or extinction",
+   "horizon": "by 2036",
+   "quote": "As readers will know, I think Doom v1 is the most likely of these outcomes, and indeed is over 50%, and I expect the second most likely outcome is Utopia.",
+   "source_url": "https://thezvi.substack.com/p/the-curve-bends-you",
+   "source_type": "article",
+   "date": "2026-10-07",
+   "verified": true,
+   "tags": [
+    "writer",
+    "movers-2026-10-12"
+   ],
+   "note": "Scenario from The Curve 2026 voting board \"Seven futures for 2036\" (definition in the board image in the post). A dated, scoped statement; consistent with his ~70% (2025), not necessarily a move down.",
+   "id": 314
+  },
+  {
+   "name": "Greg Emerson",
+   "role": "Managing director and senior partner, BCG; leads technology investing",
+   "org": null,
+   "stake": "investor",
+   "low": 0,
+   "high": 0,
+   "label": "0",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "persistent jagged intelligence is GOOD for humanity. Transformative AI that still leaves a meaningful role for human judgment and agency. It's why my p(doom) = 0.",
+   "source_url": "https://x.com/GregEmersonian/status/2108636101481005564",
+   "source_type": "x",
+   "date": "2026-10-09",
+   "verified": true,
+   "tags": [
+    "investor",
+    "x-net-2026-10"
+   ],
+   "note": "Thread on post-training compute; links his BCG piece with Ulrich Pidun on AGI timelines.",
+   "id": 315
   }
  ],
  "declined": [
@@ -7003,6 +7117,38 @@
    "date": "2026-09-10",
    "source_url": "https://x.com/_arohan_/status/2097874723195805748",
    "note": "Opening an AMA after leaving Anthropic; says what his number isn't, not what it is."
+  },
+  {
+   "name": "Morgan Dwyer",
+   "role": "Head of policy development and operations, OpenAI",
+   "quote": "I don't know. I also don't think it matters whether it's 1% or 10% or 20% chance of something catastrophic or wrong. None of these levels is remotely acceptable.",
+   "date": "2026-10-05",
+   "source_url": "https://www.cityandstateny.com/politics/2026/10/leading-ai-companies-fail-impress-city-council-ai-hearing/416428/",
+   "note": "Asked at the New York City Council hearing (Oct 5, 2026) by Speaker Julie Menin to quantify the risk of the worst-case catastrophic scenario, speaking for their company. The percentages are rhetorical, not an estimate. Quote as reported (City & State, amNY)."
+  },
+  {
+   "name": "Alice Friend",
+   "role": "Global head of AI and emerging tech policy, Google",
+   "quote": "there isn't really a rigorous scientific way to do those yet",
+   "date": "2026-10-05",
+   "source_url": "https://fortune.com/2026/10/05/new-york-city-council-hearing-openai-anthropic-ai-safety-google-meta/",
+   "note": "Asked at the New York City Council hearing (Oct 5, 2026) by Speaker Julie Menin to quantify the risk of the worst-case catastrophic scenario, speaking for their company. Also said forecasting catastrophic risk \"is not a perfect science at this stage\". Quote as reported (Fortune)."
+  },
+  {
+   "name": "Shane Cahill",
+   "role": "Director, privacy and AI legislation, Meta",
+   "quote": "Speaker, I don't wish to be imprecise in relation to the question of quantifying, I don't have our framework in front of me right now, but I'd be pleased to follow up with you afterwards.",
+   "date": "2026-10-05",
+   "source_url": "https://www.machine.news/it-doesnt-matter-big-ai-refuses-to-estimate-p-doom-at-nyc-council-hearing/",
+   "note": "Asked at the New York City Council hearing (Oct 5, 2026) by Speaker Julie Menin to quantify the risk of the worst-case catastrophic scenario, speaking for their company. Quote as reported (Machine). Anthropic's Logan Graham was asked too and gave no number, but no verbatim answer was published."
+  },
+  {
+   "name": "Andy Barkett",
+   "role": "Founder, Miriel; formerly engineering manager at Google, Nvidia and Meta",
+   "quote": "I think assigning a specific probability to something like that is misleading. There are certainly real risks associated with AI, including potentially existential ones.",
+   "date": "2026-10-08",
+   "source_url": "https://ls.berkeley.edu/news/will-ai-kill-us-all-political-economy-alumnus-and-ai-executive-andy-barkett-says-10-chance",
+   "note": "Asked \"Should we worry that there is a 10% chance that AI will kill us all?\" (Berkeley Social Sciences interview)."
   }
  ],
  "stake_legend": {
