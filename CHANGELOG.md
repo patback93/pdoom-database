@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-19: weekly movers sweep (Oct 12 – 19)
+- **New:** Richard Socher (Recursive, You.com) 0, "the p(doom) probability of existentially wiping out humanity is zero from AI" (Fortune AI Weekly, Oct 13). Andrew Ng ≈0%, "no meaningful human existential risks from AI" (The Economist, Oct 13). Nicholas Agar (University of Waikato) "0.00002 or 0.000001" (ABC, Oct 13). Julian Stastny (Redwood Research) >10% (Hamburger Abendblatt, Oct 12, German). Han Sang-ki (Tech Frontier) >20% and rising, civilisational collapse (AI Post Korea, Oct 18, Korean).
+- **Changed:** Geoffrey Hinton 10–20% again (CNN, Oct 14), after 10% in September; he adds "there's no way to justify 10 percent or 20 percent". Eli Lifland ~67% AI takeover if the companies don't slow down, ~40% extinction given takeover (X, Oct 11); takeover up from ~50%.
+- **Declined (new):** Timothy Gowers, "I don't have a p(doom), but … I can't confidently say that my p(doom) is close to zero" (X, Oct 16). Lila Ibrahim (Google DeepMind), "It's not zero. Anything beyond that is just me guessing" (Fortune, Aug 6, previously missed). Pepe Cerezo, "¡La que queramos!" (20minutos, Oct 18).
+- **Restated, no new row:** Geoffrey Irving "a coin flip" to the UK Commons Business and Trade Committee (Oct 13); Grady Booch "as close to zero as one can get"; Dominik Lukes "way below 0.1%". Roko Mijic's Oct 4 "~80% probability" of death within single-digit years without a global halt is conditional and noted on his row; the same day he said "like 36%".
+- **Checked and not added:** Mike Solana "sub a tenth of one percent" and Riley Nork "I don't have a p doom" (Pirate Wires podcast, Oct 9; speakers not yet confirmed by ear); Alan Chan "anything between one to 10" (answering a different question); Marissa Mayer "well less than 50%" (Fortune paraphrase); Philip Tetlock "well under 50-50" (fragments); Andrew Leigh "one in 10" (transcript behind Cloudflare); zeal "~0" (post no longer available).
+- Median of people's latest numbers: 10.0% (n=233) → 10.0% (n=238).
+- 322 rows, 29 declined.
+
 ## 2026-10-12: weekly movers sweep (Oct 5 – 12)
 - **New:** Jacob Coxon (ex-Anthropic and OpenAI researcher) "more likely than not" (>50%) that humanity loses control to AI on the current path, testifying to the New York City Council (Oct 5). Sarah Hastings-Woodhouse (AI safety writer, formerly UK AISI) 40–50% (Doom Debates, Oct 7). Greg Emerson (BCG senior partner) 0 (X, Oct 9).
 - **Changed:** Kevin Roose ~10% (Business Insider, Oct 7), up from 5% (2023). Zvi Mowshowitz >50% for "Doom v1" (loss of control, total disempowerment and/or extinction) by 2036 (Oct 7); scoped and dated, consistent with his ~70%.

@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-10-12",
- "count": 315,
+ "updated": "2026-10-19",
+ "count": 322,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -1000,7 +1000,7 @@
     "policy",
     "ex-lab"
    ],
-   "note": "Explained as the mean of a long-held 10–90% range. Restated in his own TIME essay, Oct 3, 2026: \"I believe there's about a 50% chance we all die because of the development of smarter-than-human AI systems\" (time.com/article/2026/10/03/...).",
+   "note": "Explained as the mean of a long-held 10–90% range. Restated in his own TIME essay, Oct 3, 2026: \"I believe there's about a 50% chance we all die because of the development of smarter-than-human AI systems\" (time.com/article/2026/10/03/...). Restated to the UK Commons Business, Innovation and Trade Committee, Oct 13, 2026 (Q8): \"a coin flip is roughly the right model to have\" (committees.parliament.uk/oralevidence/18133/html/).",
    "id": 45
   },
   {
@@ -4024,7 +4024,7 @@
     "x-net-2026-09",
     "x-watch"
    ],
-   "note": "Adds that \"laissez-faire AI development\" carries \"a much, much higher risk\". A Sept 25 post calls 40% \"reasonable with a determined effort to reduce it\". Restated Oct 4, 2026: \"my P(Doom) is like 36% or something\" (x.com/RokoMijic/status/2106691873402196305).",
+   "note": "Adds that \"laissez-faire AI development\" carries \"a much, much higher risk\". A Sept 25 post calls 40% \"reasonable with a determined effort to reduce it\". Restated Oct 4, 2026: \"my P(Doom) is like 36% or something\" (x.com/RokoMijic/status/2106691873402196305). Also Oct 4, 2026, conditional: without \"a complete, global halt of all frontier AI research\" (or something like it), \"we should expect to die within a single digit number of years with ~80% probability\" (x.com/RokoMijic/status/2106551839013458298).",
    "id": 181
   },
   {
@@ -4393,7 +4393,7 @@
     "engineer",
     "x-net-2026-09"
    ],
-   "note": "\"Asymptotically close to zero\" recorded as ≈0%. Posted twice the same day (second post corrects a typo).",
+   "note": "\"Asymptotically close to zero\" recorded as ≈0%. Posted twice the same day (second post corrects a typo). Restated Oct 16, 2026: \"my P (doom) is as close to zero as one can get\" (x.com/Grady_Booch/status/2110968461958816217).",
    "id": 197
   },
   {
@@ -6048,7 +6048,7 @@
    "tags": [
     "x-net-backfill"
    ],
-   "note": null,
+   "note": "Restated Oct 18, 2026: \"my p-doom is way below 0.1%\" (x.com/techczech/status/2111741936239350018).",
    "id": 274
   },
   {
@@ -6939,6 +6939,166 @@
    ],
    "note": "Thread on post-training compute; links his BCG piece with Ulrich Pidun on AGI timelines.",
    "id": 315
+  },
+  {
+   "name": "Nicholas Agar",
+   "role": "Professor of ethics, University of Waikato",
+   "org": null,
+   "stake": "academic",
+   "low": 0.0001,
+   "high": 0.002,
+   "label": "0.00002 or 0.000001",
+   "scope": "AI sends us extinct",
+   "horizon": null,
+   "quote": "If you bully me into putting a number on it, bearing in mind that I am not an especially numerate academic philosopher, I might say something like 0.00002 or 0.000001 — they both seem like appropriately low probabilities to me.",
+   "source_url": "https://www.abc.net.au/religion/nicholas-agar-pdoom-ai-human-extinction-learning-from-hal/107260506",
+   "source_type": "article",
+   "date": "2026-10-13",
+   "verified": true,
+   "tags": [
+    "academic",
+    "philosopher",
+    "movers-2026-10-19"
+   ],
+   "note": "Given as probabilities (fractions): 0.002% or 0.0001%. Essay title: \"What is your current p(doom)? I'm just a philosopher, but mine is low.\"",
+   "id": 316
+  },
+  {
+   "name": "Andrew Ng",
+   "role": "Co-founder, Google Brain and Coursera; founder, DeepLearning.AI",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 0,
+   "label": "≈0% (\"no meaningful\" risk)",
+   "scope": "human existential risk from AI",
+   "horizon": null,
+   "quote": "I think there are no meaningful human existential risks from AI. So, efforts to stave off human existential risk seem unnecessary.",
+   "source_url": "https://shows.acast.com/theeconomistbabbage/episodes/andrew-ng-on-the-ai-doom-delusion",
+   "source_type": "podcast",
+   "date": "2026-10-13",
+   "verified": true,
+   "tags": [
+    "builder",
+    "movers-2026-10-19"
+   ],
+   "note": "The Economist's Inside Tech interview, replayed on Babbage (Oct 14); ~9:46. Quoted verbatim by the New York Post (Oct 13). Plain words recorded as ≈0%, like LeCun and Huang.",
+   "id": 317
+  },
+  {
+   "name": "Geoffrey Hinton",
+   "role": "Nobel laureate; University of Toronto",
+   "org": null,
+   "stake": "ex-lab",
+   "low": 10,
+   "high": 20,
+   "label": "10–20%",
+   "scope": "AI tries to take over from us",
+   "horizon": null,
+   "quote": "That's the point of saying 10 percent to 20 percent, to tell people it's a significant chance. It's not inevitable. That means it's -- that's saying there's an 80 percent chance it won't happen.",
+   "source_url": "https://transcripts.cnn.com/show/sitroom/date/2026-10-14/segment/04",
+   "source_type": "tv",
+   "date": "2026-10-14",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "academic",
+    "movers-2026-10-19"
+   ],
+   "note": "CNN The Situation Room, answering Jensen Huang. Says \"Nobody can get a good number. There's no way to justify 10 percent or 20 percent. You use those numbers to indicate to people it's a significant chance.\" Back to his usual range after 10% in September.",
+   "id": 318
+  },
+  {
+   "name": "Julian Stastny",
+   "role": "Researcher, Redwood Research",
+   "org": null,
+   "stake": "safety-org",
+   "low": 10,
+   "high": 100,
+   "label": ">10%",
+   "scope": "AI kills all humans",
+   "horizon": "next decade (Hubinger's framing)",
+   "quote": "It's irresponsible to assume a lower danger; that would need solid reasons, which in my view nobody can show. The real danger could just as well be well over ten percent.",
+   "source_url": "https://www.abendblatt.de/wirtschaft/article413324879/chatgpt-claude-etc-kann-ki-die-menschheit-ausloeschen-vielleicht-schon-in-einem-jahr.html",
+   "source_type": "interview",
+   "date": "2026-10-12",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "safety",
+    "non-english",
+    "movers-2026-10-19"
+   ],
+   "note": "Hamburger Abendblatt interview. Responding to Evan Hubinger's \"over ten percent\" in the next decade, which the paper says he agrees with.",
+   "quote_original": "„Ich halte es für unverantwortlich, von einer geringeren Gefahr auszugehen – dafür bräuchte es handfeste Gründe, die meiner Meinung nach aber niemand vorweisen kann. Genauso gut kann die reale Gefahr weit über zehn Prozent liegen.“",
+   "id": 319
+  },
+  {
+   "name": "Han Sang-ki",
+   "role": "CEO, Tech Frontier; early Korean AI researcher",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 20,
+   "high": 100,
+   "label": ">20%, rising",
+   "scope": "collapse of human civilisation (not necessarily everyone dying), in his lifetime",
+   "horizon": null,
+   "quote": "On the probability of doom, P-doom, I think mine is over 20% and it keeps rising.",
+   "source_url": "https://www.aipostkorea.com/news/articleView.html?idxno=12986",
+   "source_type": "interview",
+   "date": "2026-10-18",
+   "verified": true,
+   "tags": [
+    "non-english",
+    "movers-2026-10-19"
+   ],
+   "note": "Quoted directly by AI Post Korea from his OKKY developer talk; the talk may predate the article. Defines doom as civilisation collapsing, not everyone dying.",
+   "quote_original": "종말 확률 'P-doom'과 관련, 저는 20% 이상이고 계속 늘어나고 있다고 생각한다",
+   "id": 320
+  },
+  {
+   "name": "Richard Socher",
+   "role": "CEO, Recursive; founder, You.com; formerly chief scientist, Salesforce",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 0,
+   "label": "0",
+   "scope": "AI existentially wiping out humanity",
+   "horizon": null,
+   "quote": "The p(doom) probability of existentially wiping out humanity is zero from AI.",
+   "source_url": "https://x.com/FortuneMagazine/status/2110166435792146472",
+   "source_type": "video",
+   "date": "2026-10-13",
+   "verified": true,
+   "tags": [
+    "builder",
+    "movers-2026-10-19"
+   ],
+   "note": "Fortune AI Weekly (Jeremy Kahn and Bea Nolan), asked how likely the existential-risk scenarios are; calls them \"so unrealistic that they're like borderline ridiculous.\" Clip posted by Fortune Oct 14 and reposted by Socher. Full episode: youtube.com/watch?v=nutfdSHvLZI.",
+   "id": 321
+  },
+  {
+   "name": "Eli Lifland",
+   "role": "AI Futures Project; co-author, AI 2027",
+   "org": null,
+   "stake": "safety-org",
+   "low": 67,
+   "high": 67,
+   "label": "~67% takeover (if no slowdown)",
+   "scope": "AI takeover, if AI companies don't slow down; human extinction ~40% conditional on takeover",
+   "horizon": null,
+   "quote": "If they don't slow down, AI takeover is ~67%. Conditional on AI takeover, human extinction is ~40%. Many non-extinction worlds still have lots of deaths.",
+   "source_url": "https://x.com/eli_lifland/status/2109082373644308554",
+   "source_type": "x",
+   "date": "2026-10-11",
+   "verified": true,
+   "tags": [
+    "forecaster",
+    "movers-2026-10-19"
+   ],
+   "note": "Takeover up from ~50% (Apr 2025). Multiplied out, about 27% extinction if there is no slowdown (our arithmetic, not his). Same post: superhuman AI ~10–15% by end of 2027, ~50% by end of 2030.",
+   "id": 322
   }
  ],
  "declined": [
@@ -7149,6 +7309,30 @@
    "date": "2026-10-08",
    "source_url": "https://ls.berkeley.edu/news/will-ai-kill-us-all-political-economy-alumnus-and-ai-executive-andy-barkett-says-10-chance",
    "note": "Asked \"Should we worry that there is a 10% chance that AI will kill us all?\" (Berkeley Social Sciences interview)."
+  },
+  {
+   "name": "Timothy Gowers",
+   "role": "Mathematician, Collège de France and Trinity College Cambridge; Fields Medal",
+   "quote": "I don't have a p(doom), but in particular I can't confidently say that my p(doom) is close to zero, which is a worrying position to be in.",
+   "date": "2026-10-16",
+   "source_url": "https://x.com/wtgowers/status/2111045962911097188",
+   "note": "Summary line of a long thread on AI risk; also encourages mathematicians to consider working on AI safety."
+  },
+  {
+   "name": "Lila Ibrahim",
+   "role": "Chief AI readiness officer, Google DeepMind",
+   "quote": "It's not zero. Anything beyond that is just me guessing … That's the engineer in me.",
+   "date": "2026-08-06",
+   "source_url": "https://fortune.com/2026/08/06/google-deepmind-chief-ai-officer-statement-warning-ai-could-cause-human-extinction-odds-are-not-zero-disagrees-with-elon-musk/",
+   "note": "Asked by Fortune how likely an extinction-level outcome is. Signed the 2023 CAIS extinction-risk statement."
+  },
+  {
+   "name": "Pepe Cerezo",
+   "role": "AI-in-business consultant; author of Deep Tech",
+   "quote": "¡La que queramos! … No creo que debamos entrar en el juego de si hay un 10, 20 o 30% de probabilidades de que se extinga la humanidad. … Y, además, no lo sabe nadie.",
+   "date": "2026-10-18",
+   "source_url": "https://www.20minutos.es/tecnologia/pepe-cerezo-tras-los-intereses-ia-trump-quiere-que-hablemos-una-superinteligencia-bajo-control-estados-unidos_7049607_0.html",
+   "note": "Asked \"What probability do you think there is that AI kills all humans in the next decade?\" Translation: \"Whatever we want! … I don't think we should play the game of whether there's a 10, 20 or 30% chance humanity goes extinct. … And besides, nobody knows.\" (20minutos)"
   }
  ],
  "stake_legend": {
