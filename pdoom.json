@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-10-19",
- "count": 322,
+ "updated": "2026-10-26",
+ "count": 331,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -1000,7 +1000,7 @@
     "policy",
     "ex-lab"
    ],
-   "note": "Explained as the mean of a long-held 10–90% range. Restated in his own TIME essay, Oct 3, 2026: \"I believe there's about a 50% chance we all die because of the development of smarter-than-human AI systems\" (time.com/article/2026/10/03/...). Restated to the UK Commons Business, Innovation and Trade Committee, Oct 13, 2026 (Q8): \"a coin flip is roughly the right model to have\" (committees.parliament.uk/oralevidence/18133/html/).",
+   "note": "Explained as the mean of a long-held 10–90% range. Restated in his own TIME essay, Oct 3, 2026: \"I believe there's about a 50% chance we all die because of the development of smarter-than-human AI systems\" (time.com/article/2026/10/03/...). Restated to the UK Commons Business, Innovation and Trade Committee, Oct 13, 2026 (Q8): \"a coin flip is roughly the right model to have\" (committees.parliament.uk/oralevidence/18133/html/). Also on frominside.ai (Sept 29): \"The chance of human extinction is about a coin flip, in my view, about a half.\"",
    "id": 45
   },
   {
@@ -1288,7 +1288,7 @@
     "safety",
     "ex-lab"
    ],
-   "note": "Guardian op-ed. His Aug 2026 Doom Debates figure (25–30%) was for AI killing at least a billion people by 2050; this is takeover. Restated at the NYC Council hearing, Oct 5, 2026 (\"roughly one in three\", as reported by Fortune and The Next Web).",
+   "note": "Guardian op-ed. His Aug 2026 Doom Debates figure (25–30%) was for AI killing at least a billion people by 2050; this is takeover. Restated at the NYC Council hearing, Oct 5, 2026 (\"roughly one in three\", as reported by Fortune and The Next Web). On frominside.ai (Sept 29), conditional: \"Assuming an AI has taken control, it seems … over fifty percent more likely than not that all humans would end up dying.\"",
    "id": 58
   },
   {
@@ -7005,7 +7005,7 @@
     "academic",
     "movers-2026-10-19"
    ],
-   "note": "CNN The Situation Room, answering Jensen Huang. Says \"Nobody can get a good number. There's no way to justify 10 percent or 20 percent. You use those numbers to indicate to people it's a significant chance.\" Back to his usual range after 10% in September.",
+   "note": "CNN The Situation Room, answering Jensen Huang. Says \"Nobody can get a good number. There's no way to justify 10 percent or 20 percent. You use those numbers to indicate to people it's a significant chance.\" Back to his usual range after 10% in September. Oct 21, El País: \"It's more than 1%, so we ought to really worry about it\" (a lower bound; headlines misquoted it as 1%). Starmus, Tenerife (~Oct 20, La Vanguardia, Oct 25): above 1% and below 99%; \"10% or 20%, which is what I've been saying, is very worrying.\"",
    "id": 318
   },
   {
@@ -7099,6 +7099,211 @@
    ],
    "note": "Takeover up from ~50% (Apr 2025). Multiplied out, about 27% extinction if there is no slowdown (our arithmetic, not his). Same post: superhuman AI ~10–15% by end of 2027, ~50% by end of 2030.",
    "id": 322
+  },
+  {
+   "name": "Roko Mijic",
+   "role": "Rationalist writer (Roko's basilisk)",
+   "org": null,
+   "stake": "independent",
+   "low": 95,
+   "high": 100,
+   "label": "95%+ (on the current path)",
+   "scope": "the end of the world from AI",
+   "horizon": "on the current path",
+   "quote": "yeah this is sort of also my view\n\nOn the current path it's 95%+",
+   "source_url": "https://x.com/RokoMijic/status/2111806757198565714",
+   "source_type": "x",
+   "date": "2026-10-18",
+   "verified": true,
+   "tags": [
+    "writer",
+    "x-watch",
+    "x-net-2026-10"
+   ],
+   "note": "Thread: Roko, \"5% end of the world is not that bad actually, given the rewards that come from AI. The problem is, it's not actually 5%.\" A reply: \"Even 50% would be kinda acceptable. But it's not actually 50%.\" Roko: this. Conditional on the current path; on Oct 4 he said \"like 36%\" unconditionally and ~80% within single-digit years without a global halt.",
+   "id": 323
+  },
+  {
+   "name": "Matt Bateman",
+   "role": "Philosopher, Alpha School; principal, Montessorium",
+   "org": null,
+   "stake": "independent",
+   "low": 0,
+   "high": 0,
+   "label": "0",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "(My p doom is zero btw.)",
+   "source_url": "https://x.com/mbateman/status/2112648413003071911",
+   "source_type": "x",
+   "date": "2026-10-20",
+   "verified": true,
+   "tags": [
+    "philosopher",
+    "x-net-2026-10"
+   ],
+   "note": "Ahead of an AI-and-education panel at VELA in Austin, where he expected to be \"the most doomer person on the panel\".",
+   "id": 324
+  },
+  {
+   "name": "Eric Siegel",
+   "role": "Founder, Machine Learning Week; author, The AI Playbook; former Columbia University professor",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 0,
+   "label": "0",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "Why is my P(doom) is 0?",
+   "source_url": "https://x.com/predictanalytic/status/2113659934357549166",
+   "source_type": "x",
+   "date": "2026-10-23",
+   "verified": true,
+   "tags": [
+    "builder",
+    "x-net-2026-10"
+   ],
+   "note": "Promoting his Ignite podcast appearance with Brian Bell, where he explains it.",
+   "id": 325
+  },
+  {
+   "name": "Peter Thiel",
+   "role": "Co-founder, Palantir and Founders Fund",
+   "org": null,
+   "stake": "investor",
+   "low": 0,
+   "high": 0,
+   "label": "≈0 (\"even a tiny bit above zero is too high\")",
+   "scope": "everybody on this planet getting killed",
+   "horizon": null,
+   "quote": "I think people are very bad on their probabilistic intuitions. If you ask the question, yes, 5% to 10% sounds way too high for, like, everybody on this planet getting killed. Don't think that's going to happen. Maybe even a tiny bit above zero is too high.",
+   "source_url": "https://omny.fm/shows/the-builders/peter-thiel",
+   "source_type": "podcast",
+   "date": "2026-10-22",
+   "verified": true,
+   "tags": [
+    "investor",
+    "movers-2026-10-26"
+   ],
+   "note": "The Builders with Walter Isaacson (iHeart), asked whether he worries \"whether it's 5% or 10%, that there is a doomsday scenario\". Quote from the show's published transcript (~00:20). Adds: \"it's always also risky not to innovate.\"",
+   "id": 326
+  },
+  {
+   "name": "Edouard Harris",
+   "role": "Co-founder and CTO, Gladstone AI",
+   "org": null,
+   "stake": "safety-org",
+   "low": 10,
+   "high": 90,
+   "label": "10–90%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "I like the Jan Leike cop-out, where he's, \"Well, it's between 10 and 90%.\" And it's a good range because it's high enough that we absolutely need to be prioritizing this above almost everything else, but it's low enough that it's not hopeless. So basically, I think that's roughly the point where we're at.",
+   "source_url": "https://lironshapira.substack.com/p/ai-chernobyl-jeremie-edouard-harris",
+   "source_type": "podcast",
+   "date": "2026-10-20",
+   "verified": true,
+   "tags": [
+    "doom-debates",
+    "safety",
+    "movers-2026-10-26"
+   ],
+   "note": "Doom Debates, 01:21:52.",
+   "id": 327
+  },
+  {
+   "name": "Jeremie Harris",
+   "role": "Co-founder and CEO, Gladstone AI",
+   "org": null,
+   "stake": "safety-org",
+   "low": 60,
+   "high": 70,
+   "label": "60–70%",
+   "scope": "weaponization or loss of control combined",
+   "horizon": "if things proceed as they appear to be proceeding",
+   "quote": "If we just in a vacuum say things proceed as they appear to be proceeding, what's your P? I'm pretty goddamn pessimistic, and some combination of weaponization versus loss of control — I don't know, I might be sitting at 60, 70%, something like that.",
+   "source_url": "https://lironshapira.substack.com/p/ai-chernobyl-jeremie-edouard-harris",
+   "source_type": "podcast",
+   "date": "2026-10-20",
+   "verified": true,
+   "tags": [
+    "doom-debates",
+    "safety",
+    "movers-2026-10-26"
+   ],
+   "note": "Doom Debates, same episode as his brother Edouard. Adds that \"a lot of the people in the frontier labs will tell you 10% or more\".",
+   "id": 328
+  },
+  {
+   "name": "Neel Nanda",
+   "role": "Mechanistic interpretability lead, Google DeepMind",
+   "org": null,
+   "stake": "lab",
+   "low": 10,
+   "high": 100,
+   "label": "≥10%",
+   "scope": "AI causes human extinction",
+   "horizon": null,
+   "quote": "I would put at least a ten percent chance that it causes human extinction, and that is ridiculously high.",
+   "source_url": "https://frominside.ai",
+   "source_type": "video",
+   "date": "2026-09-29",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "lab",
+    "safety",
+    "movers-2026-10-26"
+   ],
+   "note": "Palisade Research's \"From Inside\" interviews with frontier-lab staff (published Sept 29; Nanda from 0:43). His first public number since stating a policy of not giving one (80,000 Hours, 2025, in declined).",
+   "id": 329
+  },
+  {
+   "name": "US adults (ABC News / Washington Post / Ipsos, October 2026, n≈1,271)",
+   "role": "ABC News / Washington Post / Ipsos",
+   "org": null,
+   "stake": null,
+   "low": 33,
+   "high": 33,
+   "label": "33% see high risk",
+   "scope": "share who say there is a \"high risk of human extinction due to the growth of AI\"",
+   "horizon": null,
+   "quote": "One-third of Americans, 33%, say there is a high risk of human extinction due to the growth of AI",
+   "source_url": "https://abc7news.com/story/most-americans-say-ai-is-bad-society-oppose-more-data-centers-abcpostipsos-poll/19964027/",
+   "source_type": "poll",
+   "date": "2026-10-13",
+   "verified": true,
+   "tags": [
+    "survey",
+    "poll",
+    "public"
+   ],
+   "note": "Ipsos KnowledgePanel, Oct 9–13, 2026 (n=2,545; this question asked of a half-sample). Democrats 40%, independents 34%, Republicans 24%. A share of respondents, not a probability.",
+   "id": 330
+  },
+  {
+   "name": "Mike Solana",
+   "role": "Founder, Pirate Wires; CMO, Founders Fund",
+   "org": null,
+   "stake": "investor",
+   "low": 0,
+   "high": 0.1,
+   "label": "<0.1% (~1 in 1,000)",
+   "scope": "AI going badly enough that the whole world ends",
+   "horizon": null,
+   "quote": "So I resist the idea of applying a number to it. … [That having] been said, in the spirit of this conversation, sub 1%, sub a 10th of 1%, which I think is a lot actually. I think that's really, really high. … I think it's like a really big deal if there's a one in like a thousand chance of things going badly enough with artificial intelligence that the whole world ends.",
+   "source_url": "https://podcasters.spotify.com/pod/show/piratewires/episodes/Macron-Free-Speech-Is-BS--France-Riots--AI-Apocalypse--Aliens--more-e3q8inj",
+   "source_type": "podcast",
+   "date": "2026-10-09",
+   "verified": false,
+   "tags": [
+    "writer",
+    "investor",
+    "movers-2026-10-26"
+   ],
+   "note": "Pirate Wires podcast, 45:43–47:03. Quote from our machine transcription of the audio (two passes); speaker identified from the answer itself (\"I've written about it at Pirate Wires … Peter Thiel introduced this to me\") and a voice match. Says \"among optimists, I'm probably on the doomier side.\" Not yet checked by ear.",
+   "id": 331
   }
  ],
  "declined": [
@@ -7333,6 +7538,14 @@
    "date": "2026-10-18",
    "source_url": "https://www.20minutos.es/tecnologia/pepe-cerezo-tras-los-intereses-ia-trump-quiere-que-hablemos-una-superinteligencia-bajo-control-estados-unidos_7049607_0.html",
    "note": "Asked \"What probability do you think there is that AI kills all humans in the next decade?\" Translation: \"Whatever we want! … I don't think we should play the game of whether there's a 10, 20 or 30% chance humanity goes extinct. … And besides, nobody knows.\" (20minutos)"
+  },
+  {
+   "name": "Sanjana Friedman",
+   "role": "Writer, Pirate Wires",
+   "date": "2026-10-09",
+   "source_url": "https://podcasters.spotify.com/pod/show/piratewires/episodes/Macron-Free-Speech-Is-BS--France-Riots--AI-Apocalypse--Aliens--more-e3q8inj",
+   "quote": "I've never found P-dooms or even like general probabilities about catastrophic events to be particularly useful. … I guess I'm kind of hedging around your question. I don't have a P-doom.",
+   "note": "Asked \"What is your P-doom?\" on the Pirate Wires podcast, 44:20–45:41. Quote from our machine transcription of the audio; speaker identified by voice match against her own segment. Not yet checked by ear."
   }
  ],
  "stake_legend": {

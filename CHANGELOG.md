@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-10-26: weekly movers sweep (Oct 19 – 26)
+- **New:** Peter Thiel ≈0, "5% to 10% sounds way too high … Maybe even a tiny bit above zero is too high" (The Builders with Walter Isaacson, Oct 22). Edouard Harris (Gladstone AI) 10–90% and Jeremie Harris (Gladstone AI) 60–70% "if things proceed as they appear to be proceeding" (Doom Debates, Oct 20). Mike Solana (Pirate Wires, Founders Fund) "sub a tenth of 1%", "one in like a thousand" (Pirate Wires podcast, Oct 9; machine transcript, not yet checked by ear, so not marked verified). Matt Bateman 0 (X, Oct 20). Eric Siegel 0 (X, Oct 23).
+- **Changed:** Neel Nanda (Google DeepMind) "at least a ten percent chance that it causes human extinction" (Palisade Research's frominside.ai, published Sept 29), his first public number since his 2025 policy of not giving one. Roko Mijic "95%+" for the end of the world "on the current path" (X, Oct 18), after "like 36%" on Oct 4.
+- **Poll:** ABC News / Washington Post / Ipsos (Oct 9–13): 33% of US adults say there is a "high risk of human extinction due to the growth of AI".
+- **Declined (new):** Sanjana Friedman (Pirate Wires), "I don't have a P-doom" (same episode; machine transcript).
+- **Restated, no new row:** Geoffrey Hinton "more than 1%" (El País, Oct 21; the headline's "1%" misquotes him) and "above 1% and below 99% … 10% or 20%, which is what I've been saying" (Starmus, via La Vanguardia, Oct 25). Geoffrey Irving "about a coin flip" (frominside.ai). Alex Turner's frominside.ai figure (>50% that everyone dies, given AI takeover) is conditional and noted on his row.
+- **Checked and not added:** Benjamin Van Roy "a few percent every year" (a recoverable catastrophe, via a Japanese translation); Liv Boeree rejecting the question (machine transcript, unprompted); Reuben Davidson (Stuff page didn't load); Alex Turner "1 in 3 in 10 years" at NDTV (paraphrase only); Andrew Leigh "one in 10" (still behind Cloudflare); Nick Bostrom (not asked).
+- Median of people's latest numbers: 10.0% (n=238) → 10.0% (n=244).
+- 331 rows, 30 declined.
+
 ## 2026-10-19: weekly movers sweep (Oct 12 – 19)
 - **New:** Richard Socher (Recursive, You.com) 0, "the p(doom) probability of existentially wiping out humanity is zero from AI" (Fortune AI Weekly, Oct 13). Andrew Ng ≈0%, "no meaningful human existential risks from AI" (The Economist, Oct 13). Nicholas Agar (University of Waikato) "0.00002 or 0.000001" (ABC, Oct 13). Julian Stastny (Redwood Research) >10% (Hamburger Abendblatt, Oct 12, German). Han Sang-ki (Tech Frontier) >20% and rising, civilisational collapse (AI Post Korea, Oct 18, Korean).
 - **Changed:** Geoffrey Hinton 10–20% again (CNN, Oct 14), after 10% in September; he adds "there's no way to justify 10 percent or 20 percent". Eli Lifland ~67% AI takeover if the companies don't slow down, ~40% extinction given takeover (X, Oct 11); takeover up from ~50%.
