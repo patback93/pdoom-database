@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-10-26",
- "count": 331,
+ "updated": "2026-10-31",
+ "count": 334,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -7304,6 +7304,73 @@
    ],
    "note": "Pirate Wires podcast, 45:43–47:03. Quote from our machine transcription of the audio (two passes); speaker identified from the answer itself (\"I've written about it at Pirate Wires … Peter Thiel introduced this to me\") and a voice match. Says \"among optimists, I'm probably on the doomier side.\" Not yet checked by ear.",
    "id": 331
+  },
+  {
+   "name": "Roko Mijic",
+   "role": "Rationalist writer (Roko's basilisk)",
+   "org": null,
+   "stake": "independent",
+   "low": 35,
+   "high": 35,
+   "label": "~35%",
+   "scope": "AI disaster (\"a full-stack takeover of human society\")",
+   "horizon": null,
+   "quote": "AI disaster is going to look like a full-stack takeover of human society as we hand over more and more of it to machines. \n\nMy P(Doom) is like 35%",
+   "source_url": "https://x.com/RokoMijic/status/2115515095317103031",
+   "source_type": "x",
+   "date": "2026-10-28",
+   "verified": true,
+   "tags": [
+    "writer",
+    "x-watch",
+    "x-net-2026-10"
+   ],
+   "note": "Unconditional. His Oct 18 \"95%+\" was \"on the current path\"; this is back in his 35–40% range.",
+   "id": 332
+  },
+  {
+   "name": "Zack Korman",
+   "role": "Co-founder, Embroidery (AI cybersecurity)",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 1,
+   "label": "<1%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "my p(doom) is <1%",
+   "source_url": "https://x.com/ZackKorman/status/2115515572339249486",
+   "source_type": "x",
+   "date": "2026-10-28",
+   "verified": true,
+   "tags": [
+    "builder",
+    "x-net-2026-10"
+   ],
+   "note": "Reply to Roko Mijic.",
+   "id": 333
+  },
+  {
+   "name": "Julian Issa",
+   "role": "Host, The Beyond Tomorrow Podcast (AI and longevity)",
+   "org": null,
+   "stake": "media",
+   "low": 18,
+   "high": 18,
+   "label": "18%",
+   "scope": "AI going catastrophically wrong",
+   "horizon": null,
+   "quote": "My P(doom): the odds I give AI going catastrophically wrong. Right now, it's 18%, and every week I explain why it's moved in our brand-new Beyond Tomorrow newsletter.",
+   "source_url": "https://x.com/juliankissa/status/2115810526353674742",
+   "source_type": "x",
+   "date": "2026-10-29",
+   "verified": true,
+   "tags": [
+    "podcaster",
+    "x-net-2026-10"
+   ],
+   "note": "Says he will update it weekly in his newsletter.",
+   "id": 334
   }
  ],
  "declined": [

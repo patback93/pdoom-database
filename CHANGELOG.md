@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-31: Grok Bot dailies (Oct 26 – 31)
+- 78 new posts, 16 first-person. Three rows: Roko Mijic "like 35%" (Oct 28, unconditional; his Oct 18 "95%+" was on the current path), Zack Korman (Embroidery) <1% (Oct 28), Julian Issa (Beyond Tomorrow podcast) 18% (Oct 29).
+- Not added: Will Hurd "P(doom) is not zero" (no number); quiz results; jokes; accounts under the floor.
+- Median of people's latest numbers: 10.0% (n=246).
+- 334 rows.
+
 ## 2026-10-26: weekly movers sweep (Oct 19 – 26)
 - **New:** Peter Thiel ≈0, "5% to 10% sounds way too high … Maybe even a tiny bit above zero is too high" (The Builders with Walter Isaacson, Oct 22). Edouard Harris (Gladstone AI) 10–90% and Jeremie Harris (Gladstone AI) 60–70% "if things proceed as they appear to be proceeding" (Doom Debates, Oct 20). Mike Solana (Pirate Wires, Founders Fund) "sub a tenth of 1%", "one in like a thousand" (Pirate Wires podcast, Oct 9; machine transcript, not yet checked by ear, so not marked verified). Matt Bateman 0 (X, Oct 20). Eric Siegel 0 (X, Oct 23).
 - **Changed:** Neel Nanda (Google DeepMind) "at least a ten percent chance that it causes human extinction" (Palisade Research's frominside.ai, published Sept 29), his first public number since his 2025 policy of not giving one. Roko Mijic "95%+" for the end of the world "on the current path" (X, Oct 18), after "like 36%" on Oct 4.
