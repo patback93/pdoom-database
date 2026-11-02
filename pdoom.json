@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-10-31",
- "count": 334,
+ "updated": "2026-11-02",
+ "count": 336,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -90,7 +90,7 @@
     "researcher",
     "safety"
    ],
-   "note": "Originally in The Times (UK), quoted via TASS; conditional on no change of course. Told The Atlantic >50% within his lifetime.",
+   "note": "Originally in The Times (UK), quoted via TASS; conditional on no change of course. Told The Atlantic >50% within his lifetime. Oct 21, 2026 (The Atlantic, \"The Most Interesting Thing in AI\", ~18:30), asked about no living humans within a decade: \"More than 50% that we don't have a decade at this point\" (machine transcript; not yet checked by ear).",
    "id": 4
   },
   {
@@ -845,7 +845,7 @@
    "tags": [
     "podcaster"
    ],
-   "note": "Restated Oct 2, 2026 (Doom Debates x Nonzero): \"My P(Doom) is like fifty percent by 2050.\"",
+   "note": "Restated Oct 2, 2026 (Doom Debates x Nonzero): \"My P(Doom) is like fifty percent by 2050.\" Restated Oct 27, 2026 (00:16:29): \"my actual P(Doom) is more like 50%\" (lironshapira.substack.com/p/zack-korman-cybersecurity-expert).",
    "id": 38
   },
   {
@@ -7347,7 +7347,7 @@
     "builder",
     "x-net-2026-10"
    ],
-   "note": "Reply to Roko Mijic.",
+   "note": "Reply to Roko Mijic. Restated on Doom Debates, Oct 27 (00:12:14): \"let's say AI doom by 2050, sub 1%\" (lironshapira.substack.com/p/zack-korman-cybersecurity-expert).",
    "id": 333
   },
   {
@@ -7371,6 +7371,52 @@
    ],
    "note": "Says he will update it weekly in his newsletter.",
    "id": 334
+  },
+  {
+   "name": "Vitalik Buterin",
+   "role": "Co-founder, Ethereum",
+   "org": null,
+   "stake": "independent",
+   "low": 10,
+   "high": 10,
+   "label": "~10% (\"~0.1\")",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "my p(doom) is ~0.1\n\nwhat's yours?",
+   "source_url": "https://x.com/VitalikButerin/status/2116620122001707513",
+   "source_type": "x",
+   "date": "2026-10-31",
+   "verified": true,
+   "tags": [
+    "founder",
+    "doom-debates",
+    "x-net-2026-10"
+   ],
+   "note": "Reply on X. Written as a fraction, as in his 2023 \"around 0.1\". Down from about 12% (Aug 2025). Also on Silicon Valley 101 (E257, Oct 28, Chinese): \"I'd say 0.1. Why 0.1 and not 0.03, not 0.3? It's very hard to be more precise,\" defining it as AI \"or other risks\" ending humanity (machine transcript).",
+   "id": 335
+  },
+  {
+   "name": "Andrew Leigh",
+   "role": "Assistant Minister (Treasury), Australia; MP; author, What's the Worst That Could Happen?",
+   "org": null,
+   "stake": "government",
+   "low": 10,
+   "high": 10,
+   "label": "~10%",
+   "scope": "the world ends once AI systems become more capable than humans",
+   "horizon": null,
+   "quote": "I would have put my p(doom) at that stage at 5 per cent, that is the chance that the world ends once the systems become more capable than humans. Now I'd probably raise that to 10 per cent.",
+   "source_url": "https://ministers.treasury.gov.au/ministers/andrew-leigh-2025/transcripts/national-press-club-australia-qa-canberra",
+   "source_type": "speech",
+   "date": "2026-10-07",
+   "verified": true,
+   "tags": [
+    "politician",
+    "government",
+    "movers-2026-11-02"
+   ],
+   "note": "National Press Club Q&A, asked to \"have a crack at\" the chance of humanity ending. \"At that stage\" = his 2021 book, when he would have said 5%.",
+   "id": 336
   }
  ],
  "declined": [

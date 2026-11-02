@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-02: weekly movers sweep (Oct 26 – Nov 2)
+- **New:** Andrew Leigh (Australian Assistant Minister) ~10%, "Now I'd probably raise that to 10 per cent", up from 5% in 2021 (National Press Club Q&A, Oct 7; official transcript).
+- **Changed:** Vitalik Buterin ~0.1 (10%), down from about 12% (X, Oct 31; repeated on Silicon Valley 101, Oct 28).
+- **Restated, no new row:** Zack Korman "sub 1%" by 2050 and Liron Shapira "more like 50%" (Doom Debates, Oct 27). Nate Soares ">50% that we don't have a decade" (The Atlantic, Oct 21; machine transcript, noted on his row, not a new row because it is decade-scoped).
+- **Checked and not added:** Hans Moravec "50/50 oblivion" (New York magazine, paywalled, likely July); Chlöe Swarbrick "50/50" (Stuff headline only); Will Hurd "not zero" (no number); Benjamin Van Roy "a few percent a year" (a recoverable catastrophe); John Sherman "70%" (video title only).
+- Median of people's latest numbers: 10.0% (n=247).
+- 336 rows.
+
 ## 2026-10-31: Grok Bot dailies (Oct 26 – 31)
 - 78 new posts, 16 first-person. Three rows: Roko Mijic "like 35%" (Oct 28, unconditional; his Oct 18 "95%+" was on the current path), Zack Korman (Embroidery) <1% (Oct 28), Julian Issa (Beyond Tomorrow podcast) 18% (Oct 29).
 - Not added: Will Hurd "P(doom) is not zero" (no number); quiz results; jokes; accounts under the floor.
