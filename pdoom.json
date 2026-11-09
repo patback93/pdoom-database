@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-11-02",
- "count": 336,
+ "updated": "2026-11-09",
+ "count": 341,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -845,7 +845,7 @@
    "tags": [
     "podcaster"
    ],
-   "note": "Restated Oct 2, 2026 (Doom Debates x Nonzero): \"My P(Doom) is like fifty percent by 2050.\" Restated Oct 27, 2026 (00:16:29): \"my actual P(Doom) is more like 50%\" (lironshapira.substack.com/p/zack-korman-cybersecurity-expert).",
+   "note": "Restated Oct 2, 2026 (Doom Debates x Nonzero): \"My P(Doom) is like fifty percent by 2050.\" Restated Oct 27, 2026 (00:16:29): \"my actual P(Doom) is more like 50%\" (lironshapira.substack.com/p/zack-korman-cybersecurity-expert). Again Nov 3, 2026 (Steinhauser episode, 00:08:54): \"when you're fifty percent\".",
    "id": 38
   },
   {
@@ -4071,7 +4071,7 @@
     "x-net-2026-09",
     "x-watch"
    ],
-   "note": "Rates \"I(doom)\", inconvenience from AI attacks on infrastructure, much higher.",
+   "note": "Rates \"I(doom)\", inconvenience from AI attacks on infrastructure, much higher. Nov 6, 2026: \"My p(doom) moves asymptotically toward zero as I work daily with frontier AI models.\"",
    "id": 183
   },
   {
@@ -6653,7 +6653,7 @@
    "horizon": null,
    "source_type": "article",
    "verified": true,
-   "note": "In \"An Open Letter To Steven Pinker On AI\", part of a public exchange with Pinker. Down from ~33% (2023). Several X posts paraphrased it as 30–35%; the letter says 25–30%.",
+   "note": "In \"An Open Letter To Steven Pinker On AI\", part of a public exchange with Pinker. Down from ~33% (2023). Several X posts paraphrased it as 30–35%; the letter says 25–30%. Nov 2, 2026 on X: \"my unconditional p(doom) is 25%\" (x.com/slatestarcodex/status/2117060108215779609).",
    "name": "Scott Alexander",
    "role": "Writer, Astral Codex Ten",
    "stake": "media",
@@ -7417,6 +7417,119 @@
    ],
    "note": "National Press Club Q&A, asked to \"have a crack at\" the chance of humanity ending. \"At that stage\" = his 2021 book, when he would have said 5%.",
    "id": 336
+  },
+  {
+   "name": "Gregory M. Kurtzer",
+   "role": "CEO, CIQ; founder of Rocky Linux and CentOS",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 0,
+   "label": "0",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "BTW, my p(doom) is zero.",
+   "source_url": "https://x.com/gmkurtzer/status/2116922374780342631",
+   "source_type": "x",
+   "date": "2026-11-01",
+   "verified": true,
+   "tags": [
+    "builder",
+    "x-net-2026-11"
+   ],
+   "note": "Same day: \"p(doom) is the annihilation of the human race. I consider that boolean.\"",
+   "id": 337
+  },
+  {
+   "name": "Shelton Bumgarner",
+   "role": "Writer",
+   "org": null,
+   "stake": "independent",
+   "low": 5,
+   "high": 5,
+   "label": "~5%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "My p(doom) is about 5%. My p(transformation) is nearly 100%. The likeliest outcome isn't extinction. It's domestication: ASI treating humanity the way we treat dogs.",
+   "source_url": "https://x.com/sheltgarner/status/2118835201837093200",
+   "source_type": "x",
+   "date": "2026-11-06",
+   "verified": true,
+   "tags": [
+    "writer",
+    "x-net-2026-11"
+   ],
+   "note": null,
+   "id": 338
+  },
+  {
+   "name": "Clément Delangue",
+   "role": "Co-founder and CEO, Hugging Face",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 0,
+   "high": 0,
+   "label": "≈0 (\"close to zero\")",
+   "scope": "AI poses an existential risk to humanity",
+   "horizon": null,
+   "quote": "\"close to zero.\" \"There are many other topics that could destroy the world.\"",
+   "source_url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+   "source_type": "article",
+   "date": "2026-11-04",
+   "verified": true,
+   "tags": [
+    "builder",
+    "open-source",
+    "movers-2026-11-09"
+   ],
+   "note": "WIRED World Fair, Miami (Will Knight). Only \"close to zero\" is in his words; WIRED frames it as \"his P(doom)—the probability of this happening\". Argues the risk comes from \"a couple of players building behind closed doors\".",
+   "id": 339
+  },
+  {
+   "name": "Brendan Steinhauser",
+   "role": "CEO, Alliance for Secure AI",
+   "org": null,
+   "stake": "safety-org",
+   "low": 9,
+   "high": 10,
+   "label": "9–10%",
+   "scope": "human extinction",
+   "horizon": null,
+   "quote": "I think my P Doom, if you're talking specifically about human extinction, is probably nine or ten percent. But if you're talking about a major catastrophic event that kills millions of people and does a lot of damage, that would be considered just massively disruptive to humanity, I think that's closer to twenty to twenty-five percent.",
+   "source_url": "https://lironshapira.substack.com/p/can-republicans-stop-ai-doom-brendan",
+   "source_type": "podcast",
+   "date": "2026-11-03",
+   "verified": true,
+   "tags": [
+    "doom-debates",
+    "safety",
+    "movers-2026-11-09"
+   ],
+   "note": "Doom Debates, 00:08:06. 20–25% for a catastrophe that kills millions.",
+   "id": 340
+  },
+  {
+   "name": "Randan Steinhauser",
+   "role": "Leads the Faith Coalition, Alliance for Secure AI; podcast host",
+   "org": null,
+   "stake": "safety-org",
+   "low": 20,
+   "high": 20,
+   "label": "~20%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "I'm consistently at, like, twenty percent, which feels really terrifying.",
+   "source_url": "https://lironshapira.substack.com/p/can-republicans-stop-ai-doom-brendan",
+   "source_type": "podcast",
+   "date": "2026-11-03",
+   "verified": true,
+   "tags": [
+    "doom-debates",
+    "safety",
+    "movers-2026-11-09"
+   ],
+   "note": "Doom Debates, 00:08:29.",
+   "id": 341
   }
  ],
  "declined": [

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-09: weekly movers sweep (Nov 2 – 9)
+- **New:** Clément Delangue (Hugging Face) "close to zero" (WIRED World Fair, Nov 4). Brendan Steinhauser (Alliance for Secure AI) 9–10% for extinction, 20–25% for a catastrophe that kills millions, and Randan Steinhauser ~20% (Doom Debates, Nov 3). Gregory Kurtzer (CIQ) 0 and Shelton Bumgarner ~5% (X).
+- **Restated, no new row:** Scott Alexander "my unconditional p(doom) is 25%" (X, Nov 2), Liron Shapira 50%, Kenneth Folk "toward zero".
+- **Checked and not added:** New Zealand's Stuff asked party spokespeople for their p(doom) ahead of the election: Penny Simmonds (National) "two percent", David Wilson (NZ First) "one in five", Holly Knill (TOP) "one percent", Chlöe Swarbrick (Greens) "50/50", David Seymour (ACT) no number. Stuff's pages load by script and couldn't be read, so these wait for a human read. Also: a six-author op-ed calling p(doom) "minuscule" (normative, group); bioshok "9割以上" (video title only); Séb Krier (not asked).
+- Median of people's latest numbers: 10.0% (n=252).
+- 341 rows.
+
 ## 2026-11-02: weekly movers sweep (Oct 26 – Nov 2)
 - **New:** Andrew Leigh (Australian Assistant Minister) ~10%, "Now I'd probably raise that to 10 per cent", up from 5% in 2021 (National Press Club Q&A, Oct 7; official transcript).
 - **Changed:** Vitalik Buterin ~0.1 (10%), down from about 12% (X, Oct 31; repeated on Silicon Valley 101, Oct 28).
