@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-11-16: weekly movers sweep (Nov 9 – 16)
+- **Changed:** Paul Christiano "something like a coin flip of an AI takeover" if AI is built "along the most rapid trajectory" (Hinton Lectures, Toronto, Nov 9; transcript and Ars Technica); conditional, with no unconditional number ("exceptionally high"). Emad Mostaque 50% → 20% (Moonshots #311, Nov 14; machine transcript, not marked verified).
+- **New:** Prakash Narayanan (AI in the AM) 0–5%, "literally zero" by 2050 (Doom Debates, Nov 10). Alex Nowrasteh (Cato Institute) ≈0 and Richard Brubaker 0 (X, Nov 12).
+- **Declined (new):** Rep. Greg Casar, "I don't have to be the person that knows that number" (NPR Machine Gods, Nov 11).
+- **Restated, no new row:** Mike Israetel ≈0% and Roman Yampolskiy "close to one" (Beyond Tomorrow, Nov 11); Liron Shapira 50%.
+- **Checked and not added:** Buck Shlegeris "maybe 20 percent" within a year (his post couldn't be read); George Kurtz "not a 10% chance" (no number of his own); Manny Rutinel "10 percent" (NYT, Oct 20; not yet read); the NZ Stuff series (still unreadable); Kevin Roose "10 or so percent" (restatement, unread).
+- Median of people's latest numbers: 10.0% (n=255).
+- 346 rows, 31 declined.
+
 ## 2026-11-09: weekly movers sweep (Nov 2 – 9)
 - **New:** Clément Delangue (Hugging Face) "close to zero" (WIRED World Fair, Nov 4). Brendan Steinhauser (Alliance for Secure AI) 9–10% for extinction, 20–25% for a catastrophe that kills millions, and Randan Steinhauser ~20% (Doom Debates, Nov 3). Gregory Kurtzer (CIQ) 0 and Shelton Bumgarner ~5% (X).
 - **Restated, no new row:** Scott Alexander "my unconditional p(doom) is 25%" (X, Nov 2), Liron Shapira 50%, Kenneth Folk "toward zero".

@@ -2,8 +2,8 @@
  "title": "The p(doom) database",
  "description": "Public, self-stated estimates of the probability that advanced AI causes human extinction or a comparable catastrophe. One row per statement, each with a source. Maintained at pdoomcoin.lol; contributions via GitHub.",
  "license": "CC-BY-4.0",
- "updated": "2026-11-09",
- "count": 341,
+ "updated": "2026-11-16",
+ "count": 346,
  "entries": [
   {
    "name": "Roman Yampolskiy",
@@ -24,7 +24,7 @@
     "researcher",
     "safety"
    ],
-   "note": null,
+   "note": "Nov 11, 2026 (Beyond Tomorrow, vs Mike Israetel): \"my P doom is pretty high, close to one\" (machine transcript).",
    "id": 1
   },
   {
@@ -845,7 +845,7 @@
    "tags": [
     "podcaster"
    ],
-   "note": "Restated Oct 2, 2026 (Doom Debates x Nonzero): \"My P(Doom) is like fifty percent by 2050.\" Restated Oct 27, 2026 (00:16:29): \"my actual P(Doom) is more like 50%\" (lironshapira.substack.com/p/zack-korman-cybersecurity-expert). Again Nov 3, 2026 (Steinhauser episode, 00:08:54): \"when you're fifty percent\".",
+   "note": "Restated Oct 2, 2026 (Doom Debates x Nonzero): \"My P(Doom) is like fifty percent by 2050.\" Restated Oct 27, 2026 (00:16:29): \"my actual P(Doom) is more like 50%\" (lironshapira.substack.com/p/zack-korman-cybersecurity-expert). Again Nov 3, 2026 (Steinhauser episode, 00:08:54): \"when you're fifty percent\". Again Nov 13, 2026: \"about 50/50\".",
    "id": 38
   },
   {
@@ -3067,7 +3067,7 @@
     "other",
     "doom-debates"
    ],
-   "note": "No exact figure; \"zeros repeating and then one somewhere down.\"",
+   "note": "No exact figure; \"zeros repeating and then one somewhere down.\" Restated Nov 11, 2026 after debating Roman Yampolskiy on Beyond Tomorrow: \"my p(doom) ≈ 0%\" (x.com/misraetel/status/2120576097737994563).",
    "id": 139
   },
   {
@@ -7530,6 +7530,117 @@
    ],
    "note": "Doom Debates, 00:08:29.",
    "id": 341
+  },
+  {
+   "name": "Alex Nowrasteh",
+   "role": "Senior vice president for policy, Cato Institute",
+   "org": null,
+   "stake": "independent",
+   "low": 0,
+   "high": 0,
+   "label": "≈0",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "My p(doom) is ~0 and the precautionary principle is a bad model for risk mitigation.",
+   "source_url": "https://x.com/AlexNowrasteh/status/2120861537170862486",
+   "source_type": "x",
+   "date": "2026-11-12",
+   "verified": true,
+   "tags": [
+    "policy",
+    "x-net-2026-11"
+   ],
+   "note": null,
+   "id": 342
+  },
+  {
+   "name": "Richard Brubaker",
+   "role": "Sustainability and innovation adviser, Asia",
+   "org": null,
+   "stake": "independent",
+   "low": 0,
+   "high": 0,
+   "label": "0",
+   "scope": "p(doom) for humanity as a whole",
+   "horizon": null,
+   "quote": "Given a sizable amount of humanity is not even connected to a grid (energy/ telecom) and works the land… my p(doom) for humanity writ large is zero.",
+   "source_url": "https://x.com/richbrubaker/status/2120775232873189570",
+   "source_type": "x",
+   "date": "2026-11-12",
+   "verified": true,
+   "tags": [
+    "x-net-2026-11"
+   ],
+   "note": "Reply in a thread about AI risk.",
+   "id": 343
+  },
+  {
+   "name": "Paul Christiano",
+   "role": "Board member, OpenAI Foundation; founder, Alignment Research Center",
+   "org": null,
+   "stake": "ex-lab",
+   "low": 50,
+   "high": 50,
+   "label": "~50% (\"a coin flip\")",
+   "scope": "AI takeover",
+   "horizon": "if AI continues on \"the most rapid trajectory\"",
+   "quote": "So my feeling is if we try to develop AI along the most rapid trajectory, if we said we're just going to build this as quickly as we can in the easiest way we can, we would be looking at something like a coin flip of an AI takeover. I hope the probability is much lower than that because we are not going to develop the technology in the very fastest way we can. But I think even all things considered, with realistic policy responses, the risk remains exceptionally high.",
+   "source_url": "https://singjupost.com/paul-christiano-ai-alignment-whats-working-and-whats-not-the-hinton-lectures-2026-transcript/",
+   "source_type": "speech",
+   "date": "2026-11-09",
+   "verified": true,
+   "tags": [
+    "researcher",
+    "safety",
+    "ex-lab",
+    "movers-2026-11-16"
+   ],
+   "note": "Hinton Lectures 2026, night 1, Toronto (video: youtube.com/watch?v=-Ef0ocEoBCs; also quoted by Ars Technica). Conditional on the fastest trajectory; gives no unconditional number (\"exceptionally high\") and says no \"quantitative model\" can \"put a number on this\". Adds: \"for most people in this room, the most likely reason they will die is because of an AI accident.\"",
+   "id": 344
+  },
+  {
+   "name": "Prakash Narayanan",
+   "role": "Host, AI in the AM (@8teAPi, ~58k followers)",
+   "org": null,
+   "stake": "media",
+   "low": 0,
+   "high": 5,
+   "label": "0–5% (0 by 2050)",
+   "scope": "p(doom); by 2050 \"literally zero\"",
+   "horizon": null,
+   "quote": "My P(Doom) right now I would say is probably 0%. On the low end, maybe 5% on the high end. … So somewhere between 0 and 5%.",
+   "source_url": "https://lironshapira.substack.com/p/zero-chance-of-ai-doom-prakash-narayanan",
+   "source_type": "podcast",
+   "date": "2026-11-10",
+   "verified": true,
+   "tags": [
+    "doom-debates",
+    "movers-2026-11-16"
+   ],
+   "note": "Doom Debates, 00:07:23. For doom by 2050: \"Literally zero.\" On X after the episode: \"My p(doom) remains 0.\"",
+   "id": 345
+  },
+  {
+   "name": "Emad Mostaque",
+   "role": "Founder, Stability AI",
+   "org": null,
+   "stake": "ai-industry",
+   "low": 20,
+   "high": 20,
+   "label": "20%",
+   "scope": "p(doom)",
+   "horizon": null,
+   "quote": "My PDOOM was 50%. I've dropped it down to 20% now, because I think the underlying structure of the universe is becoming more and more clear. And I think you can get alignment from that.",
+   "source_url": "https://traffic.megaphone.fm/DVVTS2480478304.mp3",
+   "source_type": "podcast",
+   "date": "2026-11-14",
+   "verified": false,
+   "tags": [
+    "founder",
+    "movers-2026-11-16"
+   ],
+   "note": "Moonshots #311, ~43:56, asked \"So what is your PDOOM?\". Quote from our machine transcript of the audio; not yet checked by ear.",
+   "id": 346
   }
  ],
  "declined": [
@@ -7772,6 +7883,14 @@
    "source_url": "https://podcasters.spotify.com/pod/show/piratewires/episodes/Macron-Free-Speech-Is-BS--France-Riots--AI-Apocalypse--Aliens--more-e3q8inj",
    "quote": "I've never found P-dooms or even like general probabilities about catastrophic events to be particularly useful. … I guess I'm kind of hedging around your question. I don't have a P-doom.",
    "note": "Asked \"What is your P-doom?\" on the Pirate Wires podcast, 44:20–45:41. Quote from our machine transcription of the audio; speaker identified by voice match against her own segment. Not yet checked by ear."
+  },
+  {
+   "name": "Greg Casar",
+   "role": "US Representative (Texas); chair, Congressional Progressive Caucus",
+   "date": "2026-11-11",
+   "source_url": "https://www.npr.org/transcripts/nx-s1-6036816",
+   "quote": "I kinda put my head down and go, like, \"No— like, I don't have to be the person that knows that number.\" I probably wake up some days here, wake up some days there.",
+   "note": "Asked \"Congressman, what's your P(doom)?\" on NPR's Machine Gods (Kevin Roose and Casey Newton)."
   }
  ],
  "stake_legend": {
